@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-14T05:45:31.079Z</updated>
+    <updated>2020-03-14T07:06:35.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://loctopus-hyt.github.io/loctopus.github.io/images/avatar.png</logo>
     <icon>https://loctopus-hyt.github.io/loctopus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, loctopus</rights>
+    <entry>
+        <title type="html"><![CDATA[遇见OI]]></title>
+        <id>https://loctopus-hyt.github.io/loctopus.github.io/post/yu-jian-oi/</id>
+        <link href="https://loctopus-hyt.github.io/loctopus.github.io/post/yu-jian-oi/">
+        </link>
+        <updated>2020-03-14T05:15:32.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://loctopus-hyt.github.io/loctopus.github.io/post/hello-gridea/</id>
