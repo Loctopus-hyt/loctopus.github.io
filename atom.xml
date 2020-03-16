@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-16T07:38:16.725Z</updated>
+    <updated>2020-03-16T09:20:17.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -125,18 +125,30 @@
         </tr>
         <tr>
             <th>16:00-16:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>活动<strong>|</strong>洗澡</th>
+            <th>3</th>
+            <th>然而拖了十分钟</th>
         </tr>
         <tr>
             <th>16:30-17:00</th>
+            <th>洗澡<strong>|</strong>测试Gridea源文件转移</th>
+            <th>3</th>
+            <th>完美，被自己机智到不行</th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
             <th></th>
             <th></th>
             <th></th>
         </tr>
         <tr>
-            <th>17:00-18:30</th>
+            <th>17：30-18:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
             <th></th>
             <th></th>
             <th></th>
@@ -198,11 +210,11 @@
         </link>
         <updated>2020-03-14T05:15:32.000Z</updated>
         <summary type="html"><![CDATA[<p>  [鸡汤预警]<br>
-  我永远都没有长大    但我永远都没有停止生长<br>
+  我永远都没有长大    但我永远都没有停止生长    ——阿瑟·克拉克<br>
   谨以此篇，纪念我OI生活的开始。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>  [鸡汤预警]<br>
-  我永远都没有长大    但我永远都没有停止生长<br>
+  我永远都没有长大    但我永远都没有停止生长    ——阿瑟·克拉克<br>
   谨以此篇，纪念我OI生活的开始。</p>
 <!-- more -->
 <blockquote>
@@ -234,7 +246,7 @@
 </blockquote>
 <p>III.</p>
 <hr>
-<p>  其实遇见OI吧，说巧也巧，说不巧也不巧。说巧的是19年初夏的那份通告，出现得猝不及防，让我心烦意乱了好几个月，最后舍鸣阳而取凤凰者也。说不巧的是去福一选择的大概也是OI。福一我心心念念了三年，却只在中考过后的那个暑假，趁着学生搬书开放的日子溜进去过一趟，蓝天，绿树，红墙，凤池边，看自在飞花轻似梦，朦胧淡云来去，满足了我那时对美好的一切想象。</p>
+<p>  其实遇见OI吧，说巧也巧，说不巧也不巧。说巧的是19年初夏的那份通告，出现得猝不及防，让我心烦意乱了好几个月，最后舍鸣阳而取凤凰者也。说不巧的是去福一选择的大概也是OI。福一我心心念念了几年，却只在中考过后的那个暑假，趁着学生搬书开放的日子溜进去过一趟，蓝天，绿树，红墙，凤池边，看自在飞花轻似梦，朦胧淡云来去，满足了我那时对美好的一切想象。</p>
 <blockquote>
 <p>  从别后，忆想逢，几回魂梦与君同。今宵剩把银釭照，犹恐相逢是梦中。<br>
                           ——晏几道《鹧鸪天》</p>
