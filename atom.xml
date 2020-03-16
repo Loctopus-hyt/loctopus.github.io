@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-16T07:18:46.701Z</updated>
+    <updated>2020-03-16T07:20:43.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, loctopus</rights>
     <entry>
         <title type="html"><![CDATA[20.03.16|新的开始]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/200316orxin-de-kai-shi/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/200316orxin-de-kai-shi/">
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/200316/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/200316/">
         </link>
         <updated>2020-03-16T00:39:55.000Z</updated>
         <content type="html"><![CDATA[<p><strong>天气：晴</strong>                                    <strong>Mon   星期一</strong></p>
@@ -190,8 +190,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[遇见OI]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/yu-jian-oi/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/yu-jian-oi/">
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Meetoi/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Meetoi/">
         </link>
         <updated>2020-03-14T05:15:32.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
