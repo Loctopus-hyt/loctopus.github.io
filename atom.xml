@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-16T07:20:43.284Z</updated>
+    <updated>2020-03-16T07:35:34.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -16,7 +16,10 @@
         <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/200316/">
         </link>
         <updated>2020-03-16T00:39:55.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>天气：晴</strong>                                    <strong>Mon   星期一</strong></p>
+        <summary type="html"><![CDATA[<p>  <strong>天气：晴</strong>         <strong>Mon   星期一</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  <strong>天气：晴</strong>         <strong>Mon   星期一</strong></p>
+<!-- more -->
 <table bgcolor="white"><tbody>
         <tr>
             <th align="center" width="150" >时间</th>
@@ -194,14 +197,21 @@
         <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Meetoi/">
         </link>
         <updated>2020-03-14T05:15:32.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
+        <summary type="html"><![CDATA[<p>  [鸡汤预警]<br>
+  我永远都没有长大    但我永远都没有停止生长<br>
+  谨以此篇，纪念我OI生活的开始。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  [鸡汤预警]<br>
+  我永远都没有长大    但我永远都没有停止生长<br>
+  谨以此篇，纪念我OI生活的开始。</p>
+<!-- more -->
+<blockquote>
 <p> [雨滴-赵海洋]<br>
 <audio autoplay loop id="audio" controls="" preload="auto"><br>
 <source id="mp4" src="http://link.hhtjim.com/163/524080938.mp3"><br>
 </audio></p>
 </blockquote>
-<p>  [鸡汤预警]<br>
-               遇见OI的第 <strong>226</strong> 天。<br>
+<p>               遇见OI的第 <strong>226</strong> 天。<br>
   最近几天下了雨，上高中后真觉得雨是个稀罕物。<br>
   不知不觉也这么久了，当然比起那些小学四五年级就开始的巨佬们并不算久。高中起点大概就是这样吧，时间永远是紧张的。就像hzw在博客里写的那样</p>
 <blockquote>
