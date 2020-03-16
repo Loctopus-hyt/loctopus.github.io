@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://loctopus-hyt.github.io/loctopus.github.io/</id>
+    <id>https://lamb-hyj.github.io/lamb.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-16T02:55:53.529Z</updated>
+    <updated>2020-03-16T05:05:39.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://loctopus-hyt.github.io/loctopus.github.io/"/>
-    <link rel="self" href="https://loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
+    <link rel="alternate" href="https://lamb-hyj.github.io/lamb.github.io/"/>
+    <link rel="self" href="https://lamb-hyj.github.io/lamb.github.io/atom.xml"/>
     <subtitle>我永远都没有长大  但我永远都没有停止生长</subtitle>
-    <logo>https://loctopus-hyt.github.io/loctopus.github.io/images/avatar.png</logo>
-    <icon>https://loctopus-hyt.github.io/loctopus.github.io/favicon.ico</icon>
+    <logo>https://lamb-hyj.github.io/lamb.github.io/images/avatar.png</logo>
+    <icon>https://lamb-hyj.github.io/lamb.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, loctopus</rights>
     <entry>
         <title type="html"><![CDATA[20.03.16|新的开始]]></title>
-        <id>https://loctopus-hyt.github.io/loctopus.github.io/post/200316orxin-de-kai-shi/</id>
-        <link href="https://loctopus-hyt.github.io/loctopus.github.io/post/200316orxin-de-kai-shi/">
+        <id>https://lamb-hyj.github.io/lamb.github.io/post/200316orxin-de-kai-shi/</id>
+        <link href="https://lamb-hyj.github.io/lamb.github.io/post/200316orxin-de-kai-shi/">
         </link>
         <updated>2020-03-16T00:39:55.000Z</updated>
         <content type="html"><![CDATA[<p><strong>天气：晴</strong>                                    <strong>Mon   星期一</strong></p>
@@ -190,8 +190,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[遇见OI]]></title>
-        <id>https://loctopus-hyt.github.io/loctopus.github.io/post/yu-jian-oi/</id>
-        <link href="https://loctopus-hyt.github.io/loctopus.github.io/post/yu-jian-oi/">
+        <id>https://lamb-hyj.github.io/lamb.github.io/post/yu-jian-oi/</id>
+        <link href="https://lamb-hyj.github.io/lamb.github.io/post/yu-jian-oi/">
         </link>
         <updated>2020-03-14T05:15:32.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
@@ -248,8 +248,8 @@ color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://loctopus-hyt.github.io/loctopus.github.io/post/hello-gridea/</id>
-        <link href="https://loctopus-hyt.github.io/loctopus.github.io/post/hello-gridea/">
+        <id>https://lamb-hyj.github.io/lamb.github.io/post/hello-gridea/</id>
+        <link href="https://lamb-hyj.github.io/lamb.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
