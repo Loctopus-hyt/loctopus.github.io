@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-16T07:37:49.157Z</updated>
+    <updated>2020-03-16T07:38:16.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, loctopus</rights>
     <entry>
         <title type="html"><![CDATA[20.03.16|新的开始]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/200316/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/200316/">
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary-200316/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary-200316/">
         </link>
         <updated>2020-03-16T00:39:55.000Z</updated>
         <summary type="html"><![CDATA[<p>  <strong>天气:晴</strong>             <strong>Mon   星期一</strong></p>
