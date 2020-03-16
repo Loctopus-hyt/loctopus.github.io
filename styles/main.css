@@ -766,3 +766,12 @@ a {
         margin-left: 400px;
       }
     
+      
+<!-- 实时天气 -->
+<div id="weather-view-he"></div>
+<script>
+WIDGET = {ID: 'cJQMMmPeXG'};
+</script>
+<script type="text/javascript" src="https://apip.weatherdt.com/view/static/js/r.js?v=1111"></script>
+
+    
