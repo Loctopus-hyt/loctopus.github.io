@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-17T12:47:38.028Z</updated>
+    <updated>2020-03-17T14:43:56.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -29,6 +29,17 @@
     <strong></strong> 加粗
     <br>                         换行标签
 -->
+<p>  今天 ?????<br>
+  小问号你是否有很多朋友？<br>
+  数学考试计算错误，符号写错绕了很多弯路，要总结一下思路。生物老师自以为把时间的分寸拿捏的死死的，却没想到是三十分下课而不是四十分。政治老师成为了第一个全程露脸上完课的老师，真的很好奇那是她家吗，她家的布局到底是什么样的。化学老师杀的那个回马枪，作业是布置了，可人早就溜了一大半了呀...<br>
+  emm...<br>
+  晚上本来雄心壮志，汇总作业，英语仿写，在搞一个数位DP，完美，可...汇总作业一个小时，英语仿写一个半，吐，都是之前欠下的债，语文老师反复强调的那句今日事今日毕可真是真谛啊（<s>然而我早就发现了，可臣妾做不到啊</s>）<br>
+  睡觉去啦~(～￣▽￣)～</p>
+<blockquote>
+<p>对于第三人称的角度而言  也明白其实每个人都有缺陷<br>
+才不断地追寻更好的自己  直到青春一定程度的浪费  才觉得可贵<br>
+                          ——《起风了》买辣椒也用券</p>
+</blockquote>
 <p>附：时间表</p>
 <table><tbody>
         <tr>
@@ -173,7 +184,7 @@
             <th>18:30-19:00</th>
             <th>吃晚饭</th>
             <th>3</th>
-            <th></th>
+            <th>是不是吃了好久</th>
         </tr>
         <tr>
             <th>19:00-19:30</th>
@@ -196,26 +207,26 @@
         <tr>
             <th>20:30-21:00</th>
             <th>休息<strong>|</strong>英语仿写</th>
-            <th>3.5</th>
-            <th></th>
+            <th>4</th>
+            <th>晚上栽这了QAQ</th>
         </tr>
         <tr>
             <th>21:00-21:30</th>
             <th>英语仿写</th>
-            <th>4</th>
-            <th></th>
+            <th>4.5</th>
+            <th>栽这了</th>
         </tr>
         <tr>
             <th>21:30-22:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>英语仿写</th>
+            <th>4.5</th>
+            <th>栽这了了了 啊啊啊</th>
         </tr>
         <tr>
             <th>22:00-22:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>英语仿写<strong>|</strong>日记</th>
+            <th>4</th>
+            <th>呼～～</th>
         </tr>
 </table>]]></content>
     </entry>
