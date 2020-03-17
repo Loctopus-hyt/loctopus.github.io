@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-17T07:34:50.323Z</updated>
+    <updated>2020-03-17T09:38:15.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -47,7 +47,7 @@
             <th>8:00-8:30</th>
             <th>数学考试</th>
             <th>4</th>
-            <th></th>
+            <th>没人告诉我7:50开始啊</th>
         </tr>
         <tr>
             <th>8:30-9:00</th>
@@ -77,13 +77,13 @@
             <th>10:30-11:00</th>
             <th>生物课<strong>|</strong>课间休息</th>
             <th>3.5</th>
-            <th></th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>11:00-11:30</th>
             <th>生物课</th>
             <th>4</th>
-            <th></th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>11:30-12:00</th>
@@ -105,15 +105,15 @@
         </tr>
         <tr>
             <th>13:00-13:30</th>
-            <th></th>
-            <th></th>
+            <th>数位DP<strong>|</strong>研究主题</th>
+            <th>2.5</th>
             <th></th>
         </tr>
         <tr>
             <th>13:30-14:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>研究主题</th>
+            <th>2</th>
+            <th>总觉得每次都研究不出什么</th>
         </tr>
         <tr>
             <th>14:00-14:30</th>
@@ -124,43 +124,43 @@
         <tr>
             <th>14:30-15:00</th>
             <th>政治课<strong>|</strong>课间休息</th>
-            <th></th>
-            <th></th>
+            <th>3</th>
+            <th>某人(hyj)有点吵</th>
         </tr>
         <tr>
             <th>15:00-15:30</th>
             <th>政治课<strong>|</strong>吃东西</th>
-            <th></th>
-            <th></th>
+            <th>3</th>
+            <th>不是有点</th>
         </tr>
         <tr>
             <th>15:30-16:00</th>
-            <th></th>
-            <th></th>
+            <th>休息<strong>|</strong>活动</th>
+            <th>3</th>
             <th></th>
         </tr>
         <tr>
             <th>16:00-16:30</th>
-            <th></th>
-            <th></th>
+            <th>化学课<strong>|</strong>整理电脑</th>
+            <th>2.5</th>
             <th></th>
         </tr>
         <tr>
             <th>16:30-17:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>化学课<strong>|</strong>课间休息<strong>|</strong>整理电脑</th>
+            <th>2.5</th>
+            <th>都要记得做眼保健操哦</th>
         </tr>
         <tr>
             <th>17:00-17:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>化学课<strong>|</strong>整理电脑</th>
+            <th>2.5</th>
+            <th>emm...</th>
         </tr>
         <tr>
             <th>17:30-18:00</th>
-            <th></th>
-            <th></th>
+            <th><strong>|</strong>写记录写日记<strong>|</strong>汇总作业</th>
+            <th>3.5</th>
             <th></th>
         </tr>
         <tr>
