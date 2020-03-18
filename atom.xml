@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-18T01:38:40.866Z</updated>
+    <updated>2020-03-18T04:57:07.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -65,42 +65,42 @@
             <th>9:30-10:00</th>
             <th>舒活舒活筋骨，抖擞抖擞精神</th>
             <th>3</th>
-            <th></th>
+            <th align="center">前面做快点<br>后面做慢点</th>
         </tr>
         <tr>
             <th>10:00-10:30</th>
             <th>语文课</th>
             <th>4.5</th>
-            <th></th>
+            <th>好多</th>
         </tr>
         <tr>
             <th>10:30-11:00</th>
             <th>语文课<strong>|</strong>课间休息</th>
-            <th></th>
+            <th>4</th>
             <th></th>
         </tr>
         <tr>
             <th>11:00-11:30</th>
             <th>语文课</th>
-            <th></th>
-            <th></th>
+            <th>4</th>
+            <th>朗读者大型文化综艺现场</th>
         </tr>
         <tr>
             <th>11:30-12:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>收拾桌面<strong>|</strong>闲逛<strong>|</strong>处理网站"杂务"</th>
+            <th>3</th>
+            <th>有点~~闲~~废</th>
         </tr>
         <tr>
             <th>12:00-12:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>ppball<strong>|</strong>吃饭</th>
+            <th>3</th>
+            <th>上面也打了会儿ppball</th>
         </tr>
         <tr>
             <th>12:30-13:00</th>
-            <th></th>
-            <th></th>
+            <th>吃饭<strong>|</strong>汇总作业<strong>|</strong>...</th>
+            <th>3</th>
             <th></th>
         </tr>
         <tr>
