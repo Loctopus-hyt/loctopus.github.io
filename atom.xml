@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-19T06:02:52.440Z</updated>
+    <updated>2020-03-19T08:55:38.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -124,38 +124,38 @@
         <tr>
             <th>14:00-14:30</th>
             <th>化学课</th>
-            <th></th>
-            <th></th>
+            <th>4.5</th>
+            <th>今天课听得都挺认真的</th>
         </tr>
         <tr>
             <th>14:30-15:00</th>
             <th>化学课<strong>|</strong>课间休息</th>
-            <th></th>
-            <th></th>
+            <th>4</th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>15:00-15:30</th>
             <th>化学课</th>
-            <th></th>
-            <th></th>
+            <th>4.5</th>
+            <th>滑稽一下</th>
         </tr>
         <tr>
             <th>15:30-16:00</th>
-            <th></th>
-            <th></th>
+            <th>重启电脑<strong>|</strong>化学预习</th>
+            <th>3</th>
             <th></th>
         </tr>
         <tr>
             <th>16:00-16:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>化学预习<strong>|</strong>问老师问题<strong>|</strong>看资讯</th>
+            <th>2.5</th>
+            <th>居然看了亿点点资讯</th>
         </tr>
         <tr>
             <th>16:30-17:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>看资讯<strong>|</strong>数位DP</th>
+            <th>2.5</th>
+            <th>好气<(－︿－)></th>
         </tr>
         <tr>
             <th>17:00-17:30</th>
