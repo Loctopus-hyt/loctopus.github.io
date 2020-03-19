@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-19T14:41:31.695Z</updated>
+    <updated>2020-03-19T14:46:28.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://Loctopus-hyt.github.io/loctopus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, loctopus</rights>
     <entry>
-        <title type="html"><![CDATA[20.03.19|无题]]></title>
+        <title type="html"><![CDATA[20.03.19|有故事的一天]]></title>
         <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200319/</id>
         <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200319/">
         </link>
@@ -37,7 +37,7 @@
   可...童话里都是骗人的。<br>
   没有王子的英俊和公主的美貌，有的只是瘆人的大眼和经典土味蓝配粉...<br>
 <img src="https://Loctopus-hyt.github.io/loctopus.github.io//post-images/1584628081850.png" alt="H与Cl的童话故事" loading="lazy"><br>
-—————————————————我是一条分割线，分割本领强————————————————<br>
+————————————————我是一条分割线，分割本领强———————————————<br>
   言归正传。<br>
   物理课上的物理老师翻车现场和评论区尴尬事件，英语课的逻辑感爆棚，以及化学课上的爱情故事，突然刷波存在感的小爱同学，全部挤在了今天。今天开了亿点点咨询，不爽。<br>
   研究了几天的数位DP终于差不多搞懂了，是时候写篇学习笔记了。<br>
@@ -114,7 +114,7 @@
             <th>12:00-12:30</th>
             <th>吃饭<strong>|</strong>作业汇总<strong>|</strong>加歌</th>
             <th>2.5</th>
-            <th>有史以来最好吃的一次炒面</th>
+            <th align="center">有史以来<br>最好吃的一次炒面</th>
         </tr>
         <tr>
             <th>12:30-13:00</th>
@@ -216,7 +216,7 @@
             <th>20:30-21:00</th>
             <th>信息课</th>
             <th>4</th>
-            <th>树的直径三种方法怎么乱了</th>
+            <th align="center">树的直径三种方法<br>怎么乱了</th>
         </tr>
         <tr>
             <th>21:00-21:30</th>
@@ -228,7 +228,7 @@
             <th>21:30-22:00</th>
             <th>信息课<strong>|</strong>英语仿写</th>
             <th>3</th>
-            <th>旷日持久的信息课与英语仿写</th>
+            <th align="center">旷日持久的信息课<br>与英语仿写</th>
         </tr>
         <tr>
             <th>22:00-22:30</th>
