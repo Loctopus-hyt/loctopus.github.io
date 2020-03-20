@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-20T13:02:54.560Z</updated>
+    <updated>2020-03-20T14:06:25.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -32,6 +32,18 @@
 <blockquote>
 <p>人生有一道难题，那就是如何使一寸光阴等于一寸生命。             ——舒婷</p>
 </blockquote>
+<p>  春分日。<br>
+  一个没有雷声的惊蛰过去了，正如之前没什么雨水的雨水。<br>
+  春分倒是一来就送了一波灿烂的阳光。<br>
+  可早上醒来时也太晚了吧，今晨无好梦，昨夜无好觉。<br>
+  今天在知乎上看到了两句有点搞笑的句子，贴在这看看。</p>
+<blockquote>
+<p>如果你的生命只剩下8年，你可以做五年高考，三年模拟。<br>
+你一生中一定会遇到两个男子，一个惊艳了时光，一个温柔了岁月，一个是薛金星，一个是王后雄。</p>
+</blockquote>
+<p>  至于其他的，就感觉对数位DP的理解有有了一些升华。<br>
+  今日感悟：1.每天都在成长的感觉。<br>
+       2.对知识要有自己的逻辑记忆。</p>
 <p>附：时间表</p>
 <table><tbody>
         <tr>
@@ -204,21 +216,21 @@
         </tr>
         <tr>
             <th>21:00-21:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>看资讯</th>
+            <th>0.5</th>
+            <th>废了</th>
         </tr>
         <tr>
             <th>21:30-22:00</th>
-            <th></th>
-            <th></th>
+            <th>看资讯<strong>|</strong>写日记<strong>|</strong>看知乎</th>
+            <th>2.5</th>
             <th></th>
         </tr>
         <tr>
             <th>22:00-22:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>英语仿写</th>
+            <th>3.5</th>
+            <th>要早睡早起哦</th>
         </tr>
 </table>]]></content>
     </entry>
