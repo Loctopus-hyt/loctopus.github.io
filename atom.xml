@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-19T14:48:33.290Z</updated>
+    <updated>2020-03-20T12:57:15.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -10,6 +10,218 @@
     <logo>https://Loctopus-hyt.github.io/loctopus.github.io/images/avatar.png</logo>
     <icon>https://Loctopus-hyt.github.io/loctopus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, loctopus</rights>
+    <entry>
+        <title type="html"><![CDATA[20.03.20|今日春分,燕归花开]]></title>
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200320/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200320/">
+        </link>
+        <updated>2020-03-20T03:47:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:晴                Fri   星期五<br>
+  农历二月廿七  春分</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:晴                Fri   星期五<br>
+  农历二月廿七  春分</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<blockquote>
+<p>人生有一道难题，那就是如何使一寸光阴等于一寸生命。             ——舒婷</p>
+</blockquote>
+<p>附：时间表</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+        <tr>
+            <th>7:50-8:00</th>
+            <th>起床、洗漱</th>
+            <th>2.5</th>
+            <th>一夜回到解放前</th>
+        </tr>
+        <tr>
+            <th>8:00-8:30</th>
+            <th>吃饭<strong>|</strong>语文课</th>
+            <th>3.5</th>
+            <th>边吃边听了会儿课</th>
+        </tr>
+        <tr>
+            <th>8:30-9:00</th>
+            <th>语文课<strong>|</strong>课间休息</th>
+            <th>4</th>
+            <th>认认真真做笔记</th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>语文课</th>
+            <th>同上↑</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th>语文课<strong>|</strong>课间休息</th>
+            <th>3</th>
+            <th align="center">老师拖课了<br>怎么没做活动</th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th>数学课</th>
+            <th>3.5</th>
+            <th>对102页PPT感到恐惧</th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th>数学课<strong>|</strong>课间休息</th>
+            <th>3.5</th>
+            <th align="center">我的圆锥曲线<br>忘得差不多了</th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th>数学课</th>
+            <th>4</th>
+            <th align="center">重拾圆锥曲线的<br>基本概念</th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th>数位DP<strong>|</strong>吃饭饭</th>
+            <th>3.5</th>
+            <th>香喷喷的卤猪蹄</th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th>吃饭饭<strong>|</strong>散步<strong>|</strong>数位DP</th>
+            <th>3.5</th>
+            <th>今天出太阳真舒服</th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th>数位DP</th>
+            <th>2.5</th>
+            <th align="center">题目挑半天<br>没找到一道会做的</th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th>数位DP</th>
+            <th>3</th>
+            <th>又不知道错哪了</th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th>数位DP</th>
+            <th>3</th>
+            <th>依然懵逼</th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th>生物课</th>
+            <th>4</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th>生物课<strong>|</strong>睡觉</th>
+            <th>3</th>
+            <th align="center">挺不住了<br>可睡完觉她说我们下课吧<br>所以我什么都没错过？</th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th>生物课</th>
+            <th>4</th>
+            <th>起床啦</th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th>waiting<strong>|</strong>汇总作业</th>
+            <th>2.5</th>
+            <th>最后没唱歌？？？</th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th>历史课</th>
+            <th>4</th>
+            <th>蛮认真的</th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th>历史课</th>
+            <th>4</th>
+            <th>发现还有一节？</th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th>历史课<strong>|</strong>看知乎</th>
+            <th>3</th>
+            <th align="center">好久，心不在焉<br>1.5倍还是花了一个半小时</th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th>ppball</th>
+            <th>3</th>
+            <th>虐得好爽</th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th>ppball<strong>|</strong>吃饭</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th>吃饭<strong>|</strong>数位DP</th>
+            <th>3.5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th>数位DP</th>
+            <th>3.5</th>
+            <th>终于把中午那题改完了</th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th>数位DP</th>
+            <th>3</th>
+            <th align="center">又换了一题 <s>毒瘤</s><br>其实是我太菜了</th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th>数位DP</th>
+            <th>3.5</th>
+            <th>最后发现题目又看错了</th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th>...<strong>|</strong>休息<strong>|</strong>写记录</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>22:00-22:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+</table>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20.03.19|有故事的一天]]></title>
         <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200319/</id>
@@ -30,7 +242,7 @@
     <br>                         换行标签
 -->
 <blockquote>
-<p>愿,自己不再辜负自己，奇迹不再辜负奇迹。             ——Unknown</p>
+<p>愿，自己不再辜负自己，奇迹不再辜负奇迹。             ——Unknown</p>
 </blockquote>
 <p>  一天过去了，我的脑袋里好像对于那个有趣的故事记忆犹新。<br>
   那是在一堂化学课上。一个孤零零的氯原子，没遇上它生命中的那个真命天子钠原子，无人给它一个电子弥补心中的缺口；一个孤零零的氢原子，没碰见它心心念念的另一半（也是一个氢原子），无人与它公平地分享同一个电子。忽然，那个孤零零的氯原子在化学课上遇见了那个孤零零的氢原子，同病相怜之后，他们决定在一起。氯原子有点强势，氢原子只好配合一下它，然后它们就有了一个童话般美好的结局。<br>
