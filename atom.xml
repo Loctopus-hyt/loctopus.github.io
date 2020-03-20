@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-20T14:06:25.275Z</updated>
+    <updated>2020-03-20T14:27:12.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -228,9 +228,9 @@
         </tr>
         <tr>
             <th>22:00-22:30</th>
-            <th>英语仿写</th>
-            <th>3.5</th>
-            <th>要早睡早起哦</th>
+            <th>看知乎</th>
+            <th>2</th>
+            <th>废，要早睡早起哦</th>
         </tr>
 </table>]]></content>
     </entry>
