@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-20T12:57:15.425Z</updated>
+    <updated>2020-03-20T13:02:54.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -128,7 +128,7 @@
             <th>14:30-15:00</th>
             <th>生物课<strong>|</strong>睡觉</th>
             <th>3</th>
-            <th align="center">挺不住了<br>可睡完觉她说我们下课吧<br>所以我什么都没错过？</th>
+            <th align="center">挺不住了<br>可睡完觉她说下课吧<br>所以我什么都没错过？</th>
         </tr>
         <tr>
             <th>15:00-15:30</th>
@@ -158,7 +158,7 @@
             <th>17:00-17:30</th>
             <th>历史课<strong>|</strong>看知乎</th>
             <th>3</th>
-            <th align="center">好久，心不在焉<br>1.5倍还是花了一个半小时</th>
+            <th align="center">好久，心不在焉<br>1.5倍还是<br>花了一个半小时</th>
         </tr>
         <tr>
             <th>17:30-18:00</th>
