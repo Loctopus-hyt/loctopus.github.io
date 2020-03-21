@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-21T02:33:55.243Z</updated>
+    <updated>2020-03-21T14:43:04.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -16,11 +16,11 @@
         <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/200321orshi-jie-shui-mian-ri/">
         </link>
         <updated>2020-03-21T00:34:54.000Z</updated>
-        <summary type="html"><![CDATA[<p>  天气:X                XXX   星期X<br>
-  农历X月X  节气</p>
+        <summary type="html"><![CDATA[<p>  天气:晴                Sat   星期六<br>
+  农历二月廿八  春分</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>  天气:X                XXX   星期X<br>
-  农历X月X  节气</p>
+        <content type="html"><![CDATA[<p>  天气:晴                Sat   星期六<br>
+  农历二月廿八  春分</p>
 <!-- more -->
 <!--
     可能要用到的代码
@@ -29,6 +29,16 @@
     <strong></strong> 加粗
     <br>                         换行标签
 -->
+<blockquote>
+<p>给岁月以文明，而不是给文明以岁月。                  ——刘慈欣《三体》<br>
+  一夜好觉。<br>
+  醒来时发现hbb和咪咪不见了，走遍全家没找到，最后在厨房发现纸条，emm...出去了<br>
+  上午只干了物理作业，遇到一题给卡了，觉得下次要跳过。11点后做NOIP20XX提高组DXT3,思路倒是很快就有了，可一写，一调，就到了下午三点。打开QQ，迎面是希希催交作业的公告，居然还说大家的问题都解决了？？？明明我的还躺在那一动不动啊QWQ。既然催了，那我就顺手把它解决。然后去小学运动，额，感觉英语老师她儿子被丽丽老师的两个小女生欺负的不行。然后还发生了我一屁股坐到自行车上，坐垫就拗了的尴尬时间。吃完晚饭，灾难啊...家里已经炸开了锅，八点之后终于安生了。<br>
+  晚上略废，又一道数学题把我给卡了，于是掉进了知乎...<br>
+  今日总结：1.题卡就跳过<br>
+       2.别失去信心，相信能出奇迹（对，就是这种莫名自信QAQ）<br>
+  睡了，留下一个时间表大坑，明日再填。</p>
+</blockquote>
 <p>附：时间表</p>
 <table><tbody>
         <tr>
