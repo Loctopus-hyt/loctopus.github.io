@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-21T14:43:04.613Z</updated>
+    <updated>2020-03-22T01:57:38.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -10,6 +10,215 @@
     <logo>https://Loctopus-hyt.github.io/loctopus.github.io/images/avatar.png</logo>
     <icon>https://Loctopus-hyt.github.io/loctopus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, loctopus</rights>
+    <entry>
+        <title type="html"><![CDATA[20.03.22|奋]]></title>
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/200322orfen/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/200322orfen/">
+        </link>
+        <updated>2020-03-22T01:53:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:X                XXX   星期X<br>
+  农历X月X  节气</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:X                XXX   星期X<br>
+  农历X月X  节气</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<p>附：时间表</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+        <tr>
+            <th>7:50-8:00</th>
+            <th>起床、洗漱</th>
+            <th>3</th>
+            <th>又晚了QAQ</th>
+        </tr>
+        <tr>
+            <th>8:00-8:30</th>
+            <th>吃饭<strong>|</strong>整理</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>8:30-9:00</th>
+            <th>琐事<strong>|</strong>数学作业</th>
+            <th>4</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>数学作业</th>
+            <th>3.5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th>琐事<strong>|</strong>写记录</th>
+            <th>2.5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th>化学名校</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th>化学名校</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>22:00-22:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+</table>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20.03.21|世界睡眠日]]></title>
         <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/200321orshi-jie-shui-mian-ri/</id>
@@ -30,15 +239,16 @@
     <br>                         换行标签
 -->
 <blockquote>
-<p>给岁月以文明，而不是给文明以岁月。                  ——刘慈欣《三体》<br>
-  一夜好觉。<br>
+<p>给岁月以文明，而不是给文明以岁月。            ——刘慈欣《三体》</p>
+</blockquote>
+<p>  一夜好觉。<br>
   醒来时发现hbb和咪咪不见了，走遍全家没找到，最后在厨房发现纸条，emm...出去了<br>
-  上午只干了物理作业，遇到一题给卡了，觉得下次要跳过。11点后做NOIP20XX提高组DXT3,思路倒是很快就有了，可一写，一调，就到了下午三点。打开QQ，迎面是希希催交作业的公告，居然还说大家的问题都解决了？？？明明我的还躺在那一动不动啊QWQ。既然催了，那我就顺手把它解决。然后去小学运动，额，感觉英语老师她儿子被丽丽老师的两个小女生欺负的不行。然后还发生了我一屁股坐到自行车上，坐垫就拗了的尴尬时间。吃完晚饭，灾难啊...家里已经炸开了锅，八点之后终于安生了。<br>
+  上午只干了物理作业，遇到一题给卡了，觉得下次要跳过。11点后做NOIP20XX提高组DXT3,思路倒是很快就有了，可一写，一调，就到了下午三点。打开QQ，迎面是希希催交作业的公告，居然还说大家的问题都解决了？？？明明我的还躺在那一动不动啊QWQ。既然催了，那我就顺手把它解决。然后去小学运动，额，感觉英语老师她儿子被丽丽老师的两个小女生欺负的不行。然后还发生了我一屁股坐到自行车上，坐垫就拗了的尴尬事件。吃完晚饭，灾难啊...家里已经炸开了锅，八点之后终于安生了。<br>
   晚上略废，又一道数学题把我给卡了，于是掉进了知乎...<br>
   今日总结：1.题卡就跳过<br>
        2.别失去信心，相信能出奇迹（对，就是这种莫名自信QAQ）<br>
+       3.打开浏览器时请慎重<br>
   睡了，留下一个时间表大坑，明日再填。</p>
-</blockquote>
 <p>附：时间表</p>
 <table><tbody>
         <tr>
