@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-22T03:54:48.916Z</updated>
+    <updated>2020-03-22T14:08:53.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -29,9 +29,13 @@
     <strong></strong> 加粗
     <br>                         换行标签
 -->
+<blockquote>
+<p>弱小和无知都不是生存的障碍，傲慢才是          ——刘慈欣《三体》</p>
+</blockquote>
 <p>  是日，天朗气清，惠风和畅。于是乎...<br>
   又赖床啦QAQ。<br>
-  早上效率杠杠的，虽然还是犯了几个小毛病，但是还算顺风顺水。</p>
+  早上效率杠杠的，虽然还是犯了几个小毛病，但是还算顺风顺水。中午快速切掉一道树形DP水题（虽然还是看了题解QAQ）。下午模拟赛，打开一看，三道模板题，可调试得我要炸了。看到result的时候这个人震悚了一下...看了半天，结果是几个字导致了这次惨祸。我要没了。昨天的那题也是小细节夺命qwq。晚上边上英语课边写题，效率低下，英语课结束后又看水题，想用新方法做一做，可失败了...（我太菜了）然后又去平衡树的题解里闲逛。好吧，今晚得早睡觉。<br>
+  去吧去吧，明天要加油哦。</p>
 <p>附：时间表</p>
 <table><tbody>
         <tr>
@@ -56,13 +60,13 @@
             <th>8:30-9:00</th>
             <th>琐事<strong>|</strong>数学作业</th>
             <th>4</th>
-            <th></th>
+            <th>飞起</th>
         </tr>
         <tr>
             <th>9:00-9:30</th>
             <th>数学作业</th>
             <th>3.5</th>
-            <th></th>
+            <th>怎么数学也有<br>暴力枚举</th>
         </tr>
         <tr>
             <th>9:30-10:00</th>
@@ -74,13 +78,13 @@
             <th>10:00-10:30</th>
             <th>化学名校</th>
             <th>4.5</th>
-            <th></th>
+            <th>飞起</th>
         </tr>
         <tr>
             <th>10:30-11:00</th>
             <th>化学名校</th>
             <th>4.5</th>
-            <th></th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>11:00-11:30</th>
@@ -96,129 +100,129 @@
         </tr>
         <tr>
             <th>12:00-12:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>吃饭<strong>|</strong>ppball</th>
+            <th>3</th>
+            <th>额，这蛏...</th>
         </tr>
         <tr>
             <th>12:30-13:00</th>
-            <th></th>
-            <th></th>
+            <th>ppball</th>
+            <th>3</th>
             <th></th>
         </tr>
         <tr>
             <th>13:00-13:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>树形动规水题</th>
+            <th>3</th>
+            <th>你怎么看题解</th>
         </tr>
         <tr>
             <th>13:30-14:00</th>
-            <th></th>
-            <th></th>
+            <th>模拟赛</th>
+            <th>4</th>
             <th></th>
         </tr>
         <tr>
             <th>14:00-14:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>模拟赛</th>
+            <th>3.5</th>
+            <th>卡住了</th>
         </tr>
         <tr>
             <th>14:30-15:00</th>
-            <th></th>
-            <th></th>
+            <th>模拟赛</th>
+            <th>4</th>
             <th></th>
         </tr>
         <tr>
             <th>15:00-15:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>模拟赛</th>
+            <th>3.5</th>
+            <th>又卡住了</th>
         </tr>
         <tr>
             <th>15:30-16:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>模拟赛</th>
+            <th>3</th>
+            <th>卡ing</th>
         </tr>
         <tr>
             <th>16:00-16:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>模拟赛</th>
+            <th>2.5</th>
+            <th>暴走</th>
         </tr>
         <tr>
             <th>16:30-17:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>模拟赛</th>
+            <th>3</th>
+            <th>以为还行</th>
         </tr>
         <tr>
             <th>17:00-17:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>改题</th>
+            <th>3.5</th>
+            <th>结果凉凉</th>
         </tr>
         <tr>
             <th>17:30-18:00</th>
-            <th></th>
-            <th></th>
+            <th>评讲<strong>|</strong>继续改题</th>
+            <th>3</th>
             <th></th>
         </tr>
         <tr>
             <th>18:00-18:30</th>
-            <th></th>
-            <th></th>
+            <th>洗澡</th>
+            <th>3</th>
             <th></th>
         </tr>
         <tr>
             <th>18:30-19:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>吃饭</th>
+            <th>3</th>
+            <th>有芋粿吃（其实不知道普通话是不是这么说的）</th>
         </tr>
         <tr>
             <th>19:00-19:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>改题</th>
+            <th>3.5</th>
+            <th>知道真相的我吐了</th>
         </tr>
         <tr>
             <th>19:30-20:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>英语课<strong>|</strong>写题</th>
+            <th>3</th>
+            <th>对不起松姐</th>
         </tr>
         <tr>
             <th>20:00-20:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>英语课<strong>|</strong>写题</th>
+            <th>3</th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>20:30-21:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>英语课<strong>|</strong>写题</th>
+            <th>2.5</th>
+            <th>同上↑</th>
         </tr>
         <tr>
             <th>21:00-21:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>树形DP</th>
+            <th>3</th>
+            <th>略废</th>
         </tr>
         <tr>
             <th>21:30-22:00</th>
-            <th></th>
-            <th></th>
+            <th>树形DP<strong>|</strong>写记录</th>
+            <th>3</th>
             <th></th>
         </tr>
         <tr>
             <th>22:00-22:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>写记录<strong>|</strong>写日记</th>
+            <th>3</th>
+            <th>成功早睡</th>
         </tr>
 </table>]]></content>
     </entry>
