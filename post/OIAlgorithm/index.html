@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>OI省选算法汇总 | loctopus</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1584940816897">
+<link rel="stylesheet" href="https://Loctopus-hyt.github.io/loctopus.github.io//styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="OI省选算法汇总
+转载自hzwer的博客，原文戳这里,略有修改
+
+带*为选学
+1.1 基本数据结构
+  1. 数组
+  2. 链表，双向链表
+  3. 队列，单调队列，双端队列
+  4. 栈，单调栈
+1.2 中级数据结构
+  1. 堆
+  ..." />
+    <meta name="keywords" content="算法" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://Loctopus-hyt.github.io/loctopus.github.io/">
+        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1584940816897" class="site-logo">
+        <h1 class="site-title">loctopus</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://loctopus-hyt.github.io/loctopus.github.io/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="https://loctopus-hyt.github.io/loctopus.github.io/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+          <a class="social-link" href="https://github.com/Loctopus-hyt" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      我永远都没有长大  但我永远都没有停止生长
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://Loctopus-hyt.github.io/loctopus.github.io//atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">OI省选算法汇总</h2>
+            <div class="post-date">2020-03-23</div>
+            
+            <div class="post-content" v-pre>
+              <p>OI省选算法汇总<br>
+转载自hzwer的博客，原文戳<a href="http://hzwer.com/1234.html">这里</a>,略有修改</p>
+<!-- more -->
+<p>带*为选学</p>
+<p>1.1 基本数据结构<br>
+  1. 数组<br>
+  2. 链表，双向链表<br>
+  3. 队列，单调队列，双端队列<br>
+  4. 栈，单调栈<br>
+1.2 中级数据结构<br>
+  1. 堆<br>
+  2. 并查集与带权并查集<br>
+  3. hash 表<br>
+    自然溢出<br>
+    双hash<br>
+1.3 高级数据结构<br>
+  1. 树状数组<br>
+  2. 线段树，线段树合并<br>
+  3. 平衡树<br>
+    Treap 随机平衡二叉树<br>
+    Splay 伸展树<br>
+    Scapegoat Tree 替罪羊树<br>
+  4. 块状数组，块状链表<br>
+  5.* 树套树<br>
+    线段树套线段树<br>
+    线段树套平衡树<br>
+    平衡树套线段树<br>
+  6.可并堆<br>
+    左偏树<br>
+    配对堆<br>
+  7. *KDtree，*四分树<br>
+1.4 可持久化数据结构<br>
+  1. 可持久化线段树<br>
+    主席树<br>
+  2. * 可持久化平衡树<br>
+  3. * 可持久化块状数组<br>
+1.5 字符串相关算法及数据结构<br>
+  1. KMP<br>
+  2. AC 自动机<br>
+  3. 后缀数组<br>
+  4. *后缀树<br>
+  5. *后缀自动机<br>
+  6. 字典树 Trie<br>
+  7. manacher<br>
+1.6 图论相关<br>
+  1. 最小生成树<br>
+    prim<br>
+    kruskal<br>
+  2. 最短路，次短路，K短路<br>
+    spfa<br>
+    dijkstra<br>
+    floyd<br>
+  3. 图的连通<br>
+    连通分量<br>
+    割点，割边<br>
+  4. 网络流<br>
+     最大流<br>
+    最小割<br>
+    费用流<br>
+    分数规划<br>
+  5. 树相关<br>
+    树上倍增，公共祖先<br>
+    树链剖分<br>
+    树的分治算法（点分治，边分治，*动态？树分治）<br>
+    动态树 （LCT，*树分块）<br>
+    虚树<br>
+     *prufer编码<br>
+  6. 拓扑排序<br>
+  7. 欧拉图<br>
+  8. 二分图<br>
+    <em>KM算法<br>
+    匈牙利算法<br>
+1.7 数学相关<br>
+  1. （扩展）欧几里得算法，筛法，快速幂<br>
+    斐蜀定理<br>
+    更相减损术<br>
+  2. 欧拉函数与</em>降幂大法<br>
+  3. 费马小定理<br>
+  4. 排列组合<br>
+     lucas定理<br>
+  5. 乘法逆元<br>
+  6. 矩阵乘法<br>
+  7. 数学期望与概率<br>
+  8. 博弈论<br>
+    sg函数<br>
+    树上删边游戏<br>
+  1. *拉格朗日乘子法<br>
+  2.  中国剩余定理<br>
+  3.  线性规划与网络流<br>
+  4.  单纯型线性规划<br>
+  5.  辛普森积分<br>
+  6.  模线性方程组<br>
+  7.  容斥原理与莫比乌斯反演<br>
+  8.  置换群<br>
+  9.  快速傅里叶变换<br>
+  10. <em>大步小步法（BSGS），扩展BSGS<br>
+1.8 动态规划<br>
+  1. 一般，背包，状压，区间，环形，树形，数位动态规划<br>
+    记忆化搜索<br>
+    斯坦纳树<br>
+    背包九讲<br>
+  2. 斜率优化与</em> 四边形不等式优化<br>
+  3. 环 + 外向树上的动态规划<br>
+  4. <em>插头动态规划<br>
+1.9 计算几何<br>
+  1. 计算几何基础<br>
+  2. 三维计算几何初步<br>
+  3. <em>梯形剖分与</em>三角形剖分<br>
+  4. 旋转卡壳<br>
+  5. 半平面交<br>
+  6. pick定理<br>
+  7. 扫描线<br>
+1.10 搜索相关<br>
+  1. bfs，dfs<br>
+  2. A</em> 算法<br>
+  3. 迭代加深搜索，双向广搜<br>
+1.11 特殊算法<br>
+  1. 莫队算法，*树上莫队<br>
+  2. 模拟退火<br>
+  3. 爬山算法<br>
+  4. 随机增量法<br>
+1.12 其它重要工具与方法<br>
+  1.模拟与贪心<br>
+  1. 二分，三分法（求偏导）<br>
+  2. 分治，CDQ分治<br>
+  3. 高精度<br>
+  4. 离线<br>
+  5. ST表<br>
+1.13 STL<br>
+  1. map<br>
+  2. priority_queue<br>
+  3. set<br>
+  4. bitset<br>
+  5. rope<br>
+1.14 非常见算法<br>
+  1. *朱刘算法<br>
+  2. *弦图与区间图</p>
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/Xy0WLMHq4/" class="tag">
+                    算法
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/200322orfen/">
+                  <h3 class="post-title">
+                    20.03.22|奋
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>
