@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-23T05:22:25.348Z</updated>
+    <updated>2020-03-23T05:31:04.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -53,14 +53,14 @@
 1.4 可持久化数据结构<br>
   1. 可持久化线段树<br>
     主席树<br>
-  2. * 可持久化平衡树<br>
-  3. * 可持久化块状数组<br>
+  2.* 可持久化平衡树<br>
+  3.* 可持久化块状数组<br>
 1.5 字符串相关算法及数据结构<br>
   1. KMP<br>
   2. AC 自动机<br>
   3. 后缀数组<br>
-  4. *后缀树<br>
-  5. *后缀自动机<br>
+  4.*后缀树<br>
+  5.*后缀自动机<br>
   6. 字典树 Trie<br>
   7. manacher<br>
 1.6 图论相关<br>
@@ -83,19 +83,19 @@
     树上倍增，公共祖先<br>
     树链剖分<br>
     树的分治算法（点分治，边分治，*动态？树分治）<br>
-    动态树 （LCT，<em>树分块）<br>
+    动态树 （LCT，*树分块）<br>
     虚树<br>
-     <em>prufer编码<br>
+     *prufer编码<br>
   6. 拓扑排序<br>
   7. 欧拉图<br>
   8. 二分图<br>
-    </em> KM算法<br>
+    * KM算法<br>
     匈牙利算法<br>
 1.7 数学相关<br>
   1. （扩展）欧几里得算法，筛法，快速幂<br>
     斐蜀定理<br>
     更相减损术<br>
-  2. 欧拉函数与</em>降幂大法<br>
+  2. 欧拉函数与*降幂大法<br>
   3. 费马小定理<br>
   4. 排列组合<br>
      lucas定理<br>
@@ -114,26 +114,26 @@
   7.  容斥原理与莫比乌斯反演<br>
   8.  置换群<br>
   9.  快速傅里叶变换<br>
-  10. <em>大步小步法（BSGS），扩展BSGS<br>
+  10. *大步小步法（BSGS），扩展BSGS<br>
 1.8 动态规划<br>
   1. 一般，背包，状压，区间，环形，树形，数位动态规划<br>
     记忆化搜索<br>
     斯坦纳树<br>
     背包九讲<br>
-  2. 斜率优化与</em> 四边形不等式优化<br>
+  2. 斜率优化与* 四边形不等式优化<br>
   3. 环 + 外向树上的动态规划<br>
-  4. <em>插头动态规划<br>
+  4. *插头动态规划<br>
 1.9 计算几何<br>
   1. 计算几何基础<br>
   2. 三维计算几何初步<br>
-  3. <em>梯形剖分与</em>三角形剖分<br>
+  3. *梯形剖分与*三角形剖分<br>
   4. 旋转卡壳<br>
   5. 半平面交<br>
   6. pick定理<br>
   7. 扫描线<br>
 1.10 搜索相关<br>
   1. bfs，dfs<br>
-  2. A</em> 算法<br>
+  2. A* 算法<br>
   3. 迭代加深搜索，双向广搜<br>
 1.11 特殊算法<br>
   1. 莫队算法，*树上莫队<br>
