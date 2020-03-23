@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-23T12:13:45.627Z</updated>
+    <updated>2020-03-23T12:52:41.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -10,6 +10,215 @@
     <logo>https://Loctopus-hyt.github.io/loctopus.github.io/images/avatar.png</logo>
     <icon>https://Loctopus-hyt.github.io/loctopus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, loctopus</rights>
+    <entry>
+        <title type="html"><![CDATA[20.03.23|又一周]]></title>
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200323/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200323/">
+        </link>
+        <updated>2020-03-23T12:21:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:阴转雷雨                Mon   星期一<br>
+  农历二月三十  春分</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:阴转雷雨                Mon   星期一<br>
+  农历二月三十  春分</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<p>附：时间表</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+        <tr>
+            <th>7:50-8:00</th>
+            <th>起床、洗漱</th>
+            <th>3</th>
+            <th>要早点啦QAQ</th>
+        </tr>
+        <tr>
+            <th>8:00-8:30</th>
+            <th>吃饭<strong>|</strong>语文课</th>
+            <th>3</th>
+            <th>边吃边听课...</th>
+        </tr>
+        <tr>
+            <th>8:30-9:00</th>
+            <th>语文课<strong>|</strong>课间休息</th>
+            <th>4</th>
+            <th>哲学家大讲堂</th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>语文课</th>
+            <th>4</th>
+            <th>情场高手在线教学</th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th>看资讯</th>
+            <th>1</th>
+            <th>半个小时废了</th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th>物理考试</th>
+            <th>3.5</th>
+            <th>水题</th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th>物理考试</th>
+            <th>4</th>
+            <th>水题++</th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th>提交<strong>|</strong>跟三金老师打电话</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th>查成绩<strong>|</strong>Searching Treap</th>
+            <th>3</th>
+            <th>洛谷上的题解花花绿绿</th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th>吃饭</th>
+            <th>3</th>
+            <th>我爱羊肉汤</th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th>Searching Treap</th>
+            <th>2</th>
+            <th>终于找到你</th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th>Learing</th>
+            <th>3.5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th>...<strong>|</strong>琐事</th>
+            <th>2</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th>英语课</th>
+            <th>4</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th>英语课</th>
+            <th>4.5</th>
+            <th>超级认真的吧</th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th>英语课</th>
+            <th>4</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th>英语课<strong>|</strong>休息</th>
+            <th>3.5</th>
+            <th>老师录播课严重超时</th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th>Learning Treap</th>
+            <th>4</th>
+            <th>这里有一点点错吧</th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th>Learning Treap</th>
+            <th>4</th>
+            <th align="center">是他错，实锤了<br>（其实是自认为）</th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th>ppball</th>
+            <th>3</th>
+            <th>哦吼，打雷了！！！</th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th>ppball<strong>|</strong>吃饭</th>
+            <th>3</th>
+            <th>又惊又吓</th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th>吃饭<strong>|</strong>汇总作业</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th>Learing Treap</th>
+            <th>4</th>
+            <th>理解ing</th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th>Learing Treap<strong>|</strong>看游记</th>
+            <th>3</th>
+            <th>理解力爆棚</th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th>Learing Treap<strong>|</strong>写Note</th>
+            <th>4</th>
+            <th>第一篇</th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th>写Note<strong>|</strong>写记录</th>
+            <th>4</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th>写记录<strong>|</strong>休息</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>22:00-22:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+</table>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Treap学习笔记]]></title>
         <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/TreapLearingNote/</id>
@@ -28,13 +237,17 @@
 <hr>
 <p><span id='1'>一.参考文章</span><br>
   鸣谢一下文章作者<br>
-  1.<a href="https://www.luogu.com.cn/blog/HOJQVFNA/qian-xi-treap-ping-heng-shu">浅析Treap——平衡树</a><br>
-    建议先看此篇入门，良心好文。<br>
-  2.<a href="https://www.cnblogs.com/ljc20020730/p/9873457.html">浅谈普通平衡树Treap</a><br>
+  1.<a href="https://www.luogu.com.cn/blog/HOJQVFNA/qian-xi-treap-ping-heng-shu" target="_blank">浅析Treap——平衡树</a><br>
+    强烈建议先看此篇入门，良心好文。<br>
+  2.<a href="https://www.cnblogs.com/ljc20020730/p/9873457.html" target="_blank">浅谈普通平衡树Treap</a><br>
     此篇主要借鉴其关于旋转部分的讲解，有动图哦。<br>
-  3.<a href="https://www.cnblogs.com/kanbokedeshiwoerzi/p/8798219.html">可旋转Treap(树堆)总结</a><br>
+  3.<a href="https://www.cnblogs.com/kanbokedeshiwoerzi/p/8798219.html" target="_blank">可旋转Treap(树堆)总结</a><br>
     此篇依然是关注旋转，其中对插入节点时的旋转过程进行了举例。<br>
-  注：前两篇为大根堆，第三篇为小根堆。（指讲解部分）</p>
+  注：1.以第一篇为主，后两篇配合食用理解旋转。<br>
+    2.三位作者都很巨啦。<br>
+    3.前两篇为大根堆，第三篇为小根堆。（指讲解部分）<br>
+    4.关于第一篇有一部分讲解自认为有误，见下图。<br>
+<img src="https://Loctopus-hyt.github.io/loctopus.github.io//post-images/1584967872875.png" alt="修改" loading="lazy"></p>
 <hr>
 <p><span id='2'>二.学习心得</span></p>
 <hr>
@@ -191,8 +404,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[20.03.22|奋]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/200322orfen/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/200322orfen/">
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200322/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200322/">
         </link>
         <updated>2020-03-22T01:53:17.000Z</updated>
         <summary type="html"><![CDATA[<p>  天气:晴                Sun   星期天<br>
@@ -407,8 +620,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[20.03.21|世界睡眠日]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/200321orshi-jie-shui-mian-ri/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/200321orshi-jie-shui-mian-ri/">
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200321/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200321/">
         </link>
         <updated>2020-03-21T00:34:54.000Z</updated>
         <summary type="html"><![CDATA[<p>  天气:晴                Sat   星期六<br>
@@ -1734,70 +1947,5 @@
             <th>好累</th>
         </tr>
 </table>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遇见OI]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Meetoi/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Meetoi/">
-        </link>
-        <updated>2020-03-14T05:15:32.000Z</updated>
-        <summary type="html"><![CDATA[<p>  [鸡汤预警]<br>
-  我永远都没有长大    但我永远都没有停止生长    ——阿瑟·克拉克<br>
-  谨以此篇，纪念我OI生活的开始。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>  [鸡汤预警]<br>
-  我永远都没有长大    但我永远都没有停止生长    ——阿瑟·克拉克<br>
-  谨以此篇，纪念我OI生活的开始。</p>
-<!-- more -->
-<blockquote>
-<p> [雨滴-赵海洋]<br>
-<audio autoplay loop id="audio" controls="" preload="auto"><br>
-<source id="mp4" src="http://link.hhtjim.com/163/524080938.mp3"><br>
-</audio></p>
-</blockquote>
-<p>               遇见OI的第 <strong>226</strong> 天。<br>
-  最近几天下了雨，上高中后真觉得雨是个稀罕物。<br>
-  不知不觉也这么久了，当然比起那些小学四五年级就开始的巨佬们并不算久。高中起点大概就是这样吧，时间永远是紧张的。就像hzw在博客里写的那样</p>
-<blockquote>
-<p>  高中参加OI的话基本就高二一轮的机会，一招不慎，满盘皆输，不过这大抵就是竞赛的魅力吧。<br>
-  觉得高中无论做什么，无非是证明一下自己的能力，而且应该是在限定时间内提升某种水平的能力，高考也罢，竞赛也罢。</p>
-</blockquote>
-<p>I.</p>
-<hr>
-<p>  19年10月份匆忙准备着初赛，踩着分数线进复赛，11月份抱着打酱油的心态去到美丽的附中一游，不得不说一句附中确实是美炸了，但我的成绩也炸，学长们更惨。在附中那棵银杏树下，我和学长们留下了他们第一次也是最后一次CSP之旅的合照。（不过NOIP又开办了，也确实是我的最后一次QAQ...）<br>
-  磕磕绊绊地走过一个学期，切题的时候确实很爽，但被题虐也同样难受。不止如此，竞赛与文化课的平衡仿佛是个永远也绕不开的坎儿。期末考前几周心态爆炸，一边备考一边为了去青岛培训恶补算法，熬夜成了常态，完不成的作业，看不懂的算法，像两只苍蝇一样不停嗡嗡嗡地在我耳边盘旋。</p>
-<p>II.</p>
-<hr>
-<p>  青岛之旅，还算不错...可回来之后颓了一个月，忙着补作业去了。<br>
-  2020开局暴击，-OH计划，新冠肺炎还有漫长的网课，emmm...<br>
-  选择OI真的对吗？<br>
-  我发出了大概是学竞赛必问的灵魂拷问。<br>
-  想不出其它什么，只好贴句鸡汤给自己</p>
-<blockquote>
-<p>  自己选择的路,就算跪着也要走完</p>
-</blockquote>
-<p>III.</p>
-<hr>
-<p>  其实遇见OI吧，说巧也巧，说不巧也不巧。说巧的是19年初夏的那份通告，出现得猝不及防，让我心烦意乱了好几个月，最后舍鸣阳而取凤凰者也。说不巧的是去福一选择的大概也是OI。福一我心心念念了几年，却只在中考过后的那个暑假，趁着学生搬书开放的日子溜进去过一趟，蓝天，绿树，红墙，凤池边，看自在飞花轻似梦，朦胧淡云来去，满足了我那时对美好的一切想象。</p>
-<blockquote>
-<p>  从别后，忆想逢，几回魂梦与君同。今宵剩把银釭照，犹恐相逢是梦中。<br>
-                          ——晏几道《鹧鸪天》</p>
-</blockquote>
-<p>  但既然错过了，就不要再眷念不舍了，好好迎接新的开始吧。</p>
-<blockquote>
-<p>  这个世界经常不按常理出牌，但是每一次仓促的见招拆招，却未必不是另一段奇遇的开始。</p>
-</blockquote>
-<p>IV.</p>
-<hr>
-<p>  <br>
-  </p>
-<p>V.</p>
-<hr>
-<p>  《雨滴》总能让我想起美好的福一，但愿未来也能遇见美好吧。<br>
-   谨以此篇，纪念我OI生活的开始。</p>
-<script type="text/javascript"
-color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
-</script>
-]]></content>
     </entry>
 </feed>
