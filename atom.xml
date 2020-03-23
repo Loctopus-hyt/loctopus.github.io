@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-23T05:31:04.266Z</updated>
+    <updated>2020-03-23T12:13:45.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -11,18 +11,49 @@
     <icon>https://Loctopus-hyt.github.io/loctopus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, loctopus</rights>
     <entry>
+        <title type="html"><![CDATA[Treap学习笔记]]></title>
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/TreapLearingNote/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/TreapLearingNote/">
+        </link>
+        <updated>2020-03-23T11:49:44.000Z</updated>
+        <summary type="html"><![CDATA[<p>  一些关于学习Treap的学习笔记。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  一些关于学习Treap的学习笔记。</p>
+<!-- more -->
+<p>  由于本人并没有时间像网上的巨佬们一样将Treap的详解一一打出来（<s>其实是懒</s>），所以就在这转载一下我学习时参考的文章，学习心得以及几道例题。<br>
+【目录】<br>
+ <a href="#1">一.参考文章</a><br>
+ <a href="#2">二.学习心得</a><br>
+ <a href="#3">三.例题</a></p>
+<hr>
+<p><span id='1'>一.参考文章</span><br>
+  鸣谢一下文章作者<br>
+  1.<a href="https://www.luogu.com.cn/blog/HOJQVFNA/qian-xi-treap-ping-heng-shu">浅析Treap——平衡树</a><br>
+    建议先看此篇入门，良心好文。<br>
+  2.<a href="https://www.cnblogs.com/ljc20020730/p/9873457.html">浅谈普通平衡树Treap</a><br>
+    此篇主要借鉴其关于旋转部分的讲解，有动图哦。<br>
+  3.<a href="https://www.cnblogs.com/kanbokedeshiwoerzi/p/8798219.html">可旋转Treap(树堆)总结</a><br>
+    此篇依然是关注旋转，其中对插入节点时的旋转过程进行了举例。<br>
+  注：前两篇为大根堆，第三篇为小根堆。（指讲解部分）</p>
+<hr>
+<p><span id='2'>二.学习心得</span></p>
+<hr>
+<p><span id='3'>三.例题</span></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OI省选算法汇总]]></title>
         <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/OIAlgorithm/</id>
         <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/OIAlgorithm/">
         </link>
         <updated>2020-03-23T04:58:08.000Z</updated>
-        <summary type="html"><![CDATA[<p>OI省选算法汇总<br>
-转载自hzwer的博客，原文戳<a href="http://hzwer.com/1234.html">这里</a>,略有修改</p>
+        <summary type="html"><![CDATA[<p>  OI省选算法汇总<br>
+  转载自hzwer的博客，原文戳<a href="http://hzwer.com/1234.html">这里</a>,略有修改</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>OI省选算法汇总<br>
-转载自hzwer的博客，原文戳<a href="http://hzwer.com/1234.html">这里</a>,略有修改</p>
+        <content type="html"><![CDATA[<p>  OI省选算法汇总<br>
+  转载自hzwer的博客，原文戳<a href="http://hzwer.com/1234.html">这里</a>,略有修改</p>
 <!-- more -->
-<p>带*为选学</p>
+<p>  带*为选学</p>
 <p>1.1 基本数据结构<br>
   1. 数组<br>
   2. 链表，双向链表<br>
@@ -1767,38 +1798,6 @@
 <script type="text/javascript"
 color="122 103 238" opacity='0.7' zIndex="-2" count="200" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js">
 </script>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/hello-gridea/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>

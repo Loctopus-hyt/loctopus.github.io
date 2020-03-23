@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>loctopus</title>
+<title>Treap学习笔记 | loctopus</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -12,14 +12,27 @@
 <link rel="stylesheet" href="https://Loctopus-hyt.github.io/loctopus.github.io//styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-    <meta name="description" content="我永远都没有长大  但我永远都没有停止生长">
-    
+    <meta name="description" content="  一些关于学习Treap的学习笔记。
+
+  由于本人并没有时间像网上的巨佬们一样将Treap的详解一一打出来（其实是懒），所以就在这转载一下我学习时参考的文章，学习心得以及几道例题。
+【目录】
+ 一.参考文章
+ 二.学习心得
+ 三.例题
+..." />
+    <meta name="keywords" content="算法" />
   </head>
   <body>
     <div id="app" class="main">
@@ -93,98 +106,63 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/TreapLearingNote/">
-                  <h2 class="post-title">Treap学习笔记</h2>
-                </a>
-                <div class="post-date">
-                  2020-03-23
-                </div>
-                <div class="post-abstract">
-                  <p>  一些关于学习Treap的学习笔记。</p>
+          <div class="post-detail">
+            <h2 class="post-title">Treap学习笔记</h2>
+            <div class="post-date">2020-03-23</div>
+            
+            <div class="post-content" v-pre>
+              <p>  一些关于学习Treap的学习笔记。</p>
+<!-- more -->
+<p>  由于本人并没有时间像网上的巨佬们一样将Treap的详解一一打出来（<s>其实是懒</s>），所以就在这转载一下我学习时参考的文章，学习心得以及几道例题。<br>
+【目录】<br>
+ <a href="#1">一.参考文章</a><br>
+ <a href="#2">二.学习心得</a><br>
+ <a href="#3">三.例题</a></p>
+<hr>
+<p><span id='1'>一.参考文章</span><br>
+  鸣谢一下文章作者<br>
+  1.<a href="https://www.luogu.com.cn/blog/HOJQVFNA/qian-xi-treap-ping-heng-shu">浅析Treap——平衡树</a><br>
+    建议先看此篇入门，良心好文。<br>
+  2.<a href="https://www.cnblogs.com/ljc20020730/p/9873457.html">浅谈普通平衡树Treap</a><br>
+    此篇主要借鉴其关于旋转部分的讲解，有动图哦。<br>
+  3.<a href="https://www.cnblogs.com/kanbokedeshiwoerzi/p/8798219.html">可旋转Treap(树堆)总结</a><br>
+    此篇依然是关注旋转，其中对插入节点时的旋转过程进行了举例。<br>
+  注：前两篇为大根堆，第三篇为小根堆。（指讲解部分）</p>
+<hr>
+<p><span id='2'>二.学习心得</span></p>
+<hr>
+<p><span id='3'>三.例题</span></p>
 
-                </div>
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/Xy0WLMHq4/" class="tag">
+                    算法
+                  </a>
+                
               </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
                 <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/OIAlgorithm/">
-                  <h2 class="post-title">OI省选算法汇总</h2>
+                  <h3 class="post-title">
+                    OI省选算法汇总
+                  </h3>
                 </a>
-                <div class="post-date">
-                  2020-03-23
-                </div>
-                <div class="post-abstract">
-                  <p>  OI省选算法汇总<br>
-  转载自hzwer的博客，原文戳<a href="http://hzwer.com/1234.html">这里</a>,略有修改</p>
-
-                </div>
               </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/200322orfen/">
-                  <h2 class="post-title">20.03.22|奋</h2>
-                </a>
-                <div class="post-date">
-                  2020-03-22
-                </div>
-                <div class="post-abstract">
-                  <p>  天气:晴                Sun   星期天<br>
-  农历二月廿九  春分</p>
+            
 
-                </div>
-              </div>
+            
               
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/200321orshi-jie-shui-mian-ri/">
-                  <h2 class="post-title">20.03.21|世界睡眠日</h2>
-                </a>
-                <div class="post-date">
-                  2020-03-21
-                </div>
-                <div class="post-abstract">
-                  <p>  天气:晴                Sat   星期六<br>
-  农历二月廿八  春分</p>
-
-                </div>
-              </div>
+                <div id="gitalk-container" data-aos="fade-in"></div>
               
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200320/">
-                  <h2 class="post-title">20.03.20|今日春分,燕归花开</h2>
-                </a>
-                <div class="post-date">
-                  2020-03-20
-                </div>
-                <div class="post-abstract">
-                  <p>  天气:晴                Fri   星期五<br>
-  农历二月廿七  春分</p>
 
-                </div>
-              </div>
               
-            </article>
-          
+            
 
-          <div class="pagination-container">
-  
-  
-    <a href="https://Loctopus-hyt.github.io/loctopus.github.io/page/2" class="next">下一页 <i class="icon-arrow-ios-forward-outline"></i></a>
-  
-</div>
+          </div>
 
         </div>
       </div>
@@ -205,6 +183,29 @@ var app = new Vue({
 </script>
 
 
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
