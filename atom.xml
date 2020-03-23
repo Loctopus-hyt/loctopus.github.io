@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-23T05:20:26.668Z</updated>
+    <updated>2020-03-23T05:22:25.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -83,13 +83,13 @@
     树上倍增，公共祖先<br>
     树链剖分<br>
     树的分治算法（点分治，边分治，*动态？树分治）<br>
-    动态树 （LCT，*树分块）<br>
+    动态树 （LCT，<em>树分块）<br>
     虚树<br>
-     *prufer编码<br>
+     <em>prufer编码<br>
   6. 拓扑排序<br>
   7. 欧拉图<br>
   8. 二分图<br>
-    <em>KM算法<br>
+    </em> KM算法<br>
     匈牙利算法<br>
 1.7 数学相关<br>
   1. （扩展）欧几里得算法，筛法，快速幂<br>
