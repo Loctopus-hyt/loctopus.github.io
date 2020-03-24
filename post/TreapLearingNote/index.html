@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585021177801">
+<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585051806071">
 <link rel="stylesheet" href="https://Loctopus-hyt.github.io/loctopus.github.io//styles/main.css">
 
 
@@ -27,11 +27,7 @@
     <meta name="description" content="  一些关于学习Treap的学习笔记。
 
   由于本人并没有时间像网上的巨佬们一样将Treap的详解一一打出来（其实是懒），所以就在这转载一下我学习时参考的文章，学习心得以及几道例题。
-【目录】
- 一.参考文章
- 二.学习心得
- 三.例题
-..." />
+  注：本文缩进格式为手打空格，调整页面大小时会有变动..." />
     <meta name="keywords" content="算法" />
   </head>
   <body>
@@ -41,7 +37,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://Loctopus-hyt.github.io/loctopus.github.io/">
-        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585021177801" class="site-logo">
+        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585051806071" class="site-logo">
         <h1 class="site-title">loctopus</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -111,16 +107,17 @@
             <div class="post-date">2020-03-23</div>
             
             <div class="post-content" v-pre>
-              <p>  一些关于学习Treap的学习笔记。</p>
+              <p>  <span id='0'>一些</span>关于学习Treap的学习笔记。</p>
 <!-- more -->
 <p>  由于本人并没有时间像网上的巨佬们一样将Treap的详解一一打出来（<s>其实是懒</s>），所以就在这转载一下我学习时参考的文章，学习心得以及几道例题。<br>
+  注：本文缩进格式为手打空格，调整页面大小时会有变动(会变丑)建议全屏食用，部分文字缩进仍有bug，请见谅。<br>
 【目录】<br>
  <a href="#1">一.参考文章</a><br>
- <a href="#2">二.学习心得</a><br>
+<span id='1'> <a href="#2">二.学习心得</a></span><br>
  <a href="#3">三.例题</a></p>
 <hr>
-<p><span id='1'>一.参考文章</span><br>
-  鸣谢一下文章作者<br>
+<h3 id="一参考文章-top">一.参考文章                      <a href="#0">TOP</a></h3>
+<p>  鸣谢一下文章作者<br>
   1.<a href="https://www.luogu.com.cn/blog/HOJQVFNA/qian-xi-treap-ping-heng-shu" target="_blank">浅析Treap——平衡树</a><br>
     强烈建议先看此篇入门，良心好文。<br>
   2.<a href="https://www.cnblogs.com/ljc20020730/p/9873457.html" target="_blank">浅谈普通平衡树Treap</a><br>
@@ -131,11 +128,66 @@
     2.三位作者都很巨啦。<br>
     3.前两篇为大根堆，第三篇为小根堆。（指讲解部分）<br>
     4.关于第一篇有一部分讲解自认为有误，见下图。<br>
-<img src="https://Loctopus-hyt.github.io/loctopus.github.io//post-images/1584967872875.png" alt="修改" loading="lazy"></p>
+<span id='2'></span><img src="https://Loctopus-hyt.github.io/loctopus.github.io//post-images/1584967872875.png" alt="修改" loading="lazy"></p>
 <hr>
-<p><span id='2'>二.学习心得</span></p>
+<h3 id="二学习心得-top">二.学习心得                      <a href="#0">TOP</a></h3>
+<p>   <strong>Treap=Tree+Heap</strong>（此句绝对是精髓）<br>
+    由于二叉搜索树（BST）有一定可能退化成为一条<strong>链</strong>，于是乎借助了<br>
+    堆来维持树的平衡，防止其退化，因为堆是一棵<strong>完全二叉树</strong> &lt;-这是<br>
+    关键。完全二叉树的性质使得BST保持了平衡，使得其操作的复杂度<br>
+    趋近于O(logN)。<br>
+  1.关于<strong>旋转</strong>（个人认为是重难点）<br>
+     <strong>本质：在不改变BST性质的同时维护堆的性质</strong><br>
+    (1)基础认知：<br>
+     <strong>右旋是父节点往右，左儿子上位；</strong><br>
+     <strong>左旋是父节点往左，右儿子上位。</strong><br>
+     以右旋为例。<br>
+     右旋：父的左儿子上升到父的位置,然后父节点旋转到右下方,成为<br>
+        原左儿子的右儿子,最后将原左儿子的右儿子接到原父节点。<br>
+        的左侧（感觉讲的有点乱，还是看文二动图吧）<br>
+     关键是为什么这样不会破坏BST的性质呢，其实推一下就好。<br>
+     在文一中已经图解过，不再赘述，但要好好理解。<br>
+     还是讲一下吧。（父节点:P,左儿子:L,左儿子的右儿子:R）<br>
+     原关系：L&lt; R&lt; P<br>
+     P旋到右下时，与L的关系仍是L&lt; P,<br>
+     而原先R接到P左侧时有R&lt; P，又因R此时位于L(已成为新的根节点)<br>
+     右子树，故有L&lt; R。综上，新关系仍为L&lt; R&lt; P。<br>
+    (2)插入时的旋转<br>
+      <strong>先解决子树再旋转</strong><br>
+      理解：新节点random值只有在末端插入新节点后才会出现，<br>
+      所以要从下往上更新。<br>
+      <strong>旋转为什么不破坏堆的性质呢</strong><br>
+      x为要插入的数，p为当前的根节点，v[p]为p节点的值<br>
+      以x&gt;v[p]的情况为例，此时去p的右子树。如果添加完以后<br>
+      p的random值小于它的右儿子的值，将进行左旋操作调整。<br>
+      左旋时右儿子上位，p退位，树的结构调整至符合堆性质的情况。<br>
+      需要认识到的是，若如果添加完以后p的random值小于它的<br>
+      右儿子，则此时的p必为新添加的节点，因为原来的节点已满足<br>
+      堆的性质，同时这也是上面提到的要先解决子树，再视情况决定<br>
+      是否旋转的一种解释。<br>
+    (3)删除时的旋转<br>
+      <strong>先旋转再解决子树</strong><br>
+      理解：像堆一样把目标节点转到叶子去再删除<br>
+      <strong>为什么旋转上来的是大的节点</strong><br>
+      这其实是个关于堆的小问题，因为我们要维护的是<br>
+      大根堆，<span id='3'>自然</span>要大的上位啦<br>
+    (4)代码写法<br>
+     此处建议采用文一、二中的写法，一个函数搞定，<br>
+     利用^运算符进行巧妙转换。</p>
 <hr>
-<p><span id='3'>三.例题</span></p>
+<h3 id="三相关例题-top">三.相关例题                      <a href="#0">TOP</a></h3>
+<p>2<br>
+2<br>
+3<br>
+5<br>
+45<br>
+54<br>
+3<br>
+1<br>
+1<br>
+11<br>
+1<br>
+1</p>
 
             </div>
             
