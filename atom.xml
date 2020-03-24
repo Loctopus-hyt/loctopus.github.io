@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-24T12:39:21.661Z</updated>
+    <updated>2020-03-24T12:40:29.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -481,7 +481,7 @@
     关键。完全二叉树的性质使得BST保持了平衡，使得其操作的复杂度<br>
     趋近于O(logN)。<br>
   1.关于<strong>旋转</strong>（个人认为是重难点）<br>
-     <strong>本质：在不改变BST性质的同时维护堆的性质</strong><br>
+     <strong>本质：在不改变BST性质的同时为维护堆的性质提供操作</strong><br>
     (1)基础认知：<br>
      <strong>右旋是父节点往右，左儿子上位；</strong><br>
      <strong>左旋是父节点往左，右儿子上位。</strong><br>
