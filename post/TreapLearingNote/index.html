@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585053622351">
+<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585219673811">
 <link rel="stylesheet" href="https://Loctopus-hyt.github.io/loctopus.github.io//styles/main.css">
 
 
@@ -27,7 +27,8 @@
     <meta name="description" content="  一些关于学习Treap的学习笔记。
 
   由于本人并没有时间像网上的巨佬们一样将Treap的详解一一打出来（其实是懒），所以就在这转载一下我学习时参考的文章，学习心得以及几道例题。
-  注：本文缩进格式为手打空格，调整页面大小时会有变动..." />
+  注：1.本文所写Treap为大根堆维护。
+    ..." />
     <meta name="keywords" content="算法" />
   </head>
   <body>
@@ -37,7 +38,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://Loctopus-hyt.github.io/loctopus.github.io/">
-        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585053622351" class="site-logo">
+        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585219673811" class="site-logo">
         <h1 class="site-title">loctopus</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -110,7 +111,8 @@
               <p>  <span id='0'>一些</span>关于学习Treap的学习笔记。</p>
 <!-- more -->
 <p>  由于本人并没有时间像网上的巨佬们一样将Treap的详解一一打出来（<s>其实是懒</s>），所以就在这转载一下我学习时参考的文章，学习心得以及几道例题。<br>
-  注：本文缩进格式为手打空格，调整页面大小时会有变动(会变丑)建议全屏食用，部分文字缩进仍有bug，请见谅。<br>
+  注：1.本文所写Treap为大根堆维护。<br>
+    2.本文缩进格式为手打空格，调整页面大小时会有变动(会变丑)建议全屏食用，部分文字缩进仍有bug，请见谅。<br>
 【目录】<br>
  <a href="#1">一.参考文章</a><br>
 <span id='1'> <a href="#2">二.学习心得</a></span><br>
@@ -161,9 +163,9 @@
       以x&gt;v[p]的情况为例，此时去p的右子树。如果添加完以后<br>
       p的random值小于它的右儿子的值，将进行左旋操作调整。<br>
       左旋时右儿子上位，p退位，树的结构调整至符合堆性质的情况。<br>
-      需要认识到的是，若如果添加完以后p的random值小于它的<br>
+      <strong>需要认识到的是，若如果添加完以后p的random值小于它的<br>
       右儿子，则此时的p必为新添加的节点，因为原来的节点已满足<br>
-      堆的性质，同时这也是上面提到的要先解决子树，再视情况决定<br>
+      堆的性质</strong>，同时这也是上面提到的要先解决子树，再视情况决定<br>
       是否旋转的一种解释。<br>
     (3)删除时的旋转<br>
       <strong>先旋转再解决子树</strong><br>
@@ -176,18 +178,9 @@
      利用^运算符进行巧妙转换。</p>
 <hr>
 <h3 id="三相关例题-top">三.相关例题                      <a href="#0">TOP</a></h3>
-<p>2<br>
-2<br>
-3<br>
-5<br>
-45<br>
-54<br>
-3<br>
-1<br>
-1<br>
-11<br>
-1<br>
-1</p>
+<p>1.模板题：<a href="https://www.luogu.com.cn/problem/P3369" target="_blank">洛谷 P3369 【模板】普通平衡树</a><br>
+既然是模板题，就把上面学到的码出来吧。<br>
+code戳<a href="">这里</a></p>
 
             </div>
             

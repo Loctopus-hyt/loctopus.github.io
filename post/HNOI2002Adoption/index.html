@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>【HNOI2002】营业额统计 | loctopus</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585219673811">
+<link rel="stylesheet" href="https://Loctopus-hyt.github.io/loctopus.github.io//styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="题面：
+洛谷P2234 【HNOI2002】营业额统计
+题解：审题后可知该题主要是查找在已有数中一个数xxx的前驱（此题定义为权值xxx小于等于的最大
+   节点）与后继（此题定义为权值xxx大于等于的最小节点），然后选择一个更接近xxx的..." />
+    <meta name="keywords" content="题解" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://Loctopus-hyt.github.io/loctopus.github.io/">
+        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585219673811" class="site-logo">
+        <h1 class="site-title">loctopus</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://loctopus-hyt.github.io/loctopus.github.io/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="https://loctopus-hyt.github.io/loctopus.github.io/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+          <a class="social-link" href="https://github.com/Loctopus-hyt" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      我永远都没有长大  但我永远都没有停止生长
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://Loctopus-hyt.github.io/loctopus.github.io//atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">【HNOI2002】营业额统计</h2>
+            <div class="post-date">2020-03-26</div>
+            
+            <div class="post-content" v-pre>
+              <p>题面：<br>
+<a href="https://www.luogu.com.cn/problem/P2234" target="_blank">洛谷P2234 【HNOI2002】营业额统计</a><br>
+题解：审题后可知该题主要是查找在已有数中一个数<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的前驱（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>小于<strong>等于</strong>的最大<br>
+   节点）与后继（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>大于<strong>等于</strong>的最小节点），然后选择一个更接近<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的数。<br>
+   套用Treap模板即可，涉及插入，寻找前驱、后继的操作。<br>
+注意点：有<strong>负数</strong>存在<br>
+完整代码：</p>
+<pre><code class="language-c++">#include&lt;cstdio&gt;
+#include&lt;iostream&gt;
+#include&lt;stdlib.h&gt;
+#include&lt;cmath&gt; 
+#define N 40000
+#define inf 2000000005
+using namespace std;
+int n,small,big,ans;
+int sum=0,R=0;
+int v[N],size[N],rd[N],num[N],son[N][2];
+inline int read()
+{
+	int num=0,flag=1;
+	char c=getchar();
+	while(c&gt;'9'||c&lt;'0'){if(c=='-')flag=-1;c=getchar();}
+	while(c&gt;='0'&amp;&amp;c&lt;='9'){num=num*10+c-'0';c=getchar();}
+	return num*flag;
+}
+void pushup(int p)
+{
+	size[p]=size[son[p][0]]+size[son[p][1]]+num[p];
+}
+void rotate(int &amp;p,int d)
+{
+	int k=son[p][d^1];
+	son[p][d^1]=son[k][d];
+	son[k][d]=p;
+	pushup(p);
+	pushup(k);
+	p=k;
+}
+void ins(int &amp;p,int x)
+{
+	if(!p)
+	{
+		p=++sum;
+		size[p]=num[p]=1;
+		v[p]=x;
+		rd[p]=rand();
+		return;
+	}
+	if(v[p]==x)
+	{
+		size[p]++;
+		num[p]++;
+		return;
+	}
+	int d=(x&gt;v[p]);
+	ins(son[p][d],x);
+	if(rd[p]&lt;rd[son[p][d]]) rotate(p,d^1);
+	pushup(p);
+}
+void del(int &amp;p,int x)
+{
+	if(!p) return;
+	if(x&gt;v[p]) del(son[p][0],x);
+	else if(x&lt;v[p]) del(son[p][1],x);
+	else
+	{
+		if(!son[p][0]&amp;&amp;!son[p][1])
+		{
+			size[p]--;num[p]--;
+			if(size[p]==0)p=0;
+		}
+		else if(son[p][0]&amp;&amp;!son[p][1])
+		{
+			rotate(p,1);
+			del(son[p][1],x);
+		}
+		else if(!son[p][0]&amp;&amp;son[p][1])
+		{
+			rotate(p,0);
+			del(son[p][0],x);
+		}
+		else if(son[p][0]&amp;&amp;son[p][1])
+		{
+			int d=(rd[son[p][0]]&gt;rd[son[p][1]]);
+			rotate(p,d);
+			del(son[p][d],x);
+		}
+	}
+	pushup(p);
+}
+int pre(int p,int x)
+{
+	if(!p) return -inf;
+	if(v[p]==x) return v[p];
+	if(v[p]&gt;=x) return pre(son[p][0],x);
+	else return max(v[p],pre(son[p][1],x));
+}
+int suc(int p,int x)
+{
+	if(!p) return inf;
+	if(v[p]==x) return v[p];
+	if(v[p]&lt;=x) return suc(son[p][1],x);
+	else return min(v[p],suc(son[p][0],x));
+}
+int select(int x)
+{
+	int k;
+	small=pre(R,x);
+	big=suc(R,x);
+	k=abs(x-small)&lt;=abs(x-big)?small:big;
+	if(small==-inf&amp;&amp;big==inf) k=0;
+	ans=ans+abs(x-k);
+	ins(R,x);
+	return 0;
+}
+int main()
+{
+	n=read();
+	for(int i=1;i&lt;=n;i++)select(read());
+	printf(&quot;%d&quot;,ans);
+	return 0;
+}
+</code></pre>
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/dyyRZjLDJ/" class="tag">
+                    题解
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/luoguP3369/">
+                  <h3 class="post-title">
+                    【模板】普通平衡树
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>
