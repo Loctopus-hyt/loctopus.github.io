@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585219673811">
+<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585373561931">
 <link rel="stylesheet" href="https://Loctopus-hyt.github.io/loctopus.github.io//styles/main.css">
 
 
@@ -26,8 +26,9 @@
 
     <meta name="description" content="题面：
 洛谷P2234 【HNOI2002】营业额统计
-题解：审题后可知该题主要是查找在已有数中一个数xxx的前驱（此题定义为权值xxx小于等于的最大
-   节点）与后继（此题定义为权值xxx大于等于的最小节点），然后选择一个更接近xxx的..." />
+题解：审题后可知该题主要是查找在已有数中一个数xxx的前驱（此题定义为权值xxx小于
+   等于的最大节点）与后继（此题定义为权值xxx大于等于的最小节点），然后选择
+   一个更接近..." />
     <meta name="keywords" content="题解" />
   </head>
   <body>
@@ -37,7 +38,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://Loctopus-hyt.github.io/loctopus.github.io/">
-        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585219673811" class="site-logo">
+        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585373561931" class="site-logo">
         <h1 class="site-title">loctopus</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -109,8 +110,9 @@
             <div class="post-content" v-pre>
               <p>题面：<br>
 <a href="https://www.luogu.com.cn/problem/P2234" target="_blank">洛谷P2234 【HNOI2002】营业额统计</a><br>
-题解：审题后可知该题主要是查找在已有数中一个数<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的前驱（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>小于<strong>等于</strong>的最大<br>
-   节点）与后继（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>大于<strong>等于</strong>的最小节点），然后选择一个更接近<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的数。<br>
+题解：审题后可知该题主要是查找在已有数中一个数<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的前驱（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>小于<br>
+   <strong>等于</strong>的最大节点）与后继（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>大于<strong>等于</strong>的最小节点），然后选择<br>
+   一个更接近<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的数。<br>
    套用Treap模板即可，涉及插入，寻找前驱、后继的操作。<br>
 注意点：有<strong>负数</strong>存在<br>
 完整代码：</p>

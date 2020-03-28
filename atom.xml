@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-26T10:48:43.835Z</updated>
+    <updated>2020-03-28T05:33:35.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -10,6 +10,442 @@
     <logo>https://Loctopus-hyt.github.io/loctopus.github.io/images/avatar.png</logo>
     <icon>https://Loctopus-hyt.github.io/loctopus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, loctopus</rights>
+    <entry>
+        <title type="html"><![CDATA[20.03.28|希望]]></title>
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200328/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200328/">
+        </link>
+        <updated>2020-03-28T04:24:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:阴                Sat   星期六<br>
+  农历三月初四  春分</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:阴                Sat   星期六<br>
+  农历三月初四  春分</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<blockquote>
+<p>此身、此时、此地。           ——朱光潜先生的座右铭<br>
+  此身，凡此身应该做而且能够做的事，决不推诿给别人；<br>
+  此时，凡此时应该做而且能够做的事，决不推延到将来；<br>
+  此地，凡此地应该做而且能够做的事，决不等待想象中更好的境地。</p>
+</blockquote>
+<p>  今天好开森！！！<br>
+  早上效率爆棚，虽然还有点小瑕疵，但我现在完全被棒棒冲昏了头脑(๑•̀ㅂ•́)و✧。中午奖励了一下自己，闲逛时发现我朵出新歌了QWQ终于营业了，泪目。这曲风，怕是已经完全放飞自我了吧，不过也很棒。</p>
+<p>附：时间表</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+        <tr>
+            <th>7:30-8:00</th>
+            <th>睡觉 ...zZ</th>
+            <th>2</th>
+            <th>还在睡？</th>
+        </tr>
+        <tr>
+            <th>8:00-8:30</th>
+            <th>睡觉、起床、洗漱</th>
+            <th>3</th>
+            <th>要不要早点呐 QAQ</th>
+        </tr>
+        <tr>
+            <th>8:30-9:00</th>
+            <th>吃饭<strong>|</strong>生物学案</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>生物学案</th>
+            <th>4.5</th>
+            <th>哒哒哒</th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th>休息<strong>|</strong>数学练习册</th>
+            <th>4</th>
+            <th>棒棒哒</th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th>数学练习册</th>
+            <th>4.5</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th>休息<strong>|</strong>数学练习册</th>
+            <th>4</th>
+            <th>怎么办，好棒</th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th>数学练习册</th>
+            <th>3.5</th>
+            <th>碰到题卡住了</th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th>统计成绩<strong>|</strong>解答</th>
+            <th>3</th>
+            <th align="center">又了解了点二氧化硅<br>感受到了费曼xxf的力量</th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th>吃饭<strong>|</strong>写记录</th>
+            <th>3</th>
+            <th>牛肉牛肉</th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th>看ppball比赛</th>
+            <th>3</th>
+            <th align="center">奖励一下自己 <br>↖(^ω^)↗</th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th>收拾<strong>|</strong>music<strong>|</strong>写记录<strong>|</strong>写日记</th>
+            <th>3</th>
+            <th>kuwaha！</th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>22:00-22:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+</table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20.03.27|破而后立]]></title>
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200327/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200327/">
+        </link>
+        <updated>2020-03-27T05:02:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:晴                Fri   星期五<br>
+  农历三月初三  春分</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:晴                Fri   星期五<br>
+  农历三月初三  春分</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<blockquote>
+<p>你不应只滑到冰球所在的位置，而是要滑到冰球将要到达的地方。    ——安东尼 · 福奇</p>
+</blockquote>
+<p>  又到周五，开学的消息来得猝不及防。<br>
+  怎么办，这时候开学岂不是要半期考QAQ。<br>
+  数学课老师咕咕的有点久，结果...迟到15分，拖堂40分。简直快上了两个小时，咽口水都饱了，好想来根Ba+2Na。中午去奶奶家送枇杷，路上风景好。蓝天白云，明媚阳光，惠风和畅，草木送香。奶奶家的金银花有了花苞，我们家的还没有呢，村路上有不少绿树，今天看起来格外有生气，快到家时，忍不住飙起了车，冲啊！！！以后也要冲啊！！！（好久没这种感觉了呢）<br>
+  最近下午的课变得有点昏昏欲睡，生物课照例睡得着了emm...课前看了格桑花的照片，原来就是以前路上看到的那种好漂亮的花，好期待！<br>
+  那题郁闷的出纳员还没有进展，感觉一难一点我就写不动了，怎么办，明天要干下来啊。<br>
+  傍晚开个个LOJ的账号，感觉不太会用，晚上又在登记成绩上浪费了不少时间，好在后来做物理周练时效率挺高。22：50！！！好晚了！我得去睡了。<br>
+  对了，今天还看到好几句喜欢的句子，接下来慢慢写。</p>
+<p>附：时间表</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+        <tr>
+            <th>7:30-8:00</th>
+            <th>起床、洗漱、吃饭</th>
+            <th>3</th>
+            <th>要不要早点呐 QAQ</th>
+        </tr>
+        <tr>
+            <th>8:00-8:30</th>
+            <th>语文课</th>
+            <th>3</th>
+            <th>他在干嘛？</th>
+        </tr>
+        <tr>
+            <th>8:30-9:00</th>
+            <th>语文课<strong>|</strong>课间休息</th>
+            <th>3</th>
+            <th>有做眼保健操</th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>语文课</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th>休息<strong>|</strong>整理</th>
+            <th>3</th>
+            <th>焕然一新！</th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th>数学课</th>
+            <th>3</th>
+            <th>老师咕咕了？</th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th>数学课<strong>|</strong>课间休息</th>
+            <th>3.5</th>
+            <th>qs</th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th>数学课</th>
+            <th>3.5</th>
+            <th>一切正常<-_<-</th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th>数学课</th>
+            <th></th>
+            <th>这个老师好久</th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th>数学课<strong>|</strong>吃饭</th>
+            <th></th>
+            <th>迟到10分钟，拖堂40分</th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th>吃饭<strong>|</strong>看资讯</th>
+            <th>2</th>
+            <th>禁止看资讯！！！</th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th>写记录<strong>|</strong>写文</th>
+            <th>3</th>
+            <th>okok</th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th>进奶奶家</th>
+            <th>3</th>
+            <th>送枇杷啦，好舒服</th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th>生物课</th>
+            <th>1</th>
+            <th>没在听</th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th>生物课</th>
+            <th>3.5</th>
+            <th>又有在听了</th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th>生物课<strong>|</strong>睡觉</th>
+            <th>2.5</th>
+            <th>困了=_=</th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th>休息<strong>|</strong>历史考试</th>
+            <th>3</th>
+            <th>开始了开始了</th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th>历史考试</th>
+            <th>4</th>
+            <th>有点简单？</th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th>历史考试<strong>|</strong>上课</th>
+            <th>4</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th>历史课</th>
+            <th>4</th>
+            <th>yq姐姐好棒o(≧v≦)o~~</th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th>统计分数</th>
+            <th>2</th>
+            <th>无聊ing...</th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th>统计分数<strong>|</strong>乱看</th>
+            <th>2</th>
+            <th>注册了个LOJ</th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th>观察LOJ的各种姿势<strong>|</strong>吃饭</th>
+            <th>2</th>
+            <th>然并卵</th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th>吃饭<strong>|</strong>ppball</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th>统计分数<strong>|</strong>琐事</th>
+            <th>2</th>
+            <th>emm...</th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th>洗澡</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th>洗澡<strong>|</strong>交代事宜</th>
+            <th>2</th>
+            <th><s>感觉还不如自己直接做</s></th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th>看知乎<strong>|</strong>准备<strong>|</strong>物理周练</th>
+            <th>4</th>
+            <th>呼~~</th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th>物理周练</th>
+            <th>4.5</th>
+            <th>doing...</th>
+        </tr>
+        <tr>
+            <th>22:00-22:30</th>
+            <th>物理周练<strong>|</strong>写记录<strong>|</strong>写日记</th>
+            <th>4</th>
+            <th>疯狂操作ing...</th>
+        </tr>
+</table>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【HNOI2004】宠物收养场]]></title>
         <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/HNOI2004Turnover/</id>
@@ -162,8 +598,9 @@ int main()
         <updated>2020-03-26T08:35:08.000Z</updated>
         <content type="html"><![CDATA[<p>题面：<br>
 <a href="https://www.luogu.com.cn/problem/P2234" target="_blank">洛谷P2234 【HNOI2002】营业额统计</a><br>
-题解：审题后可知该题主要是查找在已有数中一个数<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的前驱（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>小于<strong>等于</strong>的最大<br>
-   节点）与后继（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>大于<strong>等于</strong>的最小节点），然后选择一个更接近<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的数。<br>
+题解：审题后可知该题主要是查找在已有数中一个数<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的前驱（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>小于<br>
+   <strong>等于</strong>的最大节点）与后继（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>大于<strong>等于</strong>的最小节点），然后选择<br>
+   一个更接近<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的数。<br>
    套用Treap模板即可，涉及插入，寻找前驱、后继的操作。<br>
 注意点：有<strong>负数</strong>存在<br>
 完整代码：</p>
@@ -436,6 +873,13 @@ int main()
 <blockquote>
 <p>人性的变化以及深邃，永远无法言说。            ——古龙</p>
 </blockquote>
+<p>  最近怎么不想学文化课了QAQ？？？？？<br>
+  每天一有空就是打开洛谷刷题，然后到了晚上刷完后准备开始写作业就干不动了。<br>
+  作业好多好烦，不想做！不想做！不想做！<br>
+  持续迷茫ing...<br>
+  今天的化学考试还出了什么幺蛾子...<br>
+  说好的大吉呢？!<br>
+<img src="https://Loctopus-hyt.github.io/loctopus.github.io//post-images/1585231521688.jpg" alt="假的大吉" loading="lazy"></p>
 <p>附：时间表</p>
 <table><tbody>
         <tr>
@@ -572,55 +1016,55 @@ int main()
         </tr>
         <tr>
             <th>18:00-18:30</th>
-            <th>吃饭<strong>|</strong>写记录<strong>|</strong>汇总作业</th>
-            <th></th>
-            <th></th>
+            <th>吃饭</th>
+            <th>3</th>
+            <th>又要下雷雨了</th>
         </tr>
         <tr>
             <th>18:30-19:00</th>
-            <th>吃饭</th>
-            <th></th>
+            <th>写记录<strong>|</strong>汇总作业</th>
+            <th>2.5</th>
             <th></th>
         </tr>
         <tr>
             <th>19:00-19:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>水（看资讯）</th>
+            <th>0</th>
+            <th>？？？</th>
         </tr>
         <tr>
             <th>19:30-20:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>水<strong>|</strong>写题</th>
+            <th>2</th>
+            <th>？</th>
         </tr>
         <tr>
             <th>20:00-20:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>信息课</th>
+            <th>3.5</th>
+            <th>妙哉</th>
         </tr>
         <tr>
             <th>20:30-21:00</th>
-            <th></th>
-            <th></th>
+            <th>信息课</th>
+            <th>3.5</th>
             <th></th>
         </tr>
         <tr>
             <th>21:00-21:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>信息课</th>
+            <th>4</th>
+            <th>RMQ？</th>
         </tr>
         <tr>
             <th>21:30-22:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>水</th>
+            <th>0</th>
+            <th>？？？</th>
         </tr>
         <tr>
             <th>22:00-22:30</th>
-            <th></th>
+            <th>写记录<strong>|</strong>写日记</th>
             <th></th>
             <th></th>
         </tr>
@@ -1299,7 +1743,8 @@ int main()
 <!-- more -->
 <p>  由于本人并没有时间像网上的巨佬们一样将Treap的详解一一打出来（<s>其实是懒</s>），所以就在这转载一下我学习时参考的文章，学习心得以及几道例题。<br>
   注：1.本文所写Treap为大根堆维护。<br>
-    2.本文缩进格式为手打空格，调整页面大小时会有变动(会变丑)建议全屏食用，部分文字缩进仍有bug，请见谅。<br>
+    2.本文缩进格式为手打空格，调整页面大小时会有变动(会变丑)建议全屏食用，<br>
+     部分文字缩进仍有bug，请见谅。<br>
 【目录】<br>
  <a href="#1">一.参考文章</a><br>
 <span id='1'> <a href="#2">二.学习心得</a></span><br>
@@ -1362,376 +1807,23 @@ int main()
       大根堆，<span id='3'>自然</span>要大的上位啦<br>
     (4)代码写法<br>
      此处建议采用文一、二中的写法，一个函数搞定，<br>
-     利用^运算符进行巧妙转换。</p>
+     利用^运算符进行巧妙转换。<br>
+  2.关于<strong>后继</strong><br>
+    我相信不少人跟我一样，后继都是复制前驱的，故在此指出要<br>
+    修改的地方，千万不要漏了！！！<br>
+    我错过好几次。（<s>图略丑，别介意</s>）<br>
+<img src="https://Loctopus-hyt.github.io/loctopus.github.io//post-images/1585287243937.jpg" alt="注意点" loading="lazy"></p>
 <hr>
 <h3 id="三相关例题-top">三.相关例题                      <a href="#0">TOP</a></h3>
-<p>1.模板题：<a href="https://www.luogu.com.cn/problem/P3369" target="_blank">洛谷 P3369 【模板】普通平衡树</a><br>
-既然是模板题，就把上面学到的码出来吧。<br>
-code戳<a href="">这里</a></p>
+<p>1.模板题：<a href="https://www.luogu.com.cn/problem/P3369" target="_blank">洛谷   P3369 【模板】普通平衡树</a><br>
+ 既然是模板题，就把上面学到的码出来吧。<br>
+ code戳<a href="https://loctopus-hyt.github.io/loctopus.github.io/post/luoguP3369/" target="_blank">这里</a><br>
+2.还是模板题：<a href="https://www.luogu.com.cn/problem/P2234" target="_blank">洛谷   P2234 【HNOI2002】营业额统计</a><br>
+ 涉及插入，寻找前驱、后继的操作。<br>
+ code戳<a href="https://loctopus-hyt.github.io/loctopus.github.io/post/HNOI2002Adoption/" target="_blank">这里</a><br>
+3.又双叒叕是模板题：<a href="https://www.luogu.com.cn/problem/P2286" target="_blank">洛谷   P2286 【HNOI2004】宠物收养场</a><br>
+ 涉及插入，删除，寻找前驱、后继的操作<br>
+ code戳<a href="https://loctopus-hyt.github.io/loctopus.github.io/post/HNOI2004Turnover/" target="_blank">这里</a></p>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OI省选算法汇总]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/OIAlgorithm/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/OIAlgorithm/">
-        </link>
-        <updated>2020-03-23T04:58:08.000Z</updated>
-        <summary type="html"><![CDATA[<p>  OI省选算法汇总<br>
-  转载自hzwer的博客，原文戳<a href="http://hzwer.com/1234.html">这里</a>,略有修改</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>  OI省选算法汇总<br>
-  转载自hzwer的博客，原文戳<a href="http://hzwer.com/1234.html">这里</a>,略有修改</p>
-<!-- more -->
-<p>  带*为选学</p>
-<p>1.1 基本数据结构<br>
-  1. 数组<br>
-  2. 链表，双向链表<br>
-  3. 队列，单调队列，双端队列<br>
-  4. 栈，单调栈<br>
-1.2 中级数据结构<br>
-  1. 堆<br>
-  2. 并查集与带权并查集<br>
-  3. hash 表<br>
-    自然溢出<br>
-    双hash<br>
-1.3 高级数据结构<br>
-  1. 树状数组<br>
-  2. 线段树，线段树合并<br>
-  3. 平衡树<br>
-    Treap 随机平衡二叉树<br>
-    Splay 伸展树<br>
-    Scapegoat Tree 替罪羊树<br>
-  4. 块状数组，块状链表<br>
-  5.* 树套树<br>
-    线段树套线段树<br>
-    线段树套平衡树<br>
-    平衡树套线段树<br>
-  6.可并堆<br>
-    左偏树<br>
-    配对堆<br>
-  7. *KDtree，*四分树<br>
-1.4 可持久化数据结构<br>
-  1. 可持久化线段树<br>
-    主席树<br>
-  2.* 可持久化平衡树<br>
-  3.* 可持久化块状数组<br>
-1.5 字符串相关算法及数据结构<br>
-  1. KMP<br>
-  2. AC 自动机<br>
-  3. 后缀数组<br>
-  4.*后缀树<br>
-  5.*后缀自动机<br>
-  6. 字典树 Trie<br>
-  7. manacher<br>
-1.6 图论相关<br>
-  1. 最小生成树<br>
-    prim<br>
-    kruskal<br>
-  2. 最短路，次短路，K短路<br>
-    spfa<br>
-    dijkstra<br>
-    floyd<br>
-  3. 图的连通<br>
-    连通分量<br>
-    割点，割边<br>
-  4. 网络流<br>
-     最大流<br>
-    最小割<br>
-    费用流<br>
-    分数规划<br>
-  5. 树相关<br>
-    树上倍增，公共祖先<br>
-    树链剖分<br>
-    树的分治算法（点分治，边分治，*动态？树分治）<br>
-    动态树 （LCT，*树分块）<br>
-    虚树<br>
-     *prufer编码<br>
-  6. 拓扑排序<br>
-  7. 欧拉图<br>
-  8. 二分图<br>
-    * KM算法<br>
-    匈牙利算法<br>
-1.7 数学相关<br>
-  1. （扩展）欧几里得算法，筛法，快速幂<br>
-    斐蜀定理<br>
-    更相减损术<br>
-  2. 欧拉函数与*降幂大法<br>
-  3. 费马小定理<br>
-  4. 排列组合<br>
-     lucas定理<br>
-  5. 乘法逆元<br>
-  6. 矩阵乘法<br>
-  7. 数学期望与概率<br>
-  8. 博弈论<br>
-    sg函数<br>
-    树上删边游戏<br>
-  1. *拉格朗日乘子法<br>
-  2.  中国剩余定理<br>
-  3.  线性规划与网络流<br>
-  4.  单纯型线性规划<br>
-  5.  辛普森积分<br>
-  6.  模线性方程组<br>
-  7.  容斥原理与莫比乌斯反演<br>
-  8.  置换群<br>
-  9.  快速傅里叶变换<br>
-  10. *大步小步法（BSGS），扩展BSGS<br>
-1.8 动态规划<br>
-  1. 一般，背包，状压，区间，环形，树形，数位动态规划<br>
-    记忆化搜索<br>
-    斯坦纳树<br>
-    背包九讲<br>
-  2. 斜率优化与* 四边形不等式优化<br>
-  3. 环 + 外向树上的动态规划<br>
-  4. *插头动态规划<br>
-1.9 计算几何<br>
-  1. 计算几何基础<br>
-  2. 三维计算几何初步<br>
-  3. *梯形剖分与*三角形剖分<br>
-  4. 旋转卡壳<br>
-  5. 半平面交<br>
-  6. pick定理<br>
-  7. 扫描线<br>
-1.10 搜索相关<br>
-  1. bfs，dfs<br>
-  2. A* 算法<br>
-  3. 迭代加深搜索，双向广搜<br>
-1.11 特殊算法<br>
-  1. 莫队算法，*树上莫队<br>
-  2. 模拟退火<br>
-  3. 爬山算法<br>
-  4. 随机增量法<br>
-1.12 其它重要工具与方法<br>
-  1.模拟与贪心<br>
-  1. 二分，三分法（求偏导）<br>
-  2. 分治，CDQ分治<br>
-  3. 高精度<br>
-  4. 离线<br>
-  5. ST表<br>
-1.13 STL<br>
-  1. map<br>
-  2. priority_queue<br>
-  3. set<br>
-  4. bitset<br>
-  5. rope<br>
-1.14 非常见算法<br>
-  1. *朱刘算法<br>
-  2. *弦图与区间图</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20.03.22|奋]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200322/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200322/">
-        </link>
-        <updated>2020-03-22T01:53:17.000Z</updated>
-        <summary type="html"><![CDATA[<p>  天气:晴                Sun   星期天<br>
-  农历二月廿九  春分</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>  天气:晴                Sun   星期天<br>
-  农历二月廿九  春分</p>
-<!-- more -->
-<!--
-    可能要用到的代码
-    &emsp;                     空格，占一个汉字
-    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
-    <strong></strong> 加粗
-    <br>                         换行标签
--->
-<blockquote>
-<p>弱小和无知都不是生存的障碍，傲慢才是          ——刘慈欣《三体》</p>
-</blockquote>
-<p>  是日，天朗气清，惠风和畅。于是乎...<br>
-  又赖床啦QAQ。<br>
-  早上效率杠杠的，虽然还是犯了几个小毛病，但是还算顺风顺水。中午快速切掉一道树形DP水题（虽然还是看了题解QAQ）。下午模拟赛，打开一看，三道模板题，可调试得我要炸了。看到result的时候这个人震悚了一下...看了半天，结果是几个字导致了这次惨祸。我要没了。昨天的那题也是小细节夺命qwq。晚上边上英语课边写题，效率低下，英语课结束后又看水题，想用新方法做一做，可失败了...（我太菜了）然后又去平衡树的题解里闲逛。好吧，今晚得早睡觉。<br>
-  去吧去吧，明天要加油哦。</p>
-<p>附：时间表</p>
-<table><tbody>
-        <tr>
-            <th align="center" width="150" >时间</th>
-            <th align="center" width="450" >事件</th>
-            <th align="center" width="80" >得分</th>
-            <th align="center" width="270" >备注</th>
-        </tr>
-        <tr>
-            <th>7:50-8:00</th>
-            <th>起床、洗漱</th>
-            <th>3</th>
-            <th>又晚了QAQ</th>
-        </tr>
-        <tr>
-            <th>8:00-8:30</th>
-            <th>吃饭<strong>|</strong>整理</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>8:30-9:00</th>
-            <th>琐事<strong>|</strong>数学作业</th>
-            <th>4</th>
-            <th>飞起</th>
-        </tr>
-        <tr>
-            <th>9:00-9:30</th>
-            <th>数学作业</th>
-            <th>3.5</th>
-            <th>怎么数学也有<br>暴力枚举</th>
-        </tr>
-        <tr>
-            <th>9:30-10:00</th>
-            <th>琐事<strong>|</strong>写记录</th>
-            <th>2.5</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>10:00-10:30</th>
-            <th>化学名校</th>
-            <th>4.5</th>
-            <th>飞起</th>
-        </tr>
-        <tr>
-            <th>10:30-11:00</th>
-            <th>化学名校</th>
-            <th>4.5</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>11:00-11:30</th>
-            <th>化学名校<strong>|</strong>休息<strong>|</strong>写记录</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>11:30-12:00</th>
-            <th>写记录<strong>|</strong>吃饭</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>12:00-12:30</th>
-            <th>吃饭<strong>|</strong>ppball</th>
-            <th>3</th>
-            <th>额，这蛏...</th>
-        </tr>
-        <tr>
-            <th>12:30-13:00</th>
-            <th>ppball</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>13:00-13:30</th>
-            <th>树形动规水题</th>
-            <th>3</th>
-            <th>你怎么看题解</th>
-        </tr>
-        <tr>
-            <th>13:30-14:00</th>
-            <th>模拟赛</th>
-            <th>4</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>14:00-14:30</th>
-            <th>模拟赛</th>
-            <th>3.5</th>
-            <th>卡住了</th>
-        </tr>
-        <tr>
-            <th>14:30-15:00</th>
-            <th>模拟赛</th>
-            <th>4</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>15:00-15:30</th>
-            <th>模拟赛</th>
-            <th>3.5</th>
-            <th>又卡住了</th>
-        </tr>
-        <tr>
-            <th>15:30-16:00</th>
-            <th>模拟赛</th>
-            <th>3</th>
-            <th>卡ing</th>
-        </tr>
-        <tr>
-            <th>16:00-16:30</th>
-            <th>模拟赛</th>
-            <th>2.5</th>
-            <th>暴走</th>
-        </tr>
-        <tr>
-            <th>16:30-17:00</th>
-            <th>模拟赛</th>
-            <th>3</th>
-            <th>以为还行</th>
-        </tr>
-        <tr>
-            <th>17:00-17:30</th>
-            <th>改题</th>
-            <th>3.5</th>
-            <th>结果凉凉</th>
-        </tr>
-        <tr>
-            <th>17:30-18:00</th>
-            <th>评讲<strong>|</strong>继续改题</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>18:00-18:30</th>
-            <th>洗澡</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>18:30-19:00</th>
-            <th>吃饭</th>
-            <th>3</th>
-            <th>有芋粿吃（其实不知道普通话是不是这么说的）</th>
-        </tr>
-        <tr>
-            <th>19:00-19:30</th>
-            <th>改题</th>
-            <th>3.5</th>
-            <th>知道真相的我吐了</th>
-        </tr>
-        <tr>
-            <th>19:30-20:00</th>
-            <th>英语课<strong>|</strong>写题</th>
-            <th>3</th>
-            <th>对不起松姐</th>
-        </tr>
-        <tr>
-            <th>20:00-20:30</th>
-            <th>英语课<strong>|</strong>写题</th>
-            <th>3</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>20:30-21:00</th>
-            <th>英语课<strong>|</strong>写题</th>
-            <th>2.5</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>21:00-21:30</th>
-            <th>树形DP</th>
-            <th>3</th>
-            <th>略废</th>
-        </tr>
-        <tr>
-            <th>21:30-22:00</th>
-            <th>树形DP<strong>|</strong>写记录</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>22:00-22:30</th>
-            <th>写记录<strong>|</strong>写日记</th>
-            <th>3</th>
-            <th>成功早睡</th>
-        </tr>
-</table>]]></content>
     </entry>
 </feed>

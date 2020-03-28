@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585219673811">
+<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585373561931">
 <link rel="stylesheet" href="https://Loctopus-hyt.github.io/loctopus.github.io//styles/main.css">
 
 
@@ -38,7 +38,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://Loctopus-hyt.github.io/loctopus.github.io/">
-        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585219673811" class="site-logo">
+        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585373561931" class="site-logo">
         <h1 class="site-title">loctopus</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -112,7 +112,8 @@
 <!-- more -->
 <p>  由于本人并没有时间像网上的巨佬们一样将Treap的详解一一打出来（<s>其实是懒</s>），所以就在这转载一下我学习时参考的文章，学习心得以及几道例题。<br>
   注：1.本文所写Treap为大根堆维护。<br>
-    2.本文缩进格式为手打空格，调整页面大小时会有变动(会变丑)建议全屏食用，部分文字缩进仍有bug，请见谅。<br>
+    2.本文缩进格式为手打空格，调整页面大小时会有变动(会变丑)建议全屏食用，<br>
+     部分文字缩进仍有bug，请见谅。<br>
 【目录】<br>
  <a href="#1">一.参考文章</a><br>
 <span id='1'> <a href="#2">二.学习心得</a></span><br>
@@ -175,12 +176,23 @@
       大根堆，<span id='3'>自然</span>要大的上位啦<br>
     (4)代码写法<br>
      此处建议采用文一、二中的写法，一个函数搞定，<br>
-     利用^运算符进行巧妙转换。</p>
+     利用^运算符进行巧妙转换。<br>
+  2.关于<strong>后继</strong><br>
+    我相信不少人跟我一样，后继都是复制前驱的，故在此指出要<br>
+    修改的地方，千万不要漏了！！！<br>
+    我错过好几次。（<s>图略丑，别介意</s>）<br>
+<img src="https://Loctopus-hyt.github.io/loctopus.github.io//post-images/1585287243937.jpg" alt="注意点" loading="lazy"></p>
 <hr>
 <h3 id="三相关例题-top">三.相关例题                      <a href="#0">TOP</a></h3>
-<p>1.模板题：<a href="https://www.luogu.com.cn/problem/P3369" target="_blank">洛谷 P3369 【模板】普通平衡树</a><br>
-既然是模板题，就把上面学到的码出来吧。<br>
-code戳<a href="">这里</a></p>
+<p>1.模板题：<a href="https://www.luogu.com.cn/problem/P3369" target="_blank">洛谷   P3369 【模板】普通平衡树</a><br>
+ 既然是模板题，就把上面学到的码出来吧。<br>
+ code戳<a href="https://loctopus-hyt.github.io/loctopus.github.io/post/luoguP3369/" target="_blank">这里</a><br>
+2.还是模板题：<a href="https://www.luogu.com.cn/problem/P2234" target="_blank">洛谷   P2234 【HNOI2002】营业额统计</a><br>
+ 涉及插入，寻找前驱、后继的操作。<br>
+ code戳<a href="https://loctopus-hyt.github.io/loctopus.github.io/post/HNOI2002Adoption/" target="_blank">这里</a><br>
+3.又双叒叕是模板题：<a href="https://www.luogu.com.cn/problem/P2286" target="_blank">洛谷   P2286 【HNOI2004】宠物收养场</a><br>
+ 涉及插入，删除，寻找前驱、后继的操作<br>
+ code戳<a href="https://loctopus-hyt.github.io/loctopus.github.io/post/HNOI2004Turnover/" target="_blank">这里</a></p>
 
             </div>
             
