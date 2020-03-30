@@ -1,172 +1,195 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" >
-
+  <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>题解 | loctopus</title>
-
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585373561931">
+<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585548213606">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://Loctopus-hyt.github.io/loctopus.github.io//styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="题解 | loctopus - Atom Feed" href="https://Loctopus-hyt.github.io/loctopus.github.io//atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-
-
-
-    <meta name="description" content="我永远都没有长大  但我永远都没有停止生长">
+  <meta name="description" content="我永远都没有长大  但我永远都没有停止生长" />
   </head>
   <body>
-    <div id="app" class="main">
-
-      <div class="sidebar" :class="{ 'full-height': menuVisible }">
-  <div class="top-container" data-aos="fade-right">
-    <div class="top-header-container">
-      <a class="site-title-container" href="https://Loctopus-hyt.github.io/loctopus.github.io/">
-        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585373561931" class="site-logo">
-        <h1 class="site-title">loctopus</h1>
-      </a>
-      <div class="menu-btn" @click="menuVisible = !menuVisible">
-        <div class="line"></div>
-      </div>
-    </div>
-    <div>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://Loctopus-hyt.github.io/loctopus.github.io/">
+  <img class="avatar" src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585548213606" alt="">
+  </a>
+  <h1 class="site-title">
+    loctopus
+  </h1>
+  <p class="site-description">
+    我永远都没有长大  但我永远都没有停止生长
+  </p>
+  <div class="menu-container">
+    
       
-        
-          <a href="https://loctopus-hyt.github.io/loctopus.github.io/" class="site-nav">
-            首页
-          </a>
-        
+        <a href="https://loctopus-hyt.github.io/loctopus.github.io/" class="menu">
+          首页
+        </a>
       
-        
-          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/archives" class="site-nav">
-            归档
-          </a>
-        
+    
       
-        
-          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tags" class="site-nav">
-            标签
-          </a>
-        
+        <a href="https://Loctopus-hyt.github.io/loctopus.github.io/archives" class="menu">
+          归档
+        </a>
       
-        
-          <a href="https://loctopus-hyt.github.io/loctopus.github.io/post/about" class="site-nav">
-            关于
-          </a>
-        
+    
       
-    </div>
+        <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="https://loctopus-hyt.github.io/loctopus.github.io/post/about" class="menu">
+          关于
+        </a>
+      
+    
   </div>
-  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
-    <div class="social-container">
+  <div class="social-container">
+    
       
-        
-          <a class="social-link" href="https://github.com/Loctopus-hyt" target="_blank">
-            <i class="fab fa-github"></i>
-          </a>
-        
+    
       
-        
+    
       
-        
+    
       
-        
+    
       
-        
-      
-    </div>
-    <div class="site-description">
-      我永远都没有长大  但我永远都没有停止生长
-    </div>
-    <div class="site-footer">
-      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://Loctopus-hyt.github.io/loctopus.github.io//atom.xml" target="_blank">RSS</a>
-    </div>
+    
   </div>
 </div>
 
-
-      <div class="main-container">
-        <div class="content-container" data-aos="fade-up">
-          <h2 class="current-tag">标签: 题解</h2>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/HNOI2004Turnover/">
-                  <h2 class="post-title">【HNOI2004】宠物收养场</h2>
-                </a>
-                <div class="post-date">
-                  2020-03-26
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/HNOI2002Adoption/">
-                  <h2 class="post-title">【HNOI2002】营业额统计</h2>
-                </a>
-                <div class="post-date">
-                  2020-03-26
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/luoguP3369/">
-                  <h2 class="post-title">【模板】普通平衡树</h2>
-                </a>
-                <div class="post-date">
-                  2020-03-26
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-            </article>
-          
-
-          <div class="pagination-container">
-  
-  
-</div>
-
+        <div class="current-tag-container">
+            <h2 class="title">
+                标签：# 题解
+            </h2> 
         </div>
+        <div class="post-container">
+  
+    <article class="post">
+      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/TiJie200329/">
+        <h2 class="post-title">20.03.29校模拟赛</h2>
+      </a>
+      <div class="post-info">
+        <span>
+          2020-03-29
+        </span>
+        <span>
+          11 min read
+        </span>
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/dyyRZjLDJ/" class="post-tag">
+            # 题解
+          </a>
+        
+      </div>
+      
+      <div class="post-abstract">
+        
+      </div>
+    </article>
+  
+    <article class="post">
+      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/HNOI2004Turnover/">
+        <h2 class="post-title">【HNOI2004】宠物收养场</h2>
+      </a>
+      <div class="post-info">
+        <span>
+          2020-03-26
+        </span>
+        <span>
+          4 min read
+        </span>
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/dyyRZjLDJ/" class="post-tag">
+            # 题解
+          </a>
+        
+      </div>
+      
+      <div class="post-abstract">
+        
+      </div>
+    </article>
+  
+    <article class="post">
+      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/HNOI2002Adoption/">
+        <h2 class="post-title">【HNOI2002】营业额统计</h2>
+      </a>
+      <div class="post-info">
+        <span>
+          2020-03-26
+        </span>
+        <span>
+          4 min read
+        </span>
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/dyyRZjLDJ/" class="post-tag">
+            # 题解
+          </a>
+        
+      </div>
+      
+      <div class="post-abstract">
+        
+      </div>
+    </article>
+  
+    <article class="post">
+      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/luoguP3369/">
+        <h2 class="post-title">【模板】普通平衡树</h2>
+      </a>
+      <div class="post-info">
+        <span>
+          2020-03-26
+        </span>
+        <span>
+          4 min read
+        </span>
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/dyyRZjLDJ/" class="post-tag">
+            # 题解
+          </a>
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/7-01MmYUn/" class="post-tag">
+            # 模板
+          </a>
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/Xy0WLMHq4/" class="post-tag">
+            # 算法
+          </a>
+        
+      </div>
+      
+      <div class="post-abstract">
+        
+      </div>
+    </article>
+  
+</div>
+
+        <div class="pagination-container">
+  
+  
+</div>
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://Loctopus-hyt.github.io/loctopus.github.io//atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
       </div>
     </div>
-
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-<script type="application/javascript">
-
-AOS.init();
-
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
-
-</script>
-
-
-
-
-
-
   </body>
 </html>
