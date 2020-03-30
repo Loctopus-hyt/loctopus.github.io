@@ -1,347 +1,301 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" >
+
 <title>loctopus</title>
-<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585548213606">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585548528835">
 <link rel="stylesheet" href="https://Loctopus-hyt.github.io/loctopus.github.io//styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="loctopus - Atom Feed" href="https://Loctopus-hyt.github.io/loctopus.github.io//atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 
-    <meta name="description" content="我永远都没有长大  但我永远都没有停止生长" />
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="我永远都没有长大  但我永远都没有停止生长">
+    
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://Loctopus-hyt.github.io/loctopus.github.io/">
-  <img class="avatar" src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585548213606" alt="">
-  </a>
-  <h1 class="site-title">
-    loctopus
-  </h1>
-  <p class="site-description">
-    我永远都没有长大  但我永远都没有停止生长
-  </p>
-  <div class="menu-container">
-    
-      
-        <a href="https://loctopus-hyt.github.io/loctopus.github.io/" class="menu">
-          首页
-        </a>
-      
-    
-      
-        <a href="https://Loctopus-hyt.github.io/loctopus.github.io/archives" class="menu">
-          归档
-        </a>
-      
-    
-      
-        <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tags" class="menu">
-          标签
-        </a>
-      
-    
-      
-        <a href="https://loctopus-hyt.github.io/loctopus.github.io/post/about" class="menu">
-          关于
-        </a>
-      
-    
-  </div>
-  <div class="social-container">
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-  </div>
-</div>
+    <div id="app" class="main">
 
-    
-        <div class="post-container">
-  
-    <article class="post">
-      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200325/">
-        <h2 class="post-title">20.03.25|废废烊烊</h2>
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://Loctopus-hyt.github.io/loctopus.github.io/">
+        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585548528835" class="site-logo">
+        <h1 class="site-title">loctopus</h1>
       </a>
-      <div class="post-info">
-        <span>
-          2020-03-25
-        </span>
-        <span>
-          3 min read
-        </span>
-        
-          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/hJ7iJR0Y1/" class="post-tag">
-            # 日记
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <p>  天气:多云                Wed   星期三<br>
-  农历三月初二  春分</p>
-
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200324/">
-        <h2 class="post-title">20.03.24|奇怪的知识增加了</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2020-03-24
-        </span>
-        <span>
-          3 min read
-        </span>
-        
-          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/hJ7iJR0Y1/" class="post-tag">
-            # 日记
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <p>  天气:晴                Tue   星期二<br>
-  农历三月初一  春分</p>
-
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200323/">
-        <h2 class="post-title">20.03.23|又一周</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2020-03-23
-        </span>
-        <span>
-          4 min read
-        </span>
-        
-          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/hJ7iJR0Y1/" class="post-tag">
-            # 日记
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <p>  天气:阴转雷雨                Mon   星期一<br>
-  农历二月三十  春分</p>
-
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200322/">
-        <h2 class="post-title">20.03.22|奋</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2020-03-22
-        </span>
-        <span>
-          3 min read
-        </span>
-        
-          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/hJ7iJR0Y1/" class="post-tag">
-            # 日记
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <p>  天气:晴                Sun   星期天<br>
-  农历二月廿九  春分</p>
-
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200321/">
-        <h2 class="post-title">20.03.21|世界睡眠日</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2020-03-21
-        </span>
-        <span>
-          4 min read
-        </span>
-        
-          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/hJ7iJR0Y1/" class="post-tag">
-            # 日记
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <p>  天气:晴                Sat   星期六<br>
-  农历二月廿八  春分</p>
-
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200320/">
-        <h2 class="post-title">20.03.20|今日春分,燕归花开</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2020-03-20
-        </span>
-        <span>
-          4 min read
-        </span>
-        
-          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/hJ7iJR0Y1/" class="post-tag">
-            # 日记
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <p>  天气:晴                Fri   星期五<br>
-  农历二月廿七  春分</p>
-
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200319/">
-        <h2 class="post-title">20.03.19|有故事的一天</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2020-03-19
-        </span>
-        <span>
-          4 min read
-        </span>
-        
-          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/hJ7iJR0Y1/" class="post-tag">
-            # 日记
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <p>  天气:雨                Thu   星期四<br>
-  农历二月廿六  惊蛰</p>
-
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary-200318/">
-        <h2 class="post-title">20.03.18|一言难尽之尬</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2020-03-18
-        </span>
-        <span>
-          4 min read
-        </span>
-        
-          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/hJ7iJR0Y1/" class="post-tag">
-            # 日记
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <p>  天气:雨                Wed   星期三<br>
-  农历二月廿五  惊蛰</p>
-
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary-200317/">
-        <h2 class="post-title">20.03.17|次日</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2020-03-17
-        </span>
-        <span>
-          4 min read
-        </span>
-        
-          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/hJ7iJR0Y1/" class="post-tag">
-            # 日记
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <p>  天气:晴转多云转雨                 Tue  星期二<br>
-  农历二月廿四  惊蛰</p>
-
-      </div>
-    </article>
-  
-    <article class="post">
-      <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary-200316/">
-        <h2 class="post-title">20.03.16|新的开始</h2>
-      </a>
-      <div class="post-info">
-        <span>
-          2020-03-16
-        </span>
-        <span>
-          4 min read
-        </span>
-        
-          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/hJ7iJR0Y1/" class="post-tag">
-            # 日记
-          </a>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <p>  天气:晴                Mon   星期一<br>
-  农历二月廿三   惊蛰</p>
-
-      </div>
-    </article>
-  
-</div>
-
-    
-        <div class="pagination-container">
-  
-    <a href="https://Loctopus-hyt.github.io/loctopus.github.io/" class="prev-page">上一页</a>
-  
-  
-    <a href="https://Loctopus-hyt.github.io/loctopus.github.io/page/3/" class="next-page">下一页</a>
-  
-</div>
-
-    
-        <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <a class="rss" href="https://Loctopus-hyt.github.io/loctopus.github.io//atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
-</div>
-
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
       </div>
     </div>
+    <div>
+      
+        
+          <a href="https://loctopus-hyt.github.io/loctopus.github.io/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="https://loctopus-hyt.github.io/loctopus.github.io/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+          <a class="social-link" href="https://github.com/Loctopus-hyt" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      我永远都没有长大  但我永远都没有停止生长
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://Loctopus-hyt.github.io/loctopus.github.io//atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200325/">
+                  <h2 class="post-title">20.03.25|废废烊烊</h2>
+                </a>
+                <div class="post-date">
+                  2020-03-25
+                </div>
+                <div class="post-abstract">
+                  <p>  天气:多云                Wed   星期三<br>
+  农历三月初二  春分</p>
+
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200324/">
+                  <h2 class="post-title">20.03.24|奇怪的知识增加了</h2>
+                </a>
+                <div class="post-date">
+                  2020-03-24
+                </div>
+                <div class="post-abstract">
+                  <p>  天气:晴                Tue   星期二<br>
+  农历三月初一  春分</p>
+
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200323/">
+                  <h2 class="post-title">20.03.23|又一周</h2>
+                </a>
+                <div class="post-date">
+                  2020-03-23
+                </div>
+                <div class="post-abstract">
+                  <p>  天气:阴转雷雨                Mon   星期一<br>
+  农历二月三十  春分</p>
+
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200322/">
+                  <h2 class="post-title">20.03.22|奋</h2>
+                </a>
+                <div class="post-date">
+                  2020-03-22
+                </div>
+                <div class="post-abstract">
+                  <p>  天气:晴                Sun   星期天<br>
+  农历二月廿九  春分</p>
+
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200321/">
+                  <h2 class="post-title">20.03.21|世界睡眠日</h2>
+                </a>
+                <div class="post-date">
+                  2020-03-21
+                </div>
+                <div class="post-abstract">
+                  <p>  天气:晴                Sat   星期六<br>
+  农历二月廿八  春分</p>
+
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200320/">
+                  <h2 class="post-title">20.03.20|今日春分,燕归花开</h2>
+                </a>
+                <div class="post-date">
+                  2020-03-20
+                </div>
+                <div class="post-abstract">
+                  <p>  天气:晴                Fri   星期五<br>
+  农历二月廿七  春分</p>
+
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200319/">
+                  <h2 class="post-title">20.03.19|有故事的一天</h2>
+                </a>
+                <div class="post-date">
+                  2020-03-19
+                </div>
+                <div class="post-abstract">
+                  <p>  天气:雨                Thu   星期四<br>
+  农历二月廿六  惊蛰</p>
+
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary-200318/">
+                  <h2 class="post-title">20.03.18|一言难尽之尬</h2>
+                </a>
+                <div class="post-date">
+                  2020-03-18
+                </div>
+                <div class="post-abstract">
+                  <p>  天气:雨                Wed   星期三<br>
+  农历二月廿五  惊蛰</p>
+
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary-200317/">
+                  <h2 class="post-title">20.03.17|次日</h2>
+                </a>
+                <div class="post-date">
+                  2020-03-17
+                </div>
+                <div class="post-abstract">
+                  <p>  天气:晴转多云转雨                 Tue  星期二<br>
+  农历二月廿四  惊蛰</p>
+
+                </div>
+              </div>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary-200316/">
+                  <h2 class="post-title">20.03.16|新的开始</h2>
+                </a>
+                <div class="post-date">
+                  2020-03-16
+                </div>
+                <div class="post-abstract">
+                  <p>  天气:晴                Mon   星期一<br>
+  农历二月廿三   惊蛰</p>
+
+                </div>
+              </div>
+              
+            </article>
+          
+
+          <div class="pagination-container">
+  
+    <a href="https://Loctopus-hyt.github.io/loctopus.github.io/" class="prev"><i class="icon-arrow-ios-back-outline"></i> 上一页</a>
+  
+  
+    <a href="https://Loctopus-hyt.github.io/loctopus.github.io/page/3/" class="next">下一页 <i class="icon-arrow-ios-forward-outline"></i></a>
+  
+</div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
   </body>
 </html>
