@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>【NOI2004】郁闷的出纳员 | loctopus</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585976258657">
+<link rel="stylesheet" href="https://Loctopus-hyt.github.io/loctopus.github.io//styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="【题面】
+洛谷P1486 【NOI2004】郁闷的出纳员
+【题解】
+此题把我搞郁闷了好几天，是我太菜了QwQ
+操作  III  : 正常插入。
+操作 FFF : 正常查找。注意为第 kkk多！
+操作 AAA : 把每个元素的值都加 kkk。..." />
+    <meta name="keywords" content="题解" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://Loctopus-hyt.github.io/loctopus.github.io/">
+        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585976258657" class="site-logo">
+        <h1 class="site-title">loctopus</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://loctopus-hyt.github.io/loctopus.github.io/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="https://loctopus-hyt.github.io/loctopus.github.io/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+          <a class="social-link" href="https://github.com/Loctopus-hyt" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      我永远都没有长大  但我永远都没有停止生长
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://Loctopus-hyt.github.io/loctopus.github.io//atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">【NOI2004】郁闷的出纳员</h2>
+            <div class="post-date">2020-04-03</div>
+            
+            <div class="post-content" v-pre>
+              <p>【题面】<br>
+<a href="https://www.luogu.com.cn/problem/P1486" target="_blank">洛谷P1486 【NOI2004】郁闷的出纳员</a><br>
+【题解】<br>
+此题把我搞郁闷了好几天，是我太菜了QwQ<br>
+操作  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>I</mi></mrow><annotation encoding="application/x-tex">I</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07847em;">I</span></span></span></span>  : 正常插入。<br>
+操作 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>F</mi></mrow><annotation encoding="application/x-tex">F</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span></span></span></span> : 正常查找。注意为第 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>k</mi></mrow><annotation encoding="application/x-tex">k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span>多！<br>
+操作 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span> : 把每个元素的值都加 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>k</mi></mrow><annotation encoding="application/x-tex">k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span>。 第一反应就是对全体元素打一个加法标记dif。<br>
+    可后来的元素怎么办呢？ 第一思路是每个元素的标记都单独区分，但这样<br>
+    显然是不行的，那么有没有一种办法使原先的加分标记对后来元素也有效<br>
+    呢，于是就有了这样一个等式 <strong><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span><sub>1</sub><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>+</mo></mrow><annotation encoding="application/x-tex">+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">+</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>d</mi><mi>i</mi><mi>f</mi></mrow><annotation encoding="application/x-tex">dif</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>=</mo></mrow><annotation encoding="application/x-tex">=</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">=</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span><sub>0</sub></strong><br>
+    所以稍稍改变插入操作，插入 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi><mo>−</mo><mi>d</mi><mi>i</mi><mi>f</mi></mrow><annotation encoding="application/x-tex">x-dif</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span></span></span></span> 即可解决问题。<br>
+    接下来 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span> 操作就变成 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>d</mi><mi>i</mi><mi>f</mi><mo>+</mo><mi>k</mi></mrow><annotation encoding="application/x-tex">dif+k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span>？<br>
+    别忘了还有 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi><mi>i</mi><mi>n</mi></mrow><annotation encoding="application/x-tex">min</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.65952em;vertical-align:0em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span></span></span></span> , <s>又是个麻烦</s><br>
+    其实有了上面的分析，很容易得出 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi><mi>i</mi><mi>n</mi></mrow><annotation encoding="application/x-tex">min</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.65952em;vertical-align:0em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span></span></span></span> 的解决办法<br>
+    插入条件：<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi><mi>i</mi><mi>n</mi><mo>≤</mo></mrow><annotation encoding="application/x-tex">min≤</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.79549em;vertical-align:-0.13597em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span><sub>0</sub> 等价于 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi><mi>i</mi><mi>n</mi><mo>−</mo><mi>d</mi><mi>i</mi><mi>f</mi><mo>≤</mo></mrow><annotation encoding="application/x-tex">min - dif ≤</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.74285em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span><sub>0</sub> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>−</mo><mi>d</mi><mi>i</mi><mi>f</mi><mo>=</mo><mi>x</mi></mrow><annotation encoding="application/x-tex">- dif = x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord">−</span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span> <sub>1</sub><br>
+    故完整  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span> 操作为<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>d</mi><mi>i</mi><mi>f</mi><mo>+</mo><mi>k</mi></mrow><annotation encoding="application/x-tex">dif + k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span> 、<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi><mi>i</mi><mi>n</mi><mo>−</mo><mi>k</mi></mrow><annotation encoding="application/x-tex">min - k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.74285em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span><br>
+操作 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>S</mi></mrow><annotation encoding="application/x-tex">S</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span></span></span></span> : 把每个元素的值都减 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>k</mi></mrow><annotation encoding="application/x-tex">k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span>。同上可得 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>S</mi></mrow><annotation encoding="application/x-tex">S</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span></span></span></span> 操作可转化为<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>d</mi><mi>i</mi><mi>f</mi><mo>−</mo><mi>k</mi></mrow><annotation encoding="application/x-tex">dif - k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span> 、<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi><mi>i</mi><mi>n</mi><mo>+</mo><mi>k</mi></mrow><annotation encoding="application/x-tex">min + k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.74285em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span><br>
+    那要走的元素呢？一下提供两种方法。<br>
+    一、暴力删除（此题可过）<br>
+     循环删除即可。如下</p>
+<pre><code class="language-c++">    while(pre(R,minn)!=-inf)
+    {
+        del(R,pre(R,minn));
+        leave++;   //记录离开人数
+	}
+</code></pre>
+<p>    二、更优秀的做法。<br>
+     留坑待填...<br>
+注意点：1.操作 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>F</mi></mrow><annotation encoding="application/x-tex">F</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span></span></span></span> 所求为第 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>k</mi></mrow><annotation encoding="application/x-tex">k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span>多。<br>
+    2.最后一问为离开人数，且一开始就离开的人不计入总人数。<br>
+    3.<strong><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>i</mi><mi>f</mi></mrow><annotation encoding="application/x-tex">if</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span></span></span></span> 语句不能省别乱省。</strong> 这很重要！！！<br>
+    4.来过的总人数不等于树上的节点数即 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>s</mi><mi>u</mi><mi>m</mi></mrow><annotation encoding="application/x-tex">sum</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">s</span><span class="mord mathdefault">u</span><span class="mord mathdefault">m</span></span></span></span>，因为有工资相同的人。<br>
+    5.留坑待填...<br>
+完整代码：<br>
+<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>c</mi><mi>o</mi><mi>d</mi><mi>e</mi><mn>1</mn></mrow><annotation encoding="application/x-tex">code1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault">o</span><span class="mord mathdefault">d</span><span class="mord mathdefault">e</span><span class="mord">1</span></span></span></span></p>
+<pre><code class="language-c++">#include&lt;cstdio&gt;
+#include&lt;iostream&gt;
+#include&lt;stdlib.h&gt;
+#define N 100500
+#define inf 2000000005
+using namespace std;
+int n,x,leave,minn,dif,tot;
+char opt;
+int sum=0,R=0;
+int size[N],v[N],num[N],rd[N],son[N][2];
+void pushup(int p)
+{
+	size[p]=size[son[p][0]]+size[son[p][1]]+num[p];
+}
+void rotate(int &amp;p,int d)
+{
+	int k=son[p][d^1];
+	son[p][d^1]=son[k][d];
+	son[k][d]=p;
+	pushup(p);
+	pushup(k);
+	p=k;
+}
+void ins(int &amp;p,int x)
+{
+	if(!p)
+	{
+		p=++sum;
+		size[p]=num[p]=1;
+		v[p]=x;
+		rd[p]=rand();
+		return; 
+	}
+	if(v[p]==x)
+	{
+		num[p]++;
+		size[p]++;
+		return;
+	}
+	int d=(x&gt;v[p]);
+	ins(son[p][d],x);
+	if(rd[p]&lt;rd[son[p][d]]) rotate(p,d^1);
+	pushup(p);
+}
+void del(int &amp;p,int x)
+{
+	if(!p) return;
+	if(x&lt;v[p]) del(son[p][0],x);
+	else if(x&gt;v[p]) del(son[p][1],x);
+	else
+	{
+		if(!son[p][0]&amp;&amp;!son[p][1])
+		{
+			num[p]--; size[p]--;
+			if(num[p]==0) p=0;
+		}
+		else if(son[p][0]&amp;&amp;!son[p][1])
+		{
+			rotate(p,1);
+			del(son[p][1],x);
+		}
+		else if(!son[p][0]&amp;&amp;son[p][1])
+		{
+			rotate(p,0);
+			del(son[p][0],x);
+		}
+		else if(son[p][0]&amp;&amp;son[p][1])
+		{
+			int d=(rd[son[p][0]]&gt;rd[son[p][1]]);
+			rotate(p,d);
+			del(son[p][d],x);
+		}
+	}
+	pushup(p);
+}
+int find(int p,int x)
+{
+	if(!p) return 0;
+	if(size[son[p][0]]&gt;=x) return find(son[p][0],x);
+	else if(size[son[p][0]]+num[p]&lt;x)
+		return find(son[p][1],x-num[p]-size[son[p][0]]);
+	else return v[p];
+}
+int pre(int p,int x)
+{
+	if(!p) return -inf;
+	if(v[p]&gt;=x) return pre(son[p][0],x);
+	else return max(v[p],pre(son[p][1],x));
+}
+int main()
+{
+    scanf(&quot;%d%d&quot;,&amp;n,&amp;minn);
+    for (int i=1;i&lt;=n;i++)
+    {
+    	scanf(&quot;%s%d&quot;,&amp;opt,&amp;x);
+        if (opt=='I'){if(x-dif&gt;=minn){ins(R,x-dif);tot++;}}
+        else if (opt=='A') minn-=x,dif+=x;
+        else if (opt=='S')
+        {
+        	minn+=x,dif-=x;
+        	while(pre(R,minn)!=-inf)
+        	{
+        		del(R,pre(R,minn));
+        		leave++;
+			}
+		}
+        else if (opt=='F') printf(&quot;%d\n&quot;,(tot-leave)&lt;x?-1:find(R,tot-leave-x+1)+dif);
+    }
+    printf(&quot;%d&quot;,leave);
+    return 0;
+}
+</code></pre>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>c</mi><mi>o</mi><mi>d</mi><mi>e</mi><mn>2</mn></mrow><annotation encoding="application/x-tex">code2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault">o</span><span class="mord mathdefault">d</span><span class="mord mathdefault">e</span><span class="mord">2</span></span></span></span></p>
+<pre><code class="language-c++">    //留坑待填...
+</code></pre>
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tag/dyyRZjLDJ/" class="tag">
+                    题解
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200403/">
+                  <h3 class="post-title">
+                    20.04.03|初战CF
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+  <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad()
+  </script>
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>

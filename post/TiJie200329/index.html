@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585548576850">
+<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1585976258657">
 <link rel="stylesheet" href="https://Loctopus-hyt.github.io/loctopus.github.io//styles/main.css">
 
 
@@ -24,13 +24,14 @@
 
 
 
-    <meta name="description" content="T1 队列
+    <meta name="description" content="【目录】
+ 一.队列
+ 二.烤羊肉串
+ 三.色号
+T1 队列                      TOP
 【问题描述】
  一年一度的军训又要开始了。军训时，教官要求所有人按身高从小到大列队，
- 现给定 nnn个人的一个队列，mmm次询问，每次询问第 iii个人到第 jjj个人中身高一样
- 的人最多有多少个？
-【输入数据】
- 第一行两..." />
+ 现给定 nnn个人的一个队列，mmm次询..." />
     <meta name="keywords" content="题解" />
   </head>
   <body>
@@ -40,7 +41,7 @@
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
       <a class="site-title-container" href="https://Loctopus-hyt.github.io/loctopus.github.io/">
-        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585548576850" class="site-logo">
+        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1585976258657" class="site-logo">
         <h1 class="site-title">loctopus</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -110,7 +111,11 @@
             <div class="post-date">2020-03-29</div>
             
             <div class="post-content" v-pre>
-              <h3 id="t1-队列"><strong>T1 队列</strong></h3>
+              <p><span id='0'>【目录】</span><br>
+ <a href="#1">一.队列</a><br>
+<span id='1'> <a href="#2">二.烤羊肉串</a></span><br>
+ <a href="#3">三.色号</a></p>
+<h3 id="t1-队列-top"><strong>T1 队列</strong>                      <a href="#0">TOP</a></h3>
 <p>【问题描述】<br>
  一年一度的军训又要开始了。军训时，教官要求所有人按身高从小到大列队，<br>
  现给定 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span></span></span></span>个人的一个队列，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">m</span></span></span></span>次询问，每次询问第 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>i</mi></mrow><annotation encoding="application/x-tex">i</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.65952em;vertical-align:0em;"></span><span class="mord mathdefault">i</span></span></span></span>个人到第 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>j</mi></mrow><annotation encoding="application/x-tex">j</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.85396em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span></span></span></span>个人中身高一样<br>
@@ -131,8 +136,163 @@
 【输出样例】<br>
  1<br>
  4<br>
- 3</p>
-<h3 id="t2-烤羊肉串"><strong>T2 烤羊肉串</strong></h3>
+ 3<br>
+【题解】<br>
+本来还想咕咕的，想想还是算了。简单讲一下。<br>
+<strong>一、正解</strong><br>
+  以样例为例 将数列转化为 (<s>怎么转化看下面感受一下</s>)<br>
+   <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>3</mn></mrow><annotation encoding="application/x-tex">3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>4</mn></mrow><annotation encoding="application/x-tex">4</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">4</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>3</mn></mrow><annotation encoding="application/x-tex">3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span></span></span></span><br>
+  查询变成：1.查询 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>s</mi><mi>u</mi><mi>c</mi><mo>[</mo><mi>i</mi><mo>]</mo></mrow><annotation encoding="application/x-tex">suc[i]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">s</span><span class="mord mathdefault">u</span><span class="mord mathdefault">c</span><span class="mopen">[</span><span class="mord mathdefault">i</span><span class="mclose">]</span></span></span></span>(第一个大于 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>a</mi><mo>[</mo><mi>i</mi><mo>]</mo></mrow><annotation encoding="application/x-tex">a[i]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">a</span><span class="mopen">[</span><span class="mord mathdefault">i</span><span class="mclose">]</span></span></span></span>的数的位置)<br>
+       2.查询 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>[</mo><mi>s</mi><mi>u</mi><mi>c</mi><mo>[</mo><mi>i</mi><mo>]</mo><mo>+</mo><mn>1</mn><mo separator="true">,</mo><mi>j</mi><mo>]</mo></mrow><annotation encoding="application/x-tex">[suc[i]+1,j]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">[</span><span class="mord mathdefault">s</span><span class="mord mathdefault">u</span><span class="mord mathdefault">c</span><span class="mopen">[</span><span class="mord mathdefault">i</span><span class="mclose">]</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span><span class="mclose">]</span></span></span></span> 的RMQ<br>
+       3.比较后做出选择<br>
+       注：有些小细节<br>
+  于是乎，要预处理出后继位置和RMQ。<br>
+  完整代码：</p>
+<pre><code class="language-c++">#include&lt;bits/stdc++.h&gt; 
+#define N 100500
+#define M 30
+using namespace std;
+int n,m,l,r,a[N],num[N],suc[N],fmaxn[N][M];
+int init()
+{
+	int i,j;
+	for(i=1;i&lt;=n;i++) fmaxn[i][0]=num[i];
+	for(j=1;(1&lt;&lt;j)&lt;=n;j++)
+		for(i=1;i+(1&lt;&lt;j)-1&lt;=n;i++)
+			fmaxn[i][j]=max(fmaxn[i][j-1],fmaxn[i+(1&lt;&lt;(j-1))][j-1]);
+	return 0;
+}
+int findsuc()
+{
+    suc[n]=n;
+    for(int i=n-1;i&gt;=1;i--)
+        if(a[i]==a[i+1])suc[i]=suc[i+1];
+    	else suc[i]=i;
+    return 0;
+}
+int solve(int l,int r)
+{
+	int k=0,t=suc[l],ex;
+	if(t&gt;=r) return r-l+1;
+	ex=t-l+1; l=t+1;
+	while((1&lt;&lt;(k+1))&lt;=r-l+1) k++;
+	return max(ex,max(fmaxn[l][k],fmaxn[r-(1&lt;&lt;k)+1][k]));
+}
+int main()
+{
+	scanf(&quot;%d%d&quot;,&amp;n,&amp;m);
+	for(int i=1;i&lt;=n;i++)
+	{
+		scanf(&quot;%d&quot;,&amp;a[i]);
+		if(a[i]==a[i-1]) num[i]=num[i-1]+1;
+		else num[i]=1;
+	}
+	init(); findsuc();
+	for(int i=1;i&lt;=m;i++)
+	{
+		scanf(&quot;%d%d&quot;,&amp;l,&amp;r);
+		printf(&quot;%d\n&quot;,solve(l, r));
+	}
+	return 0;
+}
+</code></pre>
+<p><strong>二、我的鬼畜做法</strong><br>
+ <s>这种东西本来就不要拉出来给大家D了</s><br>
+ 主要思想：离散化+单调栈求前驱后继+RMQ思想DP<br>
+ 注：<strong>就算两段代码再像也千万不要复制粘贴</strong> 这很重要！！！</p>
+<pre><code class="language-c++">int solve(int l,int r)
+{
+	int k=0,ans=0,num;
+	while((1&lt;&lt;(k+1))&lt;=r-l+1) k++;
+	ans=max(fmaxn[l][k],fmaxn[r-(1&lt;&lt;k)+1][k]);
+    //下面的k原为k-1，结果 听取WA声一片
+    //没错，我复制的就是DP时的代码
+	if(a[l+(1&lt;&lt;(k))-1]!=a[l+(1&lt;&lt;(k))]) return ans;
+	num=a[l+(1&lt;&lt;(k))];
+	ans=max(ans,(min(suc[num]-1,r)-max(pre[num]+1,l)+1));
+	return ans;
+}
+</code></pre>
+<p> 完整代码：</p>
+<pre><code class="language-c++">#include&lt;bits/stdc++.h&gt; 
+#define N 100500
+#define M 30
+using namespace std;
+int n,m,l,r,a[N],t[N],s[N],suc[N],pre[N],fmaxn[N][M];
+int init()
+{
+	for(int i=1;i&lt;=n;i++) t[i]=a[i];
+	sort(t+1,t+n+1);
+	for(int i=1;i&lt;=n;i++)
+		a[i]=lower_bound(t+1,t+n+1,a[i])-t;
+	return 0;
+}
+int findsuc()
+{
+	memset(s,0,sizeof s);
+	int i,top=0;
+    for(i=n;i&gt;=1;i--)
+    {
+        while(top&amp;&amp;a[s[top]]&lt;=a[i])top--;
+        suc[i]=s[top]; s[++top]=i;
+    }
+    for(i=n;i&gt;=1;i--) if(suc[i]==0) suc[i]=n+1; else break;
+    return 0;
+}
+int findpre()
+{
+	memset(s,0,sizeof s);
+	int i,top=0;
+    for(i=1;i&lt;=n;i++)
+    {
+        while(top&amp;&amp;a[s[top]]&gt;=a[i])top--;
+        pre[i]=s[top]; s[++top]=i;
+    }
+    return 0;
+}
+int dp()
+{
+	int i,j,num;
+	for(i=1;i&lt;=n;i++) fmaxn[i][0]=1;
+	for(j=1;(1&lt;&lt;j)&lt;=n;j++)
+	{
+		for(i=1;i+(1&lt;&lt;j)-1&lt;=n;i++)
+		{
+			fmaxn[i][j]=max(fmaxn[i][j-1],fmaxn[i+(1&lt;&lt;(j-1))][j-1]);
+			if(a[i+(1&lt;&lt;(j-1))-1]!=a[i+(1&lt;&lt;(j-1))]) continue;
+			num=a[i+(1&lt;&lt;(j-1))];
+			fmaxn[i][j]=max(fmaxn[i][j],(min(suc[num]-1,i+(1&lt;&lt;j)-1)-max(pre[num]+1,i)+1));
+		}
+	}
+	return 0;
+}
+int solve(int l,int r)
+{
+	int k=0,ans=0,num;
+	while((1&lt;&lt;(k+1))&lt;=r-l+1) k++;
+	ans=max(fmaxn[l][k],fmaxn[r-(1&lt;&lt;k)+1][k]);
+	if(a[l+(1&lt;&lt;(k))-1]!=a[l+(1&lt;&lt;(k))]) return ans;
+	num=a[l+(1&lt;&lt;(k))];
+	ans=max(ans,(min(suc[num]-1,r)-max(pre[num]+1,l)+1));
+	return ans;
+}
+int main()
+{
+	freopen(&quot;guard.in&quot;,&quot;r&quot;,stdin);
+	freopen(&quot;guard.out&quot;,&quot;w&quot;,stdout);
+	scanf(&quot;%d%d&quot;,&amp;n,&amp;m);
+	for(int i=1;i&lt;=n;i++)scanf(&quot;%d&quot;,&amp;a[i]);
+	init(); findsuc(); findpre(); dp();
+	for(int i=1;i&lt;=m;i++)
+	{
+		scanf(&quot;%d%d&quot;,&amp;l,&amp;r);
+		printf(&quot;%d\n&quot;,solve(l, r));
+	}
+	return 0;
+}
+</code></pre>
+<p><span id='2'></span></p>
+<h3 id="t2-烤羊肉串-top"><strong>T2 烤羊肉串</strong>                      <a href="#0">TOP</a></h3>
 <p>【问题描述】<br>
  假期就要开始了，小翔同学想体验一下不一样的生活，社会实践一番。<br>
  他观察到，城区每个大排档的烤羊肉串的生意都非常火爆，于是计划开始他的暑期。<br>
@@ -157,6 +317,7 @@
 【输出样例】<br>
  1  1  1</p>
 <p>同题：<a href="https://www.luogu.com.cn/problem/P3368" target="_blank">洛谷P3368 【模板】树状数组 2</a><br>
+【题解】<br>
 <strong>一、树状数组模板</strong><br>
   推荐：1.同机房小君同学的blog   <a href="https://blog.csdn.net/qq_45646484/article/details/104144520" target="_blank">树状数组 </a><br>
      2.另一篇  <a href="https://www.luogu.com.cn/blog/64882/shu-zhuang-shuo-zu" target="_blank">树状数组 </a><br>
@@ -175,9 +336,59 @@ b[i]=a[i]-a[i-1] &amp; i \geqslant 1
   <strong>易得：将 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>a</mi><mo>[</mo><mi>i</mi></mrow><annotation encoding="application/x-tex">a[i</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">a</span><span class="mopen">[</span><span class="mord mathdefault">i</span></span></span></span>~<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>j</mi><mo>]</mo></mrow><annotation encoding="application/x-tex">j]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span><span class="mclose">]</span></span></span></span>都<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>+</mo><mi>x</mi></mrow><annotation encoding="application/x-tex">+x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">+</span><span class="mord mathdefault">x</span></span></span></span> 等价于在<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>b</mi><mo>[</mo><mi>i</mi><mo>]</mo></mrow><annotation encoding="application/x-tex">b[i]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">b</span><span class="mopen">[</span><span class="mord mathdefault">i</span><span class="mclose">]</span></span></span></span>处<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>+</mo><mi>x</mi></mrow><annotation encoding="application/x-tex">+x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">+</span><span class="mord mathdefault">x</span></span></span></span>，在<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>b</mi><mo>[</mo><mi>j</mi><mo>+</mo><mn>1</mn><mo>]</mo></mrow><annotation encoding="application/x-tex">b[j+1]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">b</span><span class="mopen">[</span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mclose">]</span></span></span></span>处<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>−</mo><mi>x</mi></mrow><annotation encoding="application/x-tex">-x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">−</span><span class="mord mathdefault">x</span></span></span></span></strong><br>
   <strong>差分和前缀和可以算是处理序列的小技巧，有时候可以用得上。</strong><br>
   比如：留坑待填...<br>
-<strong>二、分块算法</strong><br>
-  留坑待填...</p>
-<h3 id="t3-色号"><strong>T3 色号</strong></h3>
+完整代码：</p>
+<pre><code class="language-c++">#include&lt;bits/stdc++.h&gt; 
+#define N 100500
+using namespace std;
+int n,l,r,c[N]; 
+inline int read()
+{
+	char c=getchar();
+	int num=0,flag=1;;
+	while(c&lt;'0'||c&gt;'9'){if(c=='-')flag=-1;c=getchar();}
+	while(c&gt;='0'&amp;&amp;c&lt;='9'){num=num*10+c-'0';c=getchar();}
+	return num*flag;
+}
+int lowbit(int n)
+{
+	return n&amp;(-n);
+} 
+int update(int pos,int d)
+{
+	while(pos&lt;=n)
+	{
+		c[pos]+=d;
+		pos+=lowbit(pos);
+	}
+	return 0;
+}
+int sum(int pos)
+{
+	int ans=0;
+	while(pos)
+	{
+		ans+=c[pos];
+		pos-=lowbit(pos);
+	}
+	return ans;
+}
+int main()
+{
+	n=read();
+	for(int i=1;i&lt;=n;i++)
+	{
+		l=read(); r=read();
+		update(l,1);
+		update(r+1,-1);
+	}
+	for(int i=1;i&lt;=n;i++)printf(&quot;%d &quot;,sum(i));
+}
+
+</code></pre>
+<p><strong>二、分块算法</strong><br>
+  留坑待填...<br>
+<span id='3'></span></p>
+<h3 id="t3-色号-top"><strong>T3 色号</strong>                      <a href="#0">TOP</a></h3>
 <p> 原题：<a href="https://www.luogu.com.cn/problem/P3177" target="_blank">【HAOI2015】树上染色 </a><br>
 【问题描述】<br>
  一棵树有<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">m</span></span></span></span>个节点，请在<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">m</span></span></span></span>个节点里找<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi></mrow><annotation encoding="application/x-tex">p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">p</span></span></span></span>个点，把这<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi></mrow><annotation encoding="application/x-tex">p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">p</span></span></span></span>个点染成<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>c</mi><mi>o</mi><mi>l</mi><mi>o</mi><mi>r</mi><mn>1</mn></mrow><annotation encoding="application/x-tex">color1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord">1</span></span></span></span>色号，其余点全<br>
@@ -193,8 +404,9 @@ b[i]=a[i]-a[i-1] &amp; i \geqslant 1
  3 1 2<br>
  2 1 1<br>
 【输出样例】<br>
- 3</p>
-<p><strong>人话题意</strong>：（该题题意理解很重要很重要很重要）<br>
+ 3<br>
+【题解】<br>
+<strong>人话题意</strong>：（该题题意理解很重要很重要很重要）<br>
   好吧，主要解释sum到底是啥。<s>看了好久才懂</s><br>
   假设有四个节点，node i-j表示i节点走到j节点的距离。</p>
 <pre><code class="language-c++">//有那么一点多边形对角线的感觉

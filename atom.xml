@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Loctopus-hyt.github.io/loctopus.github.io/</id>
     <title>loctopus</title>
-    <updated>2020-03-30T06:10:28.657Z</updated>
+    <updated>2020-04-04T04:58:30.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Loctopus-hyt.github.io/loctopus.github.io/"/>
     <link rel="self" href="https://Loctopus-hyt.github.io/loctopus.github.io/atom.xml"/>
@@ -11,12 +11,1464 @@
     <icon>https://Loctopus-hyt.github.io/loctopus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, loctopus</rights>
     <entry>
+        <title type="html"><![CDATA[20.04.04|下分]]></title>
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200404/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200404/">
+        </link>
+        <updated>2020-04-04T04:39:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:阴                Sat   星期六<br>
+  农历三月十二  春分</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:阴                Sat   星期六<br>
+  农历三月十二  春分</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<p>  404...您要的页面走丢了<br>
+  早上赖床到9点多，好废，起床吃完饭开电脑看昨天的Round，果不其然的凉凉了。我的CF下分之旅要开始了吗？<br>
+  就快开学了呢，作业怎么办，OI怎么办，预习怎么办，啊啊啊Ｏ(≧口≦)Ｏ！这日记不就可能就要停了，还有其他的文，突然又不想开学qwq。</p>
+<p>附：时间表</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+      <tr>
+            <th>7:30-8:00</th>
+            <th>睡觉</th>
+            <th>2</th>
+            <th>要不要早点呐QAQ</th>
+        </tr>
+      <tr>
+            <th>8:00-8:30</th>
+            <th>睡觉</th>
+            <th>2</th>
+            <th>同上↑</th>
+        </tr>
+      <tr>
+            <th>8:30-9:00</th>
+            <th>睡觉</th>
+            <th>2</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>睡觉<strong>|</strong>起床、洗漱、吃饭</th>
+            <th>3</th>
+            <th>终于起来了</th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th>看成绩<strong>|</strong>看题解</th>
+            <th>3</th>
+            <th>T2真的是个暴力！</th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th>看题解<strong>|</strong>休息</th>
+            <th>3</th>
+            <th>这T3</th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th>英语学案</th>
+            <th>4.5</th>
+            <th>好多</th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th>英语学案<strong>|</strong>休息</th>
+            <th>4</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th>化学学案</th>
+            <th>4.5</th>
+            <th>有点效率</th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th>吃饭<strong>|</strong>散步</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th>散步<strong>|</strong>写记录<strong>|</strong>写文</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th>睡午觉</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>22:00-22:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+</table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【NOI2004】郁闷的出纳员]]></title>
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/NOI2004DepressedCashier/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/NOI2004DepressedCashier/">
+        </link>
+        <updated>2020-04-03T06:43:51.000Z</updated>
+        <content type="html"><![CDATA[<p>【题面】<br>
+<a href="https://www.luogu.com.cn/problem/P1486" target="_blank">洛谷P1486 【NOI2004】郁闷的出纳员</a><br>
+【题解】<br>
+此题把我搞郁闷了好几天，是我太菜了QwQ<br>
+操作  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>I</mi></mrow><annotation encoding="application/x-tex">I</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07847em;">I</span></span></span></span>  : 正常插入。<br>
+操作 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>F</mi></mrow><annotation encoding="application/x-tex">F</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span></span></span></span> : 正常查找。注意为第 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>k</mi></mrow><annotation encoding="application/x-tex">k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span>多！<br>
+操作 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span> : 把每个元素的值都加 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>k</mi></mrow><annotation encoding="application/x-tex">k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span>。 第一反应就是对全体元素打一个加法标记dif。<br>
+    可后来的元素怎么办呢？ 第一思路是每个元素的标记都单独区分，但这样<br>
+    显然是不行的，那么有没有一种办法使原先的加分标记对后来元素也有效<br>
+    呢，于是就有了这样一个等式 <strong><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span><sub>1</sub><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>+</mo></mrow><annotation encoding="application/x-tex">+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">+</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>d</mi><mi>i</mi><mi>f</mi></mrow><annotation encoding="application/x-tex">dif</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>=</mo></mrow><annotation encoding="application/x-tex">=</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mrel">=</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span><sub>0</sub></strong><br>
+    所以稍稍改变插入操作，插入 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi><mo>−</mo><mi>d</mi><mi>i</mi><mi>f</mi></mrow><annotation encoding="application/x-tex">x-dif</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">x</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span></span></span></span> 即可解决问题。<br>
+    接下来 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span> 操作就变成 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>d</mi><mi>i</mi><mi>f</mi><mo>+</mo><mi>k</mi></mrow><annotation encoding="application/x-tex">dif+k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span>？<br>
+    别忘了还有 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi><mi>i</mi><mi>n</mi></mrow><annotation encoding="application/x-tex">min</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.65952em;vertical-align:0em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span></span></span></span> , <s>又是个麻烦</s><br>
+    其实有了上面的分析，很容易得出 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi><mi>i</mi><mi>n</mi></mrow><annotation encoding="application/x-tex">min</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.65952em;vertical-align:0em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span></span></span></span> 的解决办法<br>
+    插入条件：<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi><mi>i</mi><mi>n</mi><mo>≤</mo></mrow><annotation encoding="application/x-tex">min≤</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.79549em;vertical-align:-0.13597em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span><sub>0</sub> 等价于 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi><mi>i</mi><mi>n</mi><mo>−</mo><mi>d</mi><mi>i</mi><mi>f</mi><mo>≤</mo></mrow><annotation encoding="application/x-tex">min - dif ≤</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.74285em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span><sub>0</sub> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>−</mo><mi>d</mi><mi>i</mi><mi>f</mi><mo>=</mo><mi>x</mi></mrow><annotation encoding="application/x-tex">- dif = x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord">−</span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span> <sub>1</sub><br>
+    故完整  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span> 操作为<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>d</mi><mi>i</mi><mi>f</mi><mo>+</mo><mi>k</mi></mrow><annotation encoding="application/x-tex">dif + k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span> 、<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi><mi>i</mi><mi>n</mi><mo>−</mo><mi>k</mi></mrow><annotation encoding="application/x-tex">min - k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.74285em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span><br>
+操作 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>S</mi></mrow><annotation encoding="application/x-tex">S</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span></span></span></span> : 把每个元素的值都减 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>k</mi></mrow><annotation encoding="application/x-tex">k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span>。同上可得 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>S</mi></mrow><annotation encoding="application/x-tex">S</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05764em;">S</span></span></span></span> 操作可转化为<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>d</mi><mi>i</mi><mi>f</mi><mo>−</mo><mi>k</mi></mrow><annotation encoding="application/x-tex">dif - k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">d</span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span> 、<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi><mi>i</mi><mi>n</mi><mo>+</mo><mi>k</mi></mrow><annotation encoding="application/x-tex">min + k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.74285em;vertical-align:-0.08333em;"></span><span class="mord mathdefault">m</span><span class="mord mathdefault">i</span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span><br>
+    那要走的元素呢？一下提供两种方法。<br>
+    一、暴力删除（此题可过）<br>
+     循环删除即可。如下</p>
+<pre><code class="language-c++">    while(pre(R,minn)!=-inf)
+    {
+        del(R,pre(R,minn));
+        leave++;   //记录离开人数
+	}
+</code></pre>
+<p>    二、更优秀的做法。<br>
+     留坑待填...<br>
+注意点：1.操作 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>F</mi></mrow><annotation encoding="application/x-tex">F</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">F</span></span></span></span> 所求为第 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>k</mi></mrow><annotation encoding="application/x-tex">k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span>多。<br>
+    2.最后一问为离开人数，且一开始就离开的人不计入总人数。<br>
+    3.<strong><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>i</mi><mi>f</mi></mrow><annotation encoding="application/x-tex">if</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">i</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span></span></span></span> 语句不能省别乱省。</strong> 这很重要！！！<br>
+    4.来过的总人数不等于树上的节点数即 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>s</mi><mi>u</mi><mi>m</mi></mrow><annotation encoding="application/x-tex">sum</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">s</span><span class="mord mathdefault">u</span><span class="mord mathdefault">m</span></span></span></span>，因为有工资相同的人。<br>
+    5.留坑待填...<br>
+完整代码：<br>
+<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>c</mi><mi>o</mi><mi>d</mi><mi>e</mi><mn>1</mn></mrow><annotation encoding="application/x-tex">code1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault">o</span><span class="mord mathdefault">d</span><span class="mord mathdefault">e</span><span class="mord">1</span></span></span></span></p>
+<pre><code class="language-c++">#include&lt;cstdio&gt;
+#include&lt;iostream&gt;
+#include&lt;stdlib.h&gt;
+#define N 100500
+#define inf 2000000005
+using namespace std;
+int n,x,leave,minn,dif,tot;
+char opt;
+int sum=0,R=0;
+int size[N],v[N],num[N],rd[N],son[N][2];
+void pushup(int p)
+{
+	size[p]=size[son[p][0]]+size[son[p][1]]+num[p];
+}
+void rotate(int &amp;p,int d)
+{
+	int k=son[p][d^1];
+	son[p][d^1]=son[k][d];
+	son[k][d]=p;
+	pushup(p);
+	pushup(k);
+	p=k;
+}
+void ins(int &amp;p,int x)
+{
+	if(!p)
+	{
+		p=++sum;
+		size[p]=num[p]=1;
+		v[p]=x;
+		rd[p]=rand();
+		return; 
+	}
+	if(v[p]==x)
+	{
+		num[p]++;
+		size[p]++;
+		return;
+	}
+	int d=(x&gt;v[p]);
+	ins(son[p][d],x);
+	if(rd[p]&lt;rd[son[p][d]]) rotate(p,d^1);
+	pushup(p);
+}
+void del(int &amp;p,int x)
+{
+	if(!p) return;
+	if(x&lt;v[p]) del(son[p][0],x);
+	else if(x&gt;v[p]) del(son[p][1],x);
+	else
+	{
+		if(!son[p][0]&amp;&amp;!son[p][1])
+		{
+			num[p]--; size[p]--;
+			if(num[p]==0) p=0;
+		}
+		else if(son[p][0]&amp;&amp;!son[p][1])
+		{
+			rotate(p,1);
+			del(son[p][1],x);
+		}
+		else if(!son[p][0]&amp;&amp;son[p][1])
+		{
+			rotate(p,0);
+			del(son[p][0],x);
+		}
+		else if(son[p][0]&amp;&amp;son[p][1])
+		{
+			int d=(rd[son[p][0]]&gt;rd[son[p][1]]);
+			rotate(p,d);
+			del(son[p][d],x);
+		}
+	}
+	pushup(p);
+}
+int find(int p,int x)
+{
+	if(!p) return 0;
+	if(size[son[p][0]]&gt;=x) return find(son[p][0],x);
+	else if(size[son[p][0]]+num[p]&lt;x)
+		return find(son[p][1],x-num[p]-size[son[p][0]]);
+	else return v[p];
+}
+int pre(int p,int x)
+{
+	if(!p) return -inf;
+	if(v[p]&gt;=x) return pre(son[p][0],x);
+	else return max(v[p],pre(son[p][1],x));
+}
+int main()
+{
+    scanf(&quot;%d%d&quot;,&amp;n,&amp;minn);
+    for (int i=1;i&lt;=n;i++)
+    {
+    	scanf(&quot;%s%d&quot;,&amp;opt,&amp;x);
+        if (opt=='I'){if(x-dif&gt;=minn){ins(R,x-dif);tot++;}}
+        else if (opt=='A') minn-=x,dif+=x;
+        else if (opt=='S')
+        {
+        	minn+=x,dif-=x;
+        	while(pre(R,minn)!=-inf)
+        	{
+        		del(R,pre(R,minn));
+        		leave++;
+			}
+		}
+        else if (opt=='F') printf(&quot;%d\n&quot;,(tot-leave)&lt;x?-1:find(R,tot-leave-x+1)+dif);
+    }
+    printf(&quot;%d&quot;,leave);
+    return 0;
+}
+</code></pre>
+<p><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>c</mi><mi>o</mi><mi>d</mi><mi>e</mi><mn>2</mn></mrow><annotation encoding="application/x-tex">code2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault">o</span><span class="mord mathdefault">d</span><span class="mord mathdefault">e</span><span class="mord">2</span></span></span></span></p>
+<pre><code class="language-c++">    //留坑待填...
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20.04.03|初战CF]]></title>
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200403/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200403/">
+        </link>
+        <updated>2020-04-03T03:37:21.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:阴                Fri   星期五<br>
+  农历三月十一  春分</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:阴                Fri   星期五<br>
+  农历三月十一  春分</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<p>  一整个早上都是录播课，好无聊啊啊啊啊啊。<br>
+  中午补觉战CF？午觉睡的好香。傍晚晚上狠狠地膜拜了一堆神犇，tql。<br>
+  CF要加油啊！RP++<br>
+  为什么老师们总是发一些令人浮想联翩的话，搞得我心慌慌！<br>
+  姆斯和xq搞得我都不敢发作业完成情况了。</p>
+<p>附：时间表</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+      <tr>
+            <th>7:30-8:00</th>
+            <th>睡觉</th>
+            <th>2</th>
+            <th>要不要早点呐QAQ</th>
+        </tr>
+        <tr>
+            <th>8:00-8:30</th>
+            <th>睡觉<strong>|</strong>起床、洗漱、吃饭</th>
+            <th>2.5</th>
+            <th >要不要早点呐QAQ</th>
+        </tr>
+        <tr>
+            <th>8:30-9:00</th>
+            <th>语文课</th>
+            <th>3</th>
+            <th>还行还行</th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>语文课</th>
+            <th>3</th>
+            <th>好久QAQ</th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th>休息<strong>|</strong>活动<strong>|</strong>整理</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th>数学课</th>
+            <th>3.5</th>
+            <th>看录播？</th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th>数学课</th>
+            <th>4</th>
+            <th>才发现我看的是第二节</th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th>数学课<strong>|</strong>写记录</th>
+            <th>3.5</th>
+            <th>无聊ing...</th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th>写记录<strong>|</strong>汇总作业<strong>|</strong>吃饭</th>
+            <th>3</th>
+            <th>ha，琐事</th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th>吃饭<strong>|</strong>网上冲浪</th>
+            <th>2.5</th>
+            <th>emm...</th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th>睡午觉</th>
+            <th>3</th>
+            <th>舒服</th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th>睡午觉</th>
+            <th>3</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th>睡午觉<strong>|</strong>准备</th>
+            <th>3</th>
+            <th>我还以为我醒了？</th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th>历史课<strong>|</strong>写题解</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th>历史课<strong>|</strong>写题解</th>
+            <th>3</th>
+            <th>主要是写题解</th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th>历史课<strong>|</strong>写题解<strong>|</strong>生物课</th>
+            <th>2</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th>生物课<strong>|</strong>写题解</th>
+            <th>3</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th>休息<strong>|</strong>写记录</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th>膜拜神犇</th>
+            <th>3</th>
+            <th>tql</th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th>膜拜神犇</th>
+            <th>3</th>
+            <th>脑回路清奇</th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th>ppball</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th>ppball</th>
+            <th>2.5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th>吃饭</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th>膜拜神犇</th>
+            <th>2</th>
+            <th>牛牪犇</th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th>膜拜神犇</th>
+            <th>2</th>
+            <th>该停了吧？</th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th>休息<strong>|</strong>活动<strong>|</strong>写记录</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th>物理作业</th>
+            <th>4</th>
+            <th>效率来了</th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th>物理作业+总结<strong>|</strong>查找answer</th>
+            <th>3.5</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th>查找answer<strong>|</strong>交作业<strong>|</strong>休息</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>22:00-22:30</th>
+            <th>休息<strong>|</strong>准备CF</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+</table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20.04.02|又一月]]></title>
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200402/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200402/">
+        </link>
+        <updated>2020-04-02T05:11:35.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:阴转雨                Tue   星期四<br>
+  农历三月初十  春分</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:阴转雨                Tue   星期四<br>
+  农历三月初十  春分</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<p>  今日无事。<br>
+  才怪。<br>
+  好吧，大概就是收到了要半期考的噩耗，知道了NOI Online又来了二，被FJOI2018水题虐爆，其实是被各种图论题集虐爆，晚上被xiqiangD了，还有开学收作业的坏消息。<br>
+  啊啊啊啊啊！红红火火恍恍惚惚。</p>
+<p>附：时间表</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+      <tr>
+            <th>7:30-8:00</th>
+            <th>睡觉</th>
+            <th>2</th>
+            <th>要不要早点呐QAQ</th>
+        </tr>
+        <tr>
+            <th>8:00-8:30</th>
+            <th>起床、洗漱、吃饭<strong>|</strong>物理课</th>
+            <th>2.5</th>
+            <th align="center">詹姆斯起的好早<br>是你太晚行吗？</th>
+        </tr>
+        <tr>
+            <th>8:30-9:00</th>
+            <th>物理课</th>
+            <th>2</th>
+            <th>都没听课，也没自学</th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>物理课<strong>|</strong>看知乎</th>
+            <th>1.5</th>
+            <th>好像看懂了TL公式？</th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th>休息<strong>|</strong>看知乎</th>
+            <th>2</th>
+            <th>看完TL看FLY</th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th>英语课</th>
+            <th>2</th>
+            <th>松姐的课都没怎么听</th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th>英语课<strong>|</strong>整理</th>
+            <th>2</th>
+            <th>怎么可以！</th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th>英语课<strong>|</strong>看知乎</th>
+            <th>1.5</th>
+            <th align="center">蛮有道理的<br>可你怎么不上英语课</th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th>逛知乎and你谷</th>
+            <th>2</th>
+            <th>不可以再这样啦</th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th>吃饭</th>
+            <th>3</th>
+            <th>烤鸭 ?!</th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th>琐事</th>
+            <th>2</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th>逛OJ<strong>|</strong>查信息<strong>|</strong>水</th>
+            <th>1</th>
+            <th align="center">为什么要逛？<br>嗯？NOI Online 2？</th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th>看ppball</th>
+            <th>2</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th>继续看<strong>|</strong>化学课</th>
+            <th>2</th>
+            <th>主要是看ppball</th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th>化学课</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th>化学课<strong>|</strong>逛hzwer's blog</th>
+            <th>2.5</th>
+            <th>无聊的录播课</th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th>化学课<strong>|</strong>逛hzwer's blog</th>
+            <th>2</th>
+            <th>云课堂怎么就不行了呢</th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th>逛hzwer's blog<strong>|</strong>洗澡</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th>洗澡</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th>看题</th>
+            <th>2</th>
+            <th>被虐爆</th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th>看题<strong>|</strong>Learning</th>
+            <th>2</th>
+            <th>感受到了自己的弱小</th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th>吃饭</th>
+            <th>3</th>
+            <th>烤鸭又来啦</th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th>吃饭<strong>|</strong>ppball</th>
+            <th>3</th>
+            <th>好久没nc</th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th>ppball</th>
+            <th>3</th>
+            <th>nue bao</th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th>水</th>
+            <th>1</th>
+            <th>无所事事</th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th>信息课<strong>|</strong>写记录</th>
+            <th>2.5</th>
+            <th>无趣的线段树</th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th>信息课<strong>|</strong>写记录<strong>|</strong>补物理</th>
+            <th>3</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th>信息课<strong>|</strong>补物理</th>
+            <th>3</th>
+            <th>被xqD啦！</th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th>补化学<strong>|</strong>物理作业</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>22:00-22:30</th>
+            <th>物理作业<strong>|</strong>写记录<strong>|</strong>写日记</th>
+            <th>3.5</th>
+            <th>就亿点点累</th>
+        </tr>
+</table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20.04.01|愚人节快乐]]></title>
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200401/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200401/">
+        </link>
+        <updated>2020-04-01T05:23:34.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:多云转晴                Wed   星期三<br>
+  农历三月初九  春分</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:多云转晴                Wed   星期三<br>
+  农历三月初九  春分</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<blockquote>
+<p>我愿作一枚白昼的月亮，不求眩目的荣华，不淆世俗的潮浪。      ——顾城</p>
+</blockquote>
+<p>  愚人节乐(gui)事多。<br>
+  早上打开你谷，发现我居然灰名了，惊了！然后是LOJ，居然变成LightnovelOJ。emm...反射弧略长的我才意识到是愚人节活动。于是开始刷你谷颜色，可一转到就502了？打开后发现大家的502界面跟我的不一样？最后只有一个橙名，还没截图QAQ。另外云课堂也没了，于是乎数学课鸽了。（<s>晚上居然补上</s>）不过fqyz动作蛮快，马上就找上了seewo，上语文课去了。<br>
+  中午12点活动结束的猝不及防。出去散步时发现格桑花发芽了，这么快吗？枣树终于也发出了新芽，金银花也长出花苞，好开森！<br>
+  别以为下午就没事了。中午路见神帖，然后就走不了了，太巨了吧，OI新传居然凉了，我也想催更！！！三四点时华姐冒泡布置作业，我看了一眼就走了。（<s>为下文的惨案埋下伏笔</s>）傍晚还出去种了龙眼树，总觉得另外两棵种到那边去的下场会不太好。傍晚做了个有点zz的行为，要三思而后行呐！<br>
+  晚上炸裂了吧，7点时还在想语文老师怎么还没发作文题目，一直到十几分，才忽的想起她已经发了，AAAAA！OMG！疯狂操作起来！<br>
+  呼~<br>
+  睡前报了我的第一个CF比赛，本想直接报愚人节比赛的，想想还是算了，期待04.03 OwO！<br>
+  注：下面的时间表咕咕了。</p>
+<p>附：时间表</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+        <tr>
+            <th>7:30-8:00</th>
+            <th>睡觉</th>
+            <th>2</th>
+            <th>要不要早点呐QAQ</th>
+        </tr>
+        <tr>
+            <th>8:00-8:30</th>
+            <th>起床、洗漱、吃饭<strong>|</strong>waiting</th>
+            <th>2.5</th>
+            <th>数学课咕咕了？</th>
+        </tr>
+        <tr>
+            <th>8:30-9:00</th>
+            <th>逛OJ<strong>|</strong>看Hoedx的media</th>
+            <th>3</th>
+            <th>qs</th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>刷Block-1</th>
+            <th>4</th>
+            <th>还有2-9等着呢</th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th>看题解</th>
+            <th>3</th>
+            <th>好多</th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th>语文课</th>
+            <th>3.5</th>
+            <th>动作真快</th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th>语文课<strong>|</strong>课间休息</th>
+            <th>3.5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th>语文课</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th>看题解and Blog</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th>看游记<strong>|</strong>music</th>
+            <th></th>
+            <th>xswl</th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th>吃饭<strong>|</strong>闲逛散步</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th>看题解<strong>|</strong>找文</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th>看神帖</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th>看神帖</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th>OI新传</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th>OI新传</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th>看神帖</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th>地理课</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th>地理课</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th>地理课</th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>22:00-22:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+</table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20.03.31|咕咕]]></title>
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200331/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200331/">
+        </link>
+        <updated>2020-03-31T01:28:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:阴                Tue   星期二<br>
+  农历三月初八  春分</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:阴                Tue   星期二<br>
+  农历三月初八  春分</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<p>  又是好晚的一天。<br>
+  于是……这篇日记鸽了。</p>
+<p>附：时间表</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+        <tr>
+            <th>7:30-8:00</th>
+            <th>睡觉 ...zZ</th>
+            <th>2</th>
+            <th>要不要早点呐 QAQ</th>
+        </tr>
+        <tr>
+            <th>8:00-8:30</th>
+            <th>睡觉 ...zZ<strong>|</strong>起床、洗漱、吃饭</th>
+            <th>2</th>
+            <th>好晚</th>
+        </tr>
+        <tr>
+            <th>8:30-9:00</th>
+            <th>数学课</th>
+            <th>3</th>
+            <th>这周练七</th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>数学课</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>22:00-22:30</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+</table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20.03.30|Nice]]></title>
+        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200330/</id>
+        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200330/">
+        </link>
+        <updated>2020-03-30T06:33:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>  天气:雨                Mon   星期一<br>
+  农历三月初七  春分</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>  天气:雨                Mon   星期一<br>
+  农历三月初七  春分</p>
+<!-- more -->
+<!--
+    可能要用到的代码
+    &emsp;                     空格，占一个汉字
+    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
+    <strong></strong> 加粗
+    <br>                         换行标签
+-->
+<blockquote>
+<p>只要我能拥抱世界，那拥抱得笨拙一点，又有什么关系。    ——加缪</p>
+</blockquote>
+<p>  今天不错不错。<s>课没怎么上，但信息有所进展的一天。</s><br>
+  虽然开头不太好，但后来还不错。<br>
+  清晨躺在床上思考起了数学问题，论起床与多面体的微妙关系，然后...就冒出了另一个问题，矩阵乘法与多面体的微妙关系，就好像两个面通过一条相等的棱拼在了一起，有趣吧。确实，我也确实在床上躺到了八点十分。然后，脑子里飘出一句：华姐的课！华姐的课！OMG！怎么能不听呢，嗖的一下从床上蹦起来。<br>
+  嗯嗯，语文课下课，上Q，OMG！物理作业说是不能再拖延了，赶紧补交，然后整个物理课就没在认真听了。下课后看见小君同学的Hack数据，拿下来测了一番，发现竟然又是复制粘贴搞的错QAQ，心态炸裂，我的AC啊！<br>
+  后来就捣鼓起了对拍，蛮爽的呢，AC一排一排的跳。于是乎傍晚我就用此对拍那题郁闷的出纳员，嗯嗯，终于发现错了，一改，一拍，洛谷上一交，结果一排WA...看来我构造的数据还是太弱了，确实，太小了点，得出结论，Hack数据要短小精悍，可对拍数据別小啊！！！<br>
+  最后的最后，AC了那题把我搞郁闷好几天的郁闷的出纳员，happy！！！<br>
+  happy！happy！happy！<br>
+  晚上上完燕姐的数学课，又对数学产生了点危机意识，可物理作业逼迫在即，赶紧rush完，然后...又双叒叕happy！happy！happy！</p>
+<p>附：时间表</p>
+<table><tbody>
+        <tr>
+            <th align="center" width="150" >时间</th>
+            <th align="center" width="450" >事件</th>
+            <th align="center" width="80" >得分</th>
+            <th align="center" width="270" >备注</th>
+        </tr>
+        <tr>
+            <th>7:30-8:00</th>
+            <th>睡觉 ...zZ</th>
+            <th>2</th>
+            <th>要不要早点呐 QAQ</th>
+        </tr>
+        <tr>
+            <th>8:00-8:30</th>
+            <th>起床、洗漱、吃饭<strong>|</strong>语文课</th>
+            <th>3</th>
+            <th>华姐的课！</th>
+        </tr>
+        <tr>
+            <th>8:30-9:00</th>
+            <th>语文课<strong>|</strong>课间休息</th>
+            <th>3</th>
+            <th>华姐好棒！</th>
+        </tr>
+        <tr>
+            <th>9:00-9:30</th>
+            <th>语文课</th>
+            <th>3</th>
+            <th>山雨欲来风满楼...</th>
+        </tr>
+        <tr>
+            <th>9:30-10:00</th>
+            <th>休息<strong>|</strong>补作业</th>
+            <th>3</th>
+            <th>Ｏ(≧口≦)Ｏ！</th>
+        </tr>
+        <tr>
+            <th>10:00-10:30</th>
+            <th>补作业<strong>|</strong>物理课</th>
+            <th>2</th>
+            <th>紧张</th>
+        </tr>
+        <tr>
+            <th>10:30-11:00</th>
+            <th>物理课<strong>|</strong>课间休息</th>
+            <th>3</th>
+            <th>无心听课</th>
+        </tr>
+        <tr>
+            <th>11:00-11:30</th>
+            <th>物理课</th>
+            <th>2</th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>11:30-12:00</th>
+            <th>琐事<strong>|</strong>吃饭</th>
+            <th>3</th>
+            <th>这...肉？</th>
+        </tr>
+        <tr>
+            <th>12:00-12:30</th>
+            <th>吃饭<strong>|</strong>练发球</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>12:30-13:00</th>
+            <th>看视频</th>
+            <th>3</th>
+            <th>感觉学不来</th>
+        </tr>
+        <tr>
+            <th>13:00-13:30</th>
+            <th>改题</th>
+            <th>4</th>
+            <th>改题大吉</th>
+        </tr>
+        <tr>
+            <th>13:30-14:00</th>
+            <th>改题</th>
+            <th>4</th>
+            <th>AC大吉</th>
+        </tr>
+        <tr>
+            <th>14:00-14:30</th>
+            <th>英语课<strong>|</strong>写记录</th>
+            <th>2</th>
+            <th>嗯？</th>
+        </tr>
+        <tr>
+            <th>14:30-15:00</th>
+            <th>英语课<strong>|</strong>写记录</th>
+            <th>2</th>
+            <th>是的，英语课又没了</th>
+        </tr>
+        <tr>
+            <th>15:00-15:30</th>
+            <th>英语课<strong>|</strong>琐事</th>
+            <th></th>
+            <th>同上↑</th>
+        </tr>
+        <tr>
+            <th>15:30-16:00</th>
+            <th>活动<strong>|</strong>对拍</th>
+            <th>4</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>16:00-16:30</th>
+            <th>对拍+改题</th>
+            <th>4</th>
+            <th>胜利的曙光</th>
+        </tr>
+        <tr>
+            <th>16:30-17:00</th>
+            <th>改题<strong>|</strong>ppball</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>17:00-17:30</th>
+            <th>ppball<strong>|</strong>洗澡</th>
+            <th>3</th>
+            <th>水好少</th>
+        </tr>
+        <tr>
+            <th>17:30-18:00</th>
+            <th>洗澡<strong>|</strong>琐事</th>
+            <th>3</th>
+            <th>LOJ卡了？</th>
+        </tr>
+        <tr>
+            <th>18:00-18:30</th>
+            <th>吃饭</th>
+            <th>3</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>18:30-19:00</th>
+            <th>吃饭</th>
+            <th>3</th>
+            <th>今晚吃啥来着</th>
+        </tr>
+        <tr>
+            <th>19:00-19:30</th>
+            <th>数学课</th>
+            <th>4</th>
+            <th>燕姐直播</th>
+        </tr>
+        <tr>
+            <th>19:30-20:00</th>
+            <th>数学课</th>
+            <th>3.5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>20:00-20:30</th>
+            <th>数学课</th>
+            <th>3.5</th>
+            <th>燕姐家二宝客串</th>
+        </tr>
+        <tr>
+            <th>20:30-21:00</th>
+            <th>活动<strong>|</strong>琐事</th>
+            <th>3</th>
+            <th>又活动啦啦啦</th>
+        </tr>
+        <tr>
+            <th>21:00-21:30</th>
+            <th>物理作业</th>
+            <th>4</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>21:30-22:00</th>
+            <th>物理作业<strong>|</strong>写记录</th>
+            <th>3.5</th>
+            <th></th>
+        </tr>
+        <tr>
+            <th>22:00-22:30</th>
+            <th>写记录<strong>|</strong>写日记</th>
+            <th></th>
+            <th></th>
+        </tr>
+</table>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[20.03.29校模拟赛]]></title>
         <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/TiJie200329/</id>
         <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/TiJie200329/">
         </link>
         <updated>2020-03-29T09:46:02.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="t1-队列"><strong>T1 队列</strong></h3>
+        <content type="html"><![CDATA[<p><span id='0'>【目录】</span><br>
+ <a href="#1">一.队列</a><br>
+<span id='1'> <a href="#2">二.烤羊肉串</a></span><br>
+ <a href="#3">三.色号</a></p>
+<h3 id="t1-队列-top"><strong>T1 队列</strong>                      <a href="#0">TOP</a></h3>
 <p>【问题描述】<br>
  一年一度的军训又要开始了。军训时，教官要求所有人按身高从小到大列队，<br>
  现给定 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span></span></span></span>个人的一个队列，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">m</span></span></span></span>次询问，每次询问第 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>i</mi></mrow><annotation encoding="application/x-tex">i</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.65952em;vertical-align:0em;"></span><span class="mord mathdefault">i</span></span></span></span>个人到第 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>j</mi></mrow><annotation encoding="application/x-tex">j</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.85396em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span></span></span></span>个人中身高一样<br>
@@ -37,8 +1489,163 @@
 【输出样例】<br>
  1<br>
  4<br>
- 3</p>
-<h3 id="t2-烤羊肉串"><strong>T2 烤羊肉串</strong></h3>
+ 3<br>
+【题解】<br>
+本来还想咕咕的，想想还是算了。简单讲一下。<br>
+<strong>一、正解</strong><br>
+  以样例为例 将数列转化为 (<s>怎么转化看下面感受一下</s>)<br>
+   <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>3</mn></mrow><annotation encoding="application/x-tex">3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>4</mn></mrow><annotation encoding="application/x-tex">4</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">4</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span> <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>3</mn></mrow><annotation encoding="application/x-tex">3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">3</span></span></span></span><br>
+  查询变成：1.查询 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>s</mi><mi>u</mi><mi>c</mi><mo>[</mo><mi>i</mi><mo>]</mo></mrow><annotation encoding="application/x-tex">suc[i]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">s</span><span class="mord mathdefault">u</span><span class="mord mathdefault">c</span><span class="mopen">[</span><span class="mord mathdefault">i</span><span class="mclose">]</span></span></span></span>(第一个大于 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>a</mi><mo>[</mo><mi>i</mi><mo>]</mo></mrow><annotation encoding="application/x-tex">a[i]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">a</span><span class="mopen">[</span><span class="mord mathdefault">i</span><span class="mclose">]</span></span></span></span>的数的位置)<br>
+       2.查询 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>[</mo><mi>s</mi><mi>u</mi><mi>c</mi><mo>[</mo><mi>i</mi><mo>]</mo><mo>+</mo><mn>1</mn><mo separator="true">,</mo><mi>j</mi><mo>]</mo></mrow><annotation encoding="application/x-tex">[suc[i]+1,j]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">[</span><span class="mord mathdefault">s</span><span class="mord mathdefault">u</span><span class="mord mathdefault">c</span><span class="mopen">[</span><span class="mord mathdefault">i</span><span class="mclose">]</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span><span class="mclose">]</span></span></span></span> 的RMQ<br>
+       3.比较后做出选择<br>
+       注：有些小细节<br>
+  于是乎，要预处理出后继位置和RMQ。<br>
+  完整代码：</p>
+<pre><code class="language-c++">#include&lt;bits/stdc++.h&gt; 
+#define N 100500
+#define M 30
+using namespace std;
+int n,m,l,r,a[N],num[N],suc[N],fmaxn[N][M];
+int init()
+{
+	int i,j;
+	for(i=1;i&lt;=n;i++) fmaxn[i][0]=num[i];
+	for(j=1;(1&lt;&lt;j)&lt;=n;j++)
+		for(i=1;i+(1&lt;&lt;j)-1&lt;=n;i++)
+			fmaxn[i][j]=max(fmaxn[i][j-1],fmaxn[i+(1&lt;&lt;(j-1))][j-1]);
+	return 0;
+}
+int findsuc()
+{
+    suc[n]=n;
+    for(int i=n-1;i&gt;=1;i--)
+        if(a[i]==a[i+1])suc[i]=suc[i+1];
+    	else suc[i]=i;
+    return 0;
+}
+int solve(int l,int r)
+{
+	int k=0,t=suc[l],ex;
+	if(t&gt;=r) return r-l+1;
+	ex=t-l+1; l=t+1;
+	while((1&lt;&lt;(k+1))&lt;=r-l+1) k++;
+	return max(ex,max(fmaxn[l][k],fmaxn[r-(1&lt;&lt;k)+1][k]));
+}
+int main()
+{
+	scanf(&quot;%d%d&quot;,&amp;n,&amp;m);
+	for(int i=1;i&lt;=n;i++)
+	{
+		scanf(&quot;%d&quot;,&amp;a[i]);
+		if(a[i]==a[i-1]) num[i]=num[i-1]+1;
+		else num[i]=1;
+	}
+	init(); findsuc();
+	for(int i=1;i&lt;=m;i++)
+	{
+		scanf(&quot;%d%d&quot;,&amp;l,&amp;r);
+		printf(&quot;%d\n&quot;,solve(l, r));
+	}
+	return 0;
+}
+</code></pre>
+<p><strong>二、我的鬼畜做法</strong><br>
+ <s>这种东西本来就不要拉出来给大家D了</s><br>
+ 主要思想：离散化+单调栈求前驱后继+RMQ思想DP<br>
+ 注：<strong>就算两段代码再像也千万不要复制粘贴</strong> 这很重要！！！</p>
+<pre><code class="language-c++">int solve(int l,int r)
+{
+	int k=0,ans=0,num;
+	while((1&lt;&lt;(k+1))&lt;=r-l+1) k++;
+	ans=max(fmaxn[l][k],fmaxn[r-(1&lt;&lt;k)+1][k]);
+    //下面的k原为k-1，结果 听取WA声一片
+    //没错，我复制的就是DP时的代码
+	if(a[l+(1&lt;&lt;(k))-1]!=a[l+(1&lt;&lt;(k))]) return ans;
+	num=a[l+(1&lt;&lt;(k))];
+	ans=max(ans,(min(suc[num]-1,r)-max(pre[num]+1,l)+1));
+	return ans;
+}
+</code></pre>
+<p> 完整代码：</p>
+<pre><code class="language-c++">#include&lt;bits/stdc++.h&gt; 
+#define N 100500
+#define M 30
+using namespace std;
+int n,m,l,r,a[N],t[N],s[N],suc[N],pre[N],fmaxn[N][M];
+int init()
+{
+	for(int i=1;i&lt;=n;i++) t[i]=a[i];
+	sort(t+1,t+n+1);
+	for(int i=1;i&lt;=n;i++)
+		a[i]=lower_bound(t+1,t+n+1,a[i])-t;
+	return 0;
+}
+int findsuc()
+{
+	memset(s,0,sizeof s);
+	int i,top=0;
+    for(i=n;i&gt;=1;i--)
+    {
+        while(top&amp;&amp;a[s[top]]&lt;=a[i])top--;
+        suc[i]=s[top]; s[++top]=i;
+    }
+    for(i=n;i&gt;=1;i--) if(suc[i]==0) suc[i]=n+1; else break;
+    return 0;
+}
+int findpre()
+{
+	memset(s,0,sizeof s);
+	int i,top=0;
+    for(i=1;i&lt;=n;i++)
+    {
+        while(top&amp;&amp;a[s[top]]&gt;=a[i])top--;
+        pre[i]=s[top]; s[++top]=i;
+    }
+    return 0;
+}
+int dp()
+{
+	int i,j,num;
+	for(i=1;i&lt;=n;i++) fmaxn[i][0]=1;
+	for(j=1;(1&lt;&lt;j)&lt;=n;j++)
+	{
+		for(i=1;i+(1&lt;&lt;j)-1&lt;=n;i++)
+		{
+			fmaxn[i][j]=max(fmaxn[i][j-1],fmaxn[i+(1&lt;&lt;(j-1))][j-1]);
+			if(a[i+(1&lt;&lt;(j-1))-1]!=a[i+(1&lt;&lt;(j-1))]) continue;
+			num=a[i+(1&lt;&lt;(j-1))];
+			fmaxn[i][j]=max(fmaxn[i][j],(min(suc[num]-1,i+(1&lt;&lt;j)-1)-max(pre[num]+1,i)+1));
+		}
+	}
+	return 0;
+}
+int solve(int l,int r)
+{
+	int k=0,ans=0,num;
+	while((1&lt;&lt;(k+1))&lt;=r-l+1) k++;
+	ans=max(fmaxn[l][k],fmaxn[r-(1&lt;&lt;k)+1][k]);
+	if(a[l+(1&lt;&lt;(k))-1]!=a[l+(1&lt;&lt;(k))]) return ans;
+	num=a[l+(1&lt;&lt;(k))];
+	ans=max(ans,(min(suc[num]-1,r)-max(pre[num]+1,l)+1));
+	return ans;
+}
+int main()
+{
+	freopen(&quot;guard.in&quot;,&quot;r&quot;,stdin);
+	freopen(&quot;guard.out&quot;,&quot;w&quot;,stdout);
+	scanf(&quot;%d%d&quot;,&amp;n,&amp;m);
+	for(int i=1;i&lt;=n;i++)scanf(&quot;%d&quot;,&amp;a[i]);
+	init(); findsuc(); findpre(); dp();
+	for(int i=1;i&lt;=m;i++)
+	{
+		scanf(&quot;%d%d&quot;,&amp;l,&amp;r);
+		printf(&quot;%d\n&quot;,solve(l, r));
+	}
+	return 0;
+}
+</code></pre>
+<p><span id='2'></span></p>
+<h3 id="t2-烤羊肉串-top"><strong>T2 烤羊肉串</strong>                      <a href="#0">TOP</a></h3>
 <p>【问题描述】<br>
  假期就要开始了，小翔同学想体验一下不一样的生活，社会实践一番。<br>
  他观察到，城区每个大排档的烤羊肉串的生意都非常火爆，于是计划开始他的暑期。<br>
@@ -63,6 +1670,7 @@
 【输出样例】<br>
  1  1  1</p>
 <p>同题：<a href="https://www.luogu.com.cn/problem/P3368" target="_blank">洛谷P3368 【模板】树状数组 2</a><br>
+【题解】<br>
 <strong>一、树状数组模板</strong><br>
   推荐：1.同机房小君同学的blog   <a href="https://blog.csdn.net/qq_45646484/article/details/104144520" target="_blank">树状数组 </a><br>
      2.另一篇  <a href="https://www.luogu.com.cn/blog/64882/shu-zhuang-shuo-zu" target="_blank">树状数组 </a><br>
@@ -81,9 +1689,59 @@ b[i]=a[i]-a[i-1] &amp; i \geqslant 1
   <strong>易得：将 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>a</mi><mo>[</mo><mi>i</mi></mrow><annotation encoding="application/x-tex">a[i</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">a</span><span class="mopen">[</span><span class="mord mathdefault">i</span></span></span></span>~<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>j</mi><mo>]</mo></mrow><annotation encoding="application/x-tex">j]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span><span class="mclose">]</span></span></span></span>都<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>+</mo><mi>x</mi></mrow><annotation encoding="application/x-tex">+x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">+</span><span class="mord mathdefault">x</span></span></span></span> 等价于在<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>b</mi><mo>[</mo><mi>i</mi><mo>]</mo></mrow><annotation encoding="application/x-tex">b[i]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">b</span><span class="mopen">[</span><span class="mord mathdefault">i</span><span class="mclose">]</span></span></span></span>处<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>+</mo><mi>x</mi></mrow><annotation encoding="application/x-tex">+x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">+</span><span class="mord mathdefault">x</span></span></span></span>，在<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>b</mi><mo>[</mo><mi>j</mi><mo>+</mo><mn>1</mn><mo>]</mo></mrow><annotation encoding="application/x-tex">b[j+1]</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">b</span><span class="mopen">[</span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord">1</span><span class="mclose">]</span></span></span></span>处<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>−</mo><mi>x</mi></mrow><annotation encoding="application/x-tex">-x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord">−</span><span class="mord mathdefault">x</span></span></span></span></strong><br>
   <strong>差分和前缀和可以算是处理序列的小技巧，有时候可以用得上。</strong><br>
   比如：留坑待填...<br>
-<strong>二、分块算法</strong><br>
-  留坑待填...</p>
-<h3 id="t3-色号"><strong>T3 色号</strong></h3>
+完整代码：</p>
+<pre><code class="language-c++">#include&lt;bits/stdc++.h&gt; 
+#define N 100500
+using namespace std;
+int n,l,r,c[N]; 
+inline int read()
+{
+	char c=getchar();
+	int num=0,flag=1;;
+	while(c&lt;'0'||c&gt;'9'){if(c=='-')flag=-1;c=getchar();}
+	while(c&gt;='0'&amp;&amp;c&lt;='9'){num=num*10+c-'0';c=getchar();}
+	return num*flag;
+}
+int lowbit(int n)
+{
+	return n&amp;(-n);
+} 
+int update(int pos,int d)
+{
+	while(pos&lt;=n)
+	{
+		c[pos]+=d;
+		pos+=lowbit(pos);
+	}
+	return 0;
+}
+int sum(int pos)
+{
+	int ans=0;
+	while(pos)
+	{
+		ans+=c[pos];
+		pos-=lowbit(pos);
+	}
+	return ans;
+}
+int main()
+{
+	n=read();
+	for(int i=1;i&lt;=n;i++)
+	{
+		l=read(); r=read();
+		update(l,1);
+		update(r+1,-1);
+	}
+	for(int i=1;i&lt;=n;i++)printf(&quot;%d &quot;,sum(i));
+}
+
+</code></pre>
+<p><strong>二、分块算法</strong><br>
+  留坑待填...<br>
+<span id='3'></span></p>
+<h3 id="t3-色号-top"><strong>T3 色号</strong>                      <a href="#0">TOP</a></h3>
 <p> 原题：<a href="https://www.luogu.com.cn/problem/P3177" target="_blank">【HAOI2015】树上染色 </a><br>
 【问题描述】<br>
  一棵树有<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">m</span></span></span></span>个节点，请在<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">m</span></span></span></span>个节点里找<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi></mrow><annotation encoding="application/x-tex">p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">p</span></span></span></span>个点，把这<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>p</mi></mrow><annotation encoding="application/x-tex">p</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.625em;vertical-align:-0.19444em;"></span><span class="mord mathdefault">p</span></span></span></span>个点染成<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>c</mi><mi>o</mi><mi>l</mi><mi>o</mi><mi>r</mi><mn>1</mn></mrow><annotation encoding="application/x-tex">color1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault">c</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord">1</span></span></span></span>色号，其余点全<br>
@@ -99,8 +1757,9 @@ b[i]=a[i]-a[i-1] &amp; i \geqslant 1
  3 1 2<br>
  2 1 1<br>
 【输出样例】<br>
- 3</p>
-<p><strong>人话题意</strong>：（该题题意理解很重要很重要很重要）<br>
+ 3<br>
+【题解】<br>
+<strong>人话题意</strong>：（该题题意理解很重要很重要很重要）<br>
   好吧，主要解释sum到底是啥。<s>看了好久才懂</s><br>
   假设有四个节点，node i-j表示i节点走到j节点的距离。</p>
 <pre><code class="language-c++">//有那么一点多边形对角线的感觉
@@ -245,10 +1904,10 @@ int main()
         </link>
         <updated>2020-03-29T02:33:17.000Z</updated>
         <summary type="html"><![CDATA[<p>  天气:阴                Sun   星期天<br>
-  农历三月初五  春分</p>
+  农历三月初六  春分</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>  天气:阴                Sun   星期天<br>
-  农历三月初五  春分</p>
+  农历三月初六  春分</p>
 <!-- more -->
 <!--
     可能要用到的代码
@@ -257,6 +1916,12 @@ int main()
     <strong></strong> 加粗
     <br>                         换行标签
 -->
+<blockquote>
+<p>重要的不是治愈，而是带着病痛活下去。            ——加缪</p>
+</blockquote>
+<p>  充满波折的一天。有点累，概要一下吧。<br>
+  早晨效率OK。中午路见好书。下午模拟水题。好吧，T3还行，做出来明显有运气成分，T1居然WA，不明就里。晚上重心是写题解，手残退出Gridea两次，心血没了，补吧。讲评时有那么亿点点语无伦次，不过可能还行吧。<br>
+  over.</p>
 <p>附：时间表</p>
 <table><tbody>
         <tr>
@@ -411,44 +2076,44 @@ int main()
         </tr>
         <tr>
             <th>19:00-19:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>讲评</th>
+            <th>3.5</th>
+            <th>有点语无伦次</th>
         </tr>
         <tr>
             <th>19:30-20:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>讲评</th>
+            <th>3</th>
+            <th>讲的还行？</th>
         </tr>
         <tr>
             <th>20:00-20:30</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>讲评</th>
+            <th>3.5</th>
+            <th>去学学分块？</th>
         </tr>
         <tr>
             <th>20:30-21:00</th>
-            <th></th>
-            <th></th>
+            <th>休息<strong>|</strong>看视频</th>
+            <th>3</th>
             <th></th>
         </tr>
         <tr>
             <th>21:00-21:30</th>
-            <th></th>
-            <th></th>
+            <th>写题解</th>
+            <th>4</th>
             <th></th>
         </tr>
         <tr>
             <th>21:30-22:00</th>
-            <th></th>
-            <th></th>
-            <th></th>
+            <th>写题解</th>
+            <th>3.5</th>
+            <th>又...没了？</th>
         </tr>
         <tr>
             <th>22:00-22:30</th>
-            <th></th>
-            <th></th>
+            <th>写题解</th>
+            <th>3</th>
             <th></th>
         </tr>
 </table>]]></content>
@@ -460,10 +2125,10 @@ int main()
         </link>
         <updated>2020-03-28T04:24:42.000Z</updated>
         <summary type="html"><![CDATA[<p>  天气:阴                Sat   星期六<br>
-  农历三月初四  春分</p>
+  农历三月初五  春分</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>  天气:阴                Sat   星期六<br>
-  农历三月初四  春分</p>
+  农历三月初五  春分</p>
 <!-- more -->
 <!--
     可能要用到的代码
@@ -672,1290 +2337,6 @@ int main()
             <th>看视频</th>
             <th>0</th>
             <th>OMG！</th>
-        </tr>
-</table>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20.03.27|破而后立]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200327/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200327/">
-        </link>
-        <updated>2020-03-27T05:02:57.000Z</updated>
-        <summary type="html"><![CDATA[<p>  天气:晴                Fri   星期五<br>
-  农历三月初三  春分</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>  天气:晴                Fri   星期五<br>
-  农历三月初三  春分</p>
-<!-- more -->
-<!--
-    可能要用到的代码
-    &emsp;                     空格，占一个汉字
-    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
-    <strong></strong> 加粗
-    <br>                         换行标签
--->
-<blockquote>
-<p>你不应只滑到冰球所在的位置，而是要滑到冰球将要到达的地方。    ——安东尼 · 福奇</p>
-</blockquote>
-<p>  又到周五，开学的消息来得猝不及防。<br>
-  怎么办，这时候开学岂不是要半期考QAQ。<br>
-  数学课老师咕咕的有点久，结果...迟到15分，拖堂40分。简直快上了两个小时，咽口水都饱了，好想来根Ba+2Na。中午去奶奶家送枇杷，路上风景好。蓝天白云，明媚阳光，惠风和畅，草木送香。奶奶家的金银花有了花苞，我们家的还没有呢，村路上有不少绿树，今天看起来格外有生气，快到家时，忍不住飙起了车，冲啊！！！以后也要冲啊！！！（好久没这种感觉了呢）<br>
-  最近下午的课变得有点昏昏欲睡，生物课照例睡得着了emm...课前看了格桑花的照片，原来就是以前路上看到的那种好漂亮的花，好期待！<br>
-  那题郁闷的出纳员还没有进展，感觉一难一点我就写不动了，怎么办，明天要干下来啊。<br>
-  傍晚开个个LOJ的账号，感觉不太会用，晚上又在登记成绩上浪费了不少时间，好在后来做物理周练时效率挺高。22：50！！！好晚了！我得去睡了。<br>
-  对了，今天还看到好几句喜欢的句子，接下来慢慢写。</p>
-<p>附：时间表</p>
-<table><tbody>
-        <tr>
-            <th align="center" width="150" >时间</th>
-            <th align="center" width="450" >事件</th>
-            <th align="center" width="80" >得分</th>
-            <th align="center" width="270" >备注</th>
-        </tr>
-        <tr>
-            <th>7:30-8:00</th>
-            <th>起床、洗漱、吃饭</th>
-            <th>3</th>
-            <th>要不要早点呐 QAQ</th>
-        </tr>
-        <tr>
-            <th>8:00-8:30</th>
-            <th>语文课</th>
-            <th>3</th>
-            <th>他在干嘛？</th>
-        </tr>
-        <tr>
-            <th>8:30-9:00</th>
-            <th>语文课<strong>|</strong>课间休息</th>
-            <th>3</th>
-            <th>有做眼保健操</th>
-        </tr>
-        <tr>
-            <th>9:00-9:30</th>
-            <th>语文课</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>9:30-10:00</th>
-            <th>休息<strong>|</strong>整理</th>
-            <th>3</th>
-            <th>焕然一新！</th>
-        </tr>
-        <tr>
-            <th>10:00-10:30</th>
-            <th>数学课</th>
-            <th>3</th>
-            <th>老师咕咕了？</th>
-        </tr>
-        <tr>
-            <th>10:30-11:00</th>
-            <th>数学课<strong>|</strong>课间休息</th>
-            <th>3.5</th>
-            <th>qs</th>
-        </tr>
-        <tr>
-            <th>11:00-11:30</th>
-            <th>数学课</th>
-            <th>3.5</th>
-            <th>一切正常<-_<-</th>
-        </tr>
-        <tr>
-            <th>11:30-12:00</th>
-            <th>数学课</th>
-            <th></th>
-            <th>这个老师好久</th>
-        </tr>
-        <tr>
-            <th>12:00-12:30</th>
-            <th>数学课<strong>|</strong>吃饭</th>
-            <th></th>
-            <th>迟到10分钟，拖堂40分</th>
-        </tr>
-        <tr>
-            <th>12:30-13:00</th>
-            <th>吃饭<strong>|</strong>看资讯</th>
-            <th>2</th>
-            <th>禁止看资讯！！！</th>
-        </tr>
-        <tr>
-            <th>13:00-13:30</th>
-            <th>写记录<strong>|</strong>写文</th>
-            <th>3</th>
-            <th>okok</th>
-        </tr>
-        <tr>
-            <th>13:30-14:00</th>
-            <th>进奶奶家</th>
-            <th>3</th>
-            <th>送枇杷啦，好舒服</th>
-        </tr>
-        <tr>
-            <th>14:00-14:30</th>
-            <th>生物课</th>
-            <th>1</th>
-            <th>没在听</th>
-        </tr>
-        <tr>
-            <th>14:30-15:00</th>
-            <th>生物课</th>
-            <th>3.5</th>
-            <th>又有在听了</th>
-        </tr>
-        <tr>
-            <th>15:00-15:30</th>
-            <th>生物课<strong>|</strong>睡觉</th>
-            <th>2.5</th>
-            <th>困了=_=</th>
-        </tr>
-        <tr>
-            <th>15:30-16:00</th>
-            <th>休息<strong>|</strong>历史考试</th>
-            <th>3</th>
-            <th>开始了开始了</th>
-        </tr>
-        <tr>
-            <th>16:00-16:30</th>
-            <th>历史考试</th>
-            <th>4</th>
-            <th>有点简单？</th>
-        </tr>
-        <tr>
-            <th>16:30-17:00</th>
-            <th>历史考试<strong>|</strong>上课</th>
-            <th>4</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>17:00-17:30</th>
-            <th>历史课</th>
-            <th>4</th>
-            <th>yq姐姐好棒o(≧v≦)o~~</th>
-        </tr>
-        <tr>
-            <th>17:30-18:00</th>
-            <th>统计分数</th>
-            <th>2</th>
-            <th>无聊ing...</th>
-        </tr>
-        <tr>
-            <th>18:00-18:30</th>
-            <th>统计分数<strong>|</strong>乱看</th>
-            <th>2</th>
-            <th>注册了个LOJ</th>
-        </tr>
-        <tr>
-            <th>18:30-19:00</th>
-            <th>观察LOJ的各种姿势<strong>|</strong>吃饭</th>
-            <th>2</th>
-            <th>然并卵</th>
-        </tr>
-        <tr>
-            <th>19:00-19:30</th>
-            <th>吃饭<strong>|</strong>ppball</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>19:30-20:00</th>
-            <th>统计分数<strong>|</strong>琐事</th>
-            <th>2</th>
-            <th>emm...</th>
-        </tr>
-        <tr>
-            <th>20:00-20:30</th>
-            <th>洗澡</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>20:30-21:00</th>
-            <th>洗澡<strong>|</strong>交代事宜</th>
-            <th>2</th>
-            <th><s>感觉还不如自己直接做</s></th>
-        </tr>
-        <tr>
-            <th>21:00-21:30</th>
-            <th>看知乎<strong>|</strong>准备<strong>|</strong>物理周练</th>
-            <th>4</th>
-            <th>呼~~</th>
-        </tr>
-        <tr>
-            <th>21:30-22:00</th>
-            <th>物理周练</th>
-            <th>4.5</th>
-            <th>doing...</th>
-        </tr>
-        <tr>
-            <th>22:00-22:30</th>
-            <th>物理周练<strong>|</strong>写记录<strong>|</strong>写日记</th>
-            <th>4</th>
-            <th>疯狂操作ing...</th>
-        </tr>
-</table>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【HNOI2004】宠物收养场]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/HNOI2004Turnover/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/HNOI2004Turnover/">
-        </link>
-        <updated>2020-03-26T08:55:29.000Z</updated>
-        <content type="html"><![CDATA[<p>题面：<br>
-<a href="https://www.luogu.com.cn/problem/P2286" target="_blank">洛谷P2286 【HNOI2004】宠物收养场</a><br>
-题解：审题可知要寻找一个数<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的前驱（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>小于<strong>等于</strong>的最大节<br>
-   点）与后继（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>大于<strong>等于</strong>的最小节点），接下来选择一<br>
-   个更接近<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的数，若相同选择前驱，然后删除该节点。<br>
-   初看题目，以为需要开两棵Treap，但通过进一步观察，我们可以发现，<br>
-   此题中收养者与宠物在本质上是一样的，并且题目中有这一句话：<br>
-   ''同一时间呆在收养所中的，要么全是宠物，要么全是领养者''<br>
-   所以我们只需要在同一段时间内维护宠物或者收养者。<br>
-   可用<span class='katex-error' title='ParseError: KaTeX parse error: Expected group after &#039;^&#039; at position 1: ^̲'>^</span>运算符进行转换。如下：</p>
-<pre><code class="language-c++">    //a表示身份，stuff[0]为宠物，stuff[1]为收养者
-    if(stuff[a]&gt;=stuff[a^1]){stuff[a]++;ins(R,b);}
-    else{stuff[a^1]--;select(b);}
-</code></pre>
-<p>   套用Treap模板即可，涉及插入，删除，寻找前驱、后继的操作。<br>
-完整代码：</p>
-<pre><code class="language-c++">#include&lt;cstdio&gt;
-#include&lt;iostream&gt;
-#include&lt;stdlib.h&gt;
-#include&lt;cmath&gt;
-#define N 105000    // 题目中说明了n&lt;=10000 , 不知道为什么我开10500却不行
-#define mod 1000000
-#define inf 2000000005
-using namespace std;
-int  n,a,b,stuff[2],small,big,ans;
-int sum=0,R=0;
-int size[N],v[N],rd[N],num[N],son[N][2];
-inline int read()
-{
-	int num=0;
-	char c=getchar();
-	while(c&gt;'9'||c&lt;'0'){c=getchar();}
-	while(c&gt;='0'&amp;&amp;c&lt;='9'){num=num*10+c-'0';c=getchar();}
-	return num;
-}
-void pushup(int p)
-{
-	size[p]=size[son[p][0]]+size[son[p][1]]+num[p];
-}
-void rotate(int &amp;p,int d)
-{
-	int k=son[p][d^1];
-	son[p][d^1]=son[k][d];
-	son[k][d]=p;
-	pushup(k);
-	pushup(p);
-	p=k;
-}
-void ins(int &amp;p,int x)
-{
-	if(!p)
-	{
-		p=++sum;
-		size[p]=num[p]=1;
-		v[p]=x;
-		rd[p]=rand();
-		return;
-	}
-	if(v[p]==x)
-	{
-		num[p]++;
-		size[p]++;
-		return;
-	}
-	int d=(x&gt;v[p]);
-	ins(son[p][d],x);
-	if(rd[p]&lt;rd[son[p][d]]) rotate(p,d^1);
-	pushup(p);
-}
-void del(int &amp;p,int x)
-{
-	if(!p) return;
-	if(x&lt;v[p]) del(son[p][0],x);
-	else if(x&gt;v[p]) del(son[p][1],x);
-	else
-	{
-		if(!son[p][0]&amp;&amp;!son[p][1])
-		{
-			num[p]--; size[p]--;
-			if(num[p]==0) p=0;
-		}
-		else if(son[p][0]&amp;&amp;!son[p][1])
-		{
-			rotate(p,1);
-			del(son[p][1],x);
-		}
-		else if(!son[p][0]&amp;&amp;son[p][1])
-		{
-			rotate(p,0);
-			del(son[p][0],x);
-		}
-		else if(son[p][0]&amp;&amp;son[p][1])
-		{
-			int d=(rd[son[p][0]]&gt;rd[son[p][1]]);
-			rotate(p,d);
-			del(son[p][d],x);
-		}
-	}
-	pushup(p);
-}
-int pre(int p,int x)
-{
-	if(!p) return -inf;
-	if(v[p]&gt;=x) return pre(son[p][0],x);
-	else return max(v[p],pre(son[p][1],x));	
-}
-int suc(int p,int x)
-{
-	if(!p) return inf;
-	if(v[p]&lt;=x) return suc(son[p][1],x);
-	else return min(v[p],suc(son[p][0],x));	
-}
-int select(int x)
-{
-	int k;
-	small=pre(R,x);
-	big=suc(R,x);
-	k=abs(x-small)&lt;=abs(x-big)?small:big;
-	del(R,k);
-	ans=(ans+abs(x-k))%mod;
-	return 0;
-}
-int main()
-{
-	n=read();
-	for(int i=1;i&lt;=n;i++)
-	{
-		a=read(); b=read();
-		if(stuff[a]&gt;=stuff[a^1]){stuff[a]++;ins(R,b);}
-		else{stuff[a^1]--;select(b);}
-	}
-	printf(&quot;%d&quot;,ans);
-	return 0;
-}
-
-</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【HNOI2002】营业额统计]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/HNOI2002Adoption/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/HNOI2002Adoption/">
-        </link>
-        <updated>2020-03-26T08:35:08.000Z</updated>
-        <content type="html"><![CDATA[<p>题面：<br>
-<a href="https://www.luogu.com.cn/problem/P2234" target="_blank">洛谷P2234 【HNOI2002】营业额统计</a><br>
-题解：审题后可知该题主要是查找在已有数中一个数<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的前驱（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>小于<br>
-   <strong>等于</strong>的最大节点）与后继（此题定义为权值<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>大于<strong>等于</strong>的最小节点），然后选择<br>
-   一个更接近<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>x</mi></mrow><annotation encoding="application/x-tex">x</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">x</span></span></span></span>的数。<br>
-   套用Treap模板即可，涉及插入，寻找前驱、后继的操作。<br>
-注意点：有<strong>负数</strong>存在<br>
-完整代码：</p>
-<pre><code class="language-c++">#include&lt;cstdio&gt;
-#include&lt;iostream&gt;
-#include&lt;stdlib.h&gt;
-#include&lt;cmath&gt; 
-#define N 40000
-#define inf 2000000005
-using namespace std;
-int n,small,big,ans;
-int sum=0,R=0;
-int v[N],size[N],rd[N],num[N],son[N][2];
-inline int read()
-{
-	int num=0,flag=1;
-	char c=getchar();
-	while(c&gt;'9'||c&lt;'0'){if(c=='-')flag=-1;c=getchar();}
-	while(c&gt;='0'&amp;&amp;c&lt;='9'){num=num*10+c-'0';c=getchar();}
-	return num*flag;
-}
-void pushup(int p)
-{
-	size[p]=size[son[p][0]]+size[son[p][1]]+num[p];
-}
-void rotate(int &amp;p,int d)
-{
-	int k=son[p][d^1];
-	son[p][d^1]=son[k][d];
-	son[k][d]=p;
-	pushup(p);
-	pushup(k);
-	p=k;
-}
-void ins(int &amp;p,int x)
-{
-	if(!p)
-	{
-		p=++sum;
-		size[p]=num[p]=1;
-		v[p]=x;
-		rd[p]=rand();
-		return;
-	}
-	if(v[p]==x)
-	{
-		size[p]++;
-		num[p]++;
-		return;
-	}
-	int d=(x&gt;v[p]);
-	ins(son[p][d],x);
-	if(rd[p]&lt;rd[son[p][d]]) rotate(p,d^1);
-	pushup(p);
-}
-void del(int &amp;p,int x)
-{
-	if(!p) return;
-	if(x&gt;v[p]) del(son[p][0],x);
-	else if(x&lt;v[p]) del(son[p][1],x);
-	else
-	{
-		if(!son[p][0]&amp;&amp;!son[p][1])
-		{
-			size[p]--;num[p]--;
-			if(size[p]==0)p=0;
-		}
-		else if(son[p][0]&amp;&amp;!son[p][1])
-		{
-			rotate(p,1);
-			del(son[p][1],x);
-		}
-		else if(!son[p][0]&amp;&amp;son[p][1])
-		{
-			rotate(p,0);
-			del(son[p][0],x);
-		}
-		else if(son[p][0]&amp;&amp;son[p][1])
-		{
-			int d=(rd[son[p][0]]&gt;rd[son[p][1]]);
-			rotate(p,d);
-			del(son[p][d],x);
-		}
-	}
-	pushup(p);
-}
-int pre(int p,int x)
-{
-	if(!p) return -inf;
-	if(v[p]==x) return v[p];
-	if(v[p]&gt;=x) return pre(son[p][0],x);
-	else return max(v[p],pre(son[p][1],x));
-}
-int suc(int p,int x)
-{
-	if(!p) return inf;
-	if(v[p]==x) return v[p];
-	if(v[p]&lt;=x) return suc(son[p][1],x);
-	else return min(v[p],suc(son[p][0],x));
-}
-int select(int x)
-{
-	int k;
-	small=pre(R,x);
-	big=suc(R,x);
-	k=abs(x-small)&lt;=abs(x-big)?small:big;
-	if(small==-inf&amp;&amp;big==inf) k=0;
-	ans=ans+abs(x-k);
-	ins(R,x);
-	return 0;
-}
-int main()
-{
-	n=read();
-	for(int i=1;i&lt;=n;i++)select(read());
-	printf(&quot;%d&quot;,ans);
-	return 0;
-}
-</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【模板】普通平衡树]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/luoguP3369/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/luoguP3369/">
-        </link>
-        <updated>2020-03-26T05:10:25.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.luogu.com.cn/problem/P3369" target="_blank">洛谷 P3369 【模板】普通平衡树</a></p>
-<p>1.Treap 写法    不懂看<a href="https://loctopus-hyt.github.io/loctopus.github.io/post/TreapLearingNote/" target="_blank">这里</a><br>
-完整代码：</p>
-<pre><code>#include&lt;cstdio&gt;
-#include&lt;iostream&gt;
-#include&lt;stdlib.h&gt;
-#define N 100500
-#define inf 2000000005
-using namespace std;
-int n,opt,x;
-int sum=0,R=0;
-int size[N],v[N],num[N],rd[N],son[N][2];
-void pushup(int p)
-{
-	size[p]=size[son[p][0]]+size[son[p][1]]+num[p];
-}
-void rotate(int &amp;p,int d)
-{
-	int k=son[p][d^1];
-	son[p][d^1]=son[k][d];
-	son[k][d]=p;
-	pushup(p);
-	pushup(k);
-	p=k;
-}
-void ins(int &amp;p,int x)
-{
-	if(!p)
-	{
-		p=++sum;
-		size[p]=num[p]=1;
-		v[p]=x;
-		rd[p]=rand();
-		return; 
-	}
-	if(v[p]==x)
-	{
-		num[p]++;
-		size[p]++;
-		return;
-	}
-	int d=(x&gt;v[p]);
-	ins(son[p][d],x);
-	if(rd[p]&lt;rd[son[p][d]]) rotate(p,d^1);
-	pushup(p);
-}
-void del(int &amp;p,int x)
-{
-	if(!p) return;
-	if(x&lt;v[p]) del(son[p][0],x);
-	else if(x&gt;v[p]) del(son[p][1],x);
-	else
-	{
-		if(!son[p][0]&amp;&amp;!son[p][1])
-		{
-			num[p]--; size[p]--;
-			if(num[p]==0) p=0;
-		}
-		else if(son[p][0]&amp;&amp;!son[p][1])
-		{
-			rotate(p,1);
-			del(son[p][1],x);
-		}
-		else if(!son[p][0]&amp;&amp;son[p][1])
-		{
-			rotate(p,0);
-			del(son[p][0],x);
-		}
-		else if(son[p][0]&amp;&amp;son[p][1])
-		{
-			int d=(rd[son[p][0]]&gt;rd[son[p][1]]);
-			rotate(p,d);
-			del(son[p][d],x);
-		}
-	}
-	pushup(p);
-}
-int rank(int p,int x)
-{
-	if(!p) return 0;
-	if(v[p]==x) return size[son[p][0]]+1;
-	if(v[p]&lt;x) return size[son[p][0]]+num[p]+rank(son[p][1],x);
-	if(v[p]&gt;x) return rank(son[p][0],x);
-}
-int find(int p,int x)
-{
-	if(!p) return 0;
-	if(size[son[p][0]]&gt;=x) return find(son[p][0],x);
-	else if(size[son[p][0]]+num[p]&lt;x)
-		return find(son[p][1],x-num[p]-size[son[p][0]]);
-	else return v[p];
-}
-int pre(int p,int x)
-{
-	if(!p) return -inf;
-	if(v[p]&gt;=x) return pre(son[p][0],x);
-	else return max(v[p],pre(son[p][1],x));
-}
-int suc(int p,int x)
-{
-	if(!p) return inf;
-	if(v[p]&lt;=x) return suc(son[p][1],x);
-	else return min(v[p],suc(son[p][0],x));
-}
-int main()
-{
-    scanf(&quot;%d&quot;,&amp;n);
-    for (int i=0;i&lt;n;++i)
-    {
-        scanf(&quot;%d%d&quot;,&amp;opt,&amp;x);
-        if (opt==1) ins(R,x);
-        else if (opt==2) del(R,x);
-        else if (opt==3) printf(&quot;%d\n&quot;,rank(R,x));
-        else if (opt==4) printf(&quot;%d\n&quot;,find(R,x));
-        else if (opt==5) printf(&quot;%d\n&quot;,pre(R,x));
-        else if (opt==6) printf(&quot;%d\n&quot;,suc(R,x));
-    }
-    return 0;
-}
-
-</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20.03.26|QAQ]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200326/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200326/">
-        </link>
-        <updated>2020-03-26T01:48:36.000Z</updated>
-        <summary type="html"><![CDATA[<p>  天气:阴转雷雨                Thu   星期四<br>
-  农历三月初二  春分</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>  天气:阴转雷雨                Thu   星期四<br>
-  农历三月初二  春分</p>
-<!-- more -->
-<!--
-    可能要用到的代码
-    &emsp;                     空格，占一个汉字
-    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
-    <strong></strong> 加粗
-    <br>                         换行标签
--->
-<blockquote>
-<p>人性的变化以及深邃，永远无法言说。            ——古龙</p>
-</blockquote>
-<p>  最近怎么不想学文化课了QAQ？？？？？<br>
-  每天一有空就是打开洛谷刷题，然后到了晚上刷完后准备开始写作业就干不动了。<br>
-  作业好多好烦，不想做！不想做！不想做！<br>
-  持续迷茫ing...<br>
-  今天的化学考试还出了什么幺蛾子...<br>
-  说好的大吉呢？!<br>
-<img src="https://Loctopus-hyt.github.io/loctopus.github.io//post-images/1585231521688.jpg" alt="假的大吉" loading="lazy"></p>
-<p>附：时间表</p>
-<table><tbody>
-        <tr>
-            <th align="center" width="150" >时间</th>
-            <th align="center" width="450" >事件</th>
-            <th align="center" width="80" >得分</th>
-            <th align="center" width="270" >备注</th>
-        </tr>
-        <tr>
-            <th>7:30-8:00</th>
-            <th>起床、洗漱、吃饭</th>
-            <th>3</th>
-            <th>要不要早点呐 QAQ</th>
-        </tr>
-        <tr>
-            <th>8:00-8:30</th>
-            <th>物理课</th>
-            <th>3.5</th>
-            <th>补作业补作业</th>
-        </tr>
-        <tr>
-            <th>8:30-9:00</th>
-            <th>物理课<strong>|</strong>课间休息</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>9:00-9:30</th>
-            <th>物理课</th>
-            <th>3.5</th>
-            <th>居然还有一章！</th>
-        </tr>
-        <tr>
-            <th>9:30-10:00</th>
-            <th>休息</th>
-            <th>3</th>
-            <th>又要考试了</th>
-        </tr>
-        <tr>
-            <th>10:00-10:30</th>
-            <th>英语考试</th>
-            <th>3.5</th>
-            <th>doing...</th>
-        </tr>
-        <tr>
-            <th>10:30-11:00</th>
-            <th>英语考试</th>
-            <th>4</th>
-            <th>doing...</th>
-        </tr>
-        <tr>
-            <th>11:00-11:30</th>
-            <th>英语考试</th>
-            <th>4</th>
-            <th>我怎么还没做完</th>
-        </tr>
-        <tr>
-            <th>11:30-12:00</th>
-            <th>对答案<strong>|</strong>吃饭</th>
-            <th>3</th>
-            <th>我做的不是同一篇完形吧？</th>
-        </tr>
-        <tr>
-            <th>12:00-12:30</th>
-            <th>吃饭</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>12:30-13:00</th>
-            <th>ppball</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>13:00-13:30</th>
-            <th>写文<strong>|</strong>写记录</th>
-            <th>3</th>
-            <th>写题解啦</th>
-        </tr>
-        <tr>
-            <th>13:30-14:00</th>
-            <th>写题</th>
-            <th>3</th>
-            <th>又是模板题</th>
-        </tr>
-        <tr>
-            <th>14:00-14:30</th>
-            <th>化学考试</th>
-            <th>3.5</th>
-            <th>doing...</th>
-        </tr>
-        <tr>
-            <th>14:30-15:00</th>
-            <th>化学考试</th>
-            <th>4</th>
-            <th>doing...</th>
-        </tr>
-        <tr>
-            <th>15:00-15:30</th>
-            <th>化学考试</th>
-            <th>4</th>
-            <th>惊了！</th>
-        </tr>
-        <tr>
-            <th>15:30-16:00</th>
-            <th>交考卷</th>
-            <th>3</th>
-            <th>OMG</th>
-        </tr>
-        <tr>
-            <th>16:00-16:30</th>
-            <th>写文</th>
-            <th>3.5</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>16:30-17:00</th>
-            <th>写文</th>
-            <th>4</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>17:00-17:30</th>
-            <th>写文</th>
-            <th>4</th>
-            <th>两篇题解有点像</th>
-        </tr>
-        <tr>
-            <th>17:30-18:00</th>
-            <th>写文</th>
-            <th>3.5</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>18:00-18:30</th>
-            <th>吃饭</th>
-            <th>3</th>
-            <th>又要下雷雨了</th>
-        </tr>
-        <tr>
-            <th>18:30-19:00</th>
-            <th>写记录<strong>|</strong>汇总作业</th>
-            <th>2.5</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>19:00-19:30</th>
-            <th>水（看资讯）</th>
-            <th>0</th>
-            <th>？？？</th>
-        </tr>
-        <tr>
-            <th>19:30-20:00</th>
-            <th>水<strong>|</strong>写题</th>
-            <th>2</th>
-            <th>？</th>
-        </tr>
-        <tr>
-            <th>20:00-20:30</th>
-            <th>信息课</th>
-            <th>3.5</th>
-            <th>妙哉</th>
-        </tr>
-        <tr>
-            <th>20:30-21:00</th>
-            <th>信息课</th>
-            <th>3.5</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>21:00-21:30</th>
-            <th>信息课</th>
-            <th>4</th>
-            <th>RMQ？</th>
-        </tr>
-        <tr>
-            <th>21:30-22:00</th>
-            <th>水</th>
-            <th>0</th>
-            <th>？？？</th>
-        </tr>
-        <tr>
-            <th>22:00-22:30</th>
-            <th>写记录<strong>|</strong>写日记</th>
-            <th></th>
-            <th></th>
-        </tr>
-</table>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20.03.25|废废烊烊]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200325/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200325/">
-        </link>
-        <updated>2020-03-25T01:36:44.000Z</updated>
-        <summary type="html"><![CDATA[<p>  天气:多云                Wed   星期三<br>
-  农历三月初二  春分</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>  天气:多云                Wed   星期三<br>
-  农历三月初二  春分</p>
-<!-- more -->
-<!--
-    可能要用到的代码
-    &emsp;                     空格，占一个汉字
-    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
-    <strong></strong> 加粗
-    <br>                         换行标签
--->
-<blockquote>
-<p>所有的光鲜亮丽都敌不过时间，并且一去不复返。         ——《了不起的比尔盖茨》</p>
-</blockquote>
-<p>  迷茫ing...<br>
-  语文考试现场：文笔很优美，情节很曲折，结局很感人，可是看不懂QAQ<br>
-  地理考试现场：什么？缓解人口老龄化的措施给8分，写四点，我只会调整生育政策一个啊QAQ<br>
-  数学课堂现场：怎么文件打包还没完啊，让不让我听课QAQ<br>
-  英语课堂现场：第一章检测卷？我都还没做，还是去打Treap吧QAQ<br>
-  晚上写完一题宠物收养所就废了，想继续做题又不敢，怕作业写不完，可又不想写作业，<br>
-  于是乎，红红火火恍恍惚惚稀稀里里糊涂QAQ</p>
-<p>附：时间表</p>
-<table><tbody>
-        <tr>
-            <th align="center" width="150" >时间</th>
-            <th align="center" width="450" >事件</th>
-            <th align="center" width="80" >得分</th>
-            <th align="center" width="270" >备注</th>
-        </tr>
-        <tr>
-            <th>7:30-8:00</th>
-            <th>起床、洗漱、吃饭</th>
-            <th>3</th>
-            <th>要不要早点呐 QAQ</th>
-        </tr>
-        <tr>
-            <th>8:00-8:30</th>
-            <th>数学课<strong>|</strong>打包</th>
-            <th>3</th>
-            <th>？</th>
-        </tr>
-        <tr>
-            <th>8:30-9:00</th>
-            <th>数学课<strong>|</strong>打包</th>
-            <th>2.5</th>
-            <th>还没打包完？</th>
-        </tr>
-        <tr>
-            <th>9:00-9:30</th>
-            <th>数学课<strong>|</strong>整理</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>9:30-10:00</th>
-            <th>写记录<strong>|</strong>画答题卡</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>10:00-10:30</th>
-            <th>语文考试</th>
-            <th>3.5</th>
-            <th>认真</th>
-        </tr>
-        <tr>
-            <th>10:30-11:00</th>
-            <th>语文考试</th>
-            <th>4</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>11:00-11:30</th>
-            <th>语文考试</th>
-            <th>3.5</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>11:30-12:00</th>
-            <th>休息<strong>|</strong>吃饭</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>12:00-12:30</th>
-            <th>吃饭<strong>|</strong>ppball</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>12:30-13:00</th>
-            <th>ppball</th>
-            <th>3</th>
-            <th>走？</th>
-        </tr>
-        <tr>
-            <th>13:00-13:30</th>
-            <th>ppball<strong>|</strong>...</th>
-            <th>2</th>
-            <th>好久</th>
-        </tr>
-        <tr>
-            <th>13:30-14:00</th>
-            <th>写Treap</th>
-            <th>3.5</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>14:00-14:30</th>
-            <th>英语课<strong>|</strong>写Treap</th>
-            <th>3</th>
-            <th>游离于课堂之外</th>
-        </tr>
-        <tr>
-            <th>14:30-15:00</th>
-            <th>英语课<strong>|</strong>写Treap</th>
-            <th>3.5</th>
-            <th>潜心于Treap之中</th>
-        </tr>
-        <tr>
-            <th>15:00-15:30</th>
-            <th>英语课<strong>|</strong>调格式</th>
-            <th>1</th>
-            <th>废了...</th>
-        </tr>
-        <tr>
-            <th>15:30-16:00</th>
-            <th>英语小测<strong>|</strong>休息<strong>|</strong>吃东西</th>
-            <th>3</th>
-            <th>怎么小测这么久</th>
-        </tr>
-        <tr>
-            <th>16:00-16:30</th>
-            <th>地理课</th>
-            <th>3.5</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>16:30-17:00</th>
-            <th>地理课<strong>|</strong>眯<strong>|</strong>地理考试</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>17:00-17:30</th>
-            <th>地理考试</th>
-            <th>3.5</th>
-            <th>好难</th>
-        </tr>
-        <tr>
-            <th>17:30-18:00</th>
-            <th>休息<strong>|</strong>逛逛<strong>|</strong>写记录</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>18:00-18:30</th>
-            <th>吃饭</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>18:30-19:00</th>
-            <th>写题</th>
-            <th>4</th>
-            <th>感觉是个模板水题</th>
-        </tr>
-        <tr>
-            <th>19:00-19:30</th>
-            <th>写题<strong>|</strong>洗澡</th>
-            <th>3.5</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>19:30-20:00</th>
-            <th>洗澡<strong>|</strong>看视频</th>
-            <th>1</th>
-            <th>你在干嘛？</th>
-        </tr>
-        <tr>
-            <th>20:00-20:30</th>
-            <th>写题</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>20:30-21:00</th>
-            <th>废</th>
-            <th>0</th>
-            <th>QAQ</th>
-        </tr>
-        <tr>
-            <th>21:00-21:30</th>
-            <th>废</th>
-            <th>0</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>21:30-22:00</th>
-            <th>废</th>
-            <th>0</th>
-            <th>同上↑同上↑</th>
-        </tr>
-        <tr>
-            <th>22:00-22:30</th>
-            <th>废</th>
-            <th>0</th>
-            <th>同上↑同上↑同上↑</th>
-        </tr>
-</table>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20.03.24|奇怪的知识增加了]]></title>
-        <id>https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200324/</id>
-        <link href="https://Loctopus-hyt.github.io/loctopus.github.io/post/Diary200324/">
-        </link>
-        <updated>2020-03-24T01:48:43.000Z</updated>
-        <summary type="html"><![CDATA[<p>  天气:晴                Tue   星期二<br>
-  农历三月初一  春分</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>  天气:晴                Tue   星期二<br>
-  农历三月初一  春分</p>
-<!-- more -->
-<!--
-    可能要用到的代码
-    &emsp;                     空格，占一个汉字
-    &thinsp;                    细空格   6*&thinsp; ≈&emsp;
-    <strong></strong> 加粗
-    <br>                         换行标签
--->
-<blockquote>
-<p>世界上只有一种英雄主义，就是看清生活的真相之后，依然热爱生活。<br>
-                                     ——罗曼·罗兰</p>
-</blockquote>
-<p>  最近总是早醒，糟心。<br>
-  久违的燕姐的课，太棒了QWQ，tqltqltql，三连打call。政治课开始还有认真做笔记，后面就游离了，最后几分钟还冲出去种花。手太残了，好像把种子都撒到一边去了...感觉今天又做了些Treap的学习笔记，对它的理解更进了一步，只是调格式的时间花的有点久吧。<br>
-  今天就先写到这。</p>
-<p>附：时间表</p>
-<table><tbody>
-        <tr>
-            <th align="center" width="150" >时间</th>
-            <th align="center" width="450" >事件</th>
-            <th align="center" width="80" >得分</th>
-            <th align="center" width="270" >备注</th>
-        </tr>
-        <tr>
-            <th>7:30-8:00</th>
-            <th>起床、洗漱、吃饭</th>
-            <th>3</th>
-            <th>早醒就爬起来啊QAQ</th>
-        </tr>
-        <tr>
-            <th>8:00-8:30</th>
-            <th>数学课<strong>|</strong>课间休息</th>
-            <th>4.5</th>
-            <th>复习圆锥曲线</th>
-        </tr>
-        <tr>
-            <th>8:30-9:00</th>
-            <th>数学课</th>
-            <th>4.5</th>
-            <th>燕姐太棒啦</th>
-        </tr>
-        <tr>
-            <th>9:00-9:30</th>
-            <th>数学课</th>
-            <th>4.5</th>
-            <th>tql</th>
-        </tr>
-        <tr>
-            <th>9:30-10:00</th>
-            <th>休息<strong>|</strong>写记录<strong>|</strong>看资讯</th>
-            <th>3</th>
-            <th align="center">怎么一不小心<br>就开始看了</th>
-        </tr>
-        <tr>
-            <th>10:00-10:30</th>
-            <th>生物课</th>
-            <th>3</th>
-            <th>哎呀，练习没做QAQ</th>
-        </tr>
-        <tr>
-            <th>10:30-11:00</th>
-            <th>生物课<strong>|</strong>课间休息</th>
-            <th>4</th>
-            <th>有在听啦</th>
-        </tr>
-        <tr>
-            <th>11:00-11:30</th>
-            <th>生物课</th>
-            <th>3.5</th>
-            <th>最后不是太认真</th>
-        </tr>
-        <tr>
-            <th>11:30-12:00</th>
-            <th>研究Treap</th>
-            <th>4</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>12:00-12:30</th>
-            <th>吃饭</th>
-            <th>3</th>
-            <th>蛏，又是你</th>
-        </tr>
-        <tr>
-            <th>12:30-13:00</th>
-            <th>吃饭<strong>|</strong>散步</th>
-            <th>3</th>
-            <th>溜达溜达心情好</th>
-        </tr>
-        <tr>
-            <th>13:00-13:30</th>
-            <th>Treap Learning Note</th>
-            <th>3.5</th>
-            <th>升华</th>
-        </tr>
-        <tr>
-            <th>13:30-14:00</th>
-            <th>Treap Learning Note</th>
-            <th>4</th>
-            <th>升华++</th>
-        </tr>
-        <tr>
-            <th>14:00-14:30</th>
-            <th>政治课</th>
-            <th>3.5</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>14:30-15:00</th>
-            <th>政治课<strong>|</strong>课间休息<strong>|</strong>看哔哩哔哩</th>
-            <th>2.5</th>
-            <th>离线ing...</th>
-        </tr>
-        <tr>
-            <th>15:00-15:30</th>
-            <th>政治课<strong>|</strong>种花</th>
-            <th>2.5</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>15:30-16:00</th>
-            <th>种花<strong>|</strong>休息<strong>|</strong>写记录</th>
-            <th>3</th>
-            <th>手太残了</th>
-        </tr>
-        <tr>
-            <th>16:00-16:30</th>
-            <th>化学课</th>
-            <th>3</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>16:30-17:00</th>
-            <th>化学课<strong>|</strong>课间休息</th>
-            <th>3.5</th>
-            <th>有点游离</th>
-        </tr>
-        <tr>
-            <th>17:00-17:30</th>
-            <th>化学课</th>
-            <th>3</th>
-            <th>同上↑</th>
-        </tr>
-        <tr>
-            <th>17:30-18:00</th>
-            <th>Treap Learning Note</th>
-            <th></th>
-            <th>我的心血...</th>
-        </tr>
-        <tr>
-            <th>18:00-18:30</th>
-            <th>吃饭饭</th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>18:30-19:00</th>
-            <th>ppball</th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>19:00-19:30</th>
-            <th>汇总作业<strong>|</strong>看QQ空间</th>
-            <th>1</th>
-            <th>最近怎么什么都看？？？</th>
-        </tr>
-        <tr>
-            <th>19:30-20:00</th>
-            <th>Treap Learning Note<strong>|</strong>调格式</th>
-            <th>1</th>
-            <th>都在调整格式QAQ</th>
-        </tr>
-        <tr>
-            <th>20:00-20:30</th>
-            <th>调格式<strong>|</strong>写记录<strong>|</strong>休息</th>
-            <th>1.5</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>20:30-21:00</th>
-            <th>数学练习册</th>
-            <th>4</th>
-            <th></th>
-        </tr>
-        <tr>
-            <th>21:00-21:30</th>
-            <th>数学练习册</th>
-            <th>3</th>
-            <th>with music</th>
-        </tr>
-        <tr>
-            <th>21:30-22:00</th>
-            <th>吃拌面<strong>|</strong>ppball</th>
-            <th>3</th>
-            <th>好吃</th>
-        </tr>
-        <tr>
-            <th>22:00-22:30</th>
-            <th>看ppball</th>
-            <th>2</th>
-            <th>怎么开始看了</th>
-        </tr>
-        <tr>
-            <th>22:30-23:00</th>
-            <th>看ppball</th>
-            <th>1.5</th>
-            <th>看了好久，lsw输了！！！</th>
         </tr>
 </table>]]></content>
     </entry>
