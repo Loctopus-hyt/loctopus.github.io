@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>20.07.06校模拟赛简易题解 | loctopus</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://Loctopus-hyt.github.io/loctopus.github.io//favicon.ico?v=1594034063925">
+<link rel="stylesheet" href="https://Loctopus-hyt.github.io/loctopus.github.io//styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="T3
+  主要综合了两部分：111.约数个数定理    222.与素数有关的区间问题
+  Part1Part1Part1 可以做洛谷P1445P1445P1445，Part2Part2Part2可以做洛谷P1835P1835P1835
+  ..." />
+    <meta name="keywords" content="" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://Loctopus-hyt.github.io/loctopus.github.io/">
+        <img src="https://Loctopus-hyt.github.io/loctopus.github.io//images/avatar.png?v=1594034063925" class="site-logo">
+        <h1 class="site-title">loctopus</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="https://loctopus-hyt.github.io/loctopus.github.io/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="https://Loctopus-hyt.github.io/loctopus.github.io/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="https://loctopus-hyt.github.io/loctopus.github.io/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+          <a class="social-link" href="https://github.com/Loctopus-hyt" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      我永远都没有长大  但我永远都没有停止生长
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://Loctopus-hyt.github.io/loctopus.github.io//atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">20.07.06校模拟赛简易题解</h2>
+            <div class="post-date">2020-07-06</div>
+            
+            <div class="post-content" v-pre>
+              <h3 id="t3">T3</h3>
+<p>  主要综合了两部分：<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span>.约数个数定理    <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span>.与素数有关的区间问题<br>
+  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>P</mi><mi>a</mi><mi>r</mi><mi>t</mi><mn>1</mn></mrow><annotation encoding="application/x-tex">Part1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mord mathdefault">a</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault">t</span><span class="mord">1</span></span></span></span> 可以做洛谷<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>P</mi><mn>1445</mn></mrow><annotation encoding="application/x-tex">P1445</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mord">1</span><span class="mord">4</span><span class="mord">4</span><span class="mord">5</span></span></span></span>，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>P</mi><mi>a</mi><mi>r</mi><mi>t</mi><mn>2</mn></mrow><annotation encoding="application/x-tex">Part2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mord mathdefault">a</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault">t</span><span class="mord">2</span></span></span></span>可以做洛谷<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>P</mi><mn>1835</mn></mrow><annotation encoding="application/x-tex">P1835</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mord">1</span><span class="mord">8</span><span class="mord">3</span><span class="mord">5</span></span></span></span><br>
+  <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>P</mi><mn>1445</mn></mrow><annotation encoding="application/x-tex">P1445</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mord">1</span><span class="mord">4</span><span class="mord">4</span><span class="mord">5</span></span></span></span>中是<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>n</mi><mo>!</mo></mrow><annotation encoding="application/x-tex">n!</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault">n</span><span class="mclose">!</span></span></span></span>的<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span>次方，而本题为一个数的<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>k</mi></mrow><annotation encoding="application/x-tex">k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span>次方，不难看出只需将下图中的<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>2</mn></mrow><annotation encoding="application/x-tex">2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">2</span></span></span></span>*<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>c</mi></mrow><annotation encoding="application/x-tex">c</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">c</span></span></span></span><sub>i</sub> 改为 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>k</mi></mrow><annotation encoding="application/x-tex">k</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.03148em;">k</span></span></span></span>*<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>c</mi></mrow><annotation encoding="application/x-tex">c</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">c</span></span></span></span><sub>i</sub>即可. 至于约数个数定理可参考<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>P</mi><mn>1445</mn></mrow><annotation encoding="application/x-tex">P1445</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mord">1</span><span class="mord">4</span><span class="mord">4</span><span class="mord">5</span></span></span></span>题解或自行上网百度，此处不做赘述，<s>其实是太菜</s>。<br>
+  图在这里（主要看最后一行的因子个数）：<img src="https://Loctopus-hyt.github.io/loctopus.github.io//post-images/1594033975201.png" alt="" loading="lazy"><br>
+  关于区间问题，只好献上我<sub>丑陋的</sub>模板。</p>
+<pre><code class="language-c++">for(ll i=1;i&lt;=cnt&amp;&amp;prime[i]*prime[i]&lt;=r;i++)
+	{//cnt为素数个数
+		int p=prime[i];
+        //j的初始值为第一个被p筛掉的合数
+		for(ll j=max(2*1ll,(l-1)/p+1)*p;j&lt;=r;j+=p)
+		{
+            //....
+		}
+	}
+</code></pre>
+<p>  掌握了以上两个套路部分之后，就是本题套路之外的部分。主要数学知识为若一个数<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span></span></span></span>为合数,则必有一个质因子小于等于<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>s</mi><mi>q</mi><mi>r</mi><mi>t</mi><mo>(</mo><mi>n</mi><mo>)</mo></mrow><annotation encoding="application/x-tex">sqrt(n)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathdefault">s</span><span class="mord mathdefault" style="margin-right:0.03588em;">q</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault">t</span><span class="mopen">(</span><span class="mord mathdefault">n</span><span class="mclose">)</span></span></span></span>。核心代码如下</p>
+<pre><code class="language-c++">for(ll i=1;i&lt;=cnt&amp;&amp;prime[i]*prime[i]&lt;=r;i++)
+	{
+		int p=prime[i];
+		for(ll j=max(2*1ll,(l-1)/p+1)*p;j&lt;=r;j+=p)
+		{
+            //start
+            //num[i]存储的是 i+l-1 f[i]存储的是数i+l-1的约数个数
+			tot=0;
+			while(num[j-l+1]%prime[i]==0)
+				tot++,num[j-l+1]/=prime[i];
+            //tot统计j这个数能被prime[i]整除几次
+			f[j-l+1]=(f[j-l+1]*(tot*k+1)%mod)%mod; //此处运用约数个数定理
+            //end
+		}
+	}
+</code></pre>
+<p>  特别的，若一个数为质数，则在上面的代码中不会被约至<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span>，需要特判（&lt;-坑点）。</p>
+<pre><code class="language-c++">	for(int i=1;i&lt;=r-l+1;i++)
+		if(num[i]&gt;1) f[i]=(f[i]*(k+1))%mod;
+</code></pre>
+<p>  之所以要把<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>l</mi></mrow><annotation encoding="application/x-tex">l</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span></span></span></span>~<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>r</mi></mrow><annotation encoding="application/x-tex">r</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span></span></span></span>之间的数存进<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>n</mi><mi>u</mi><mi>m</mi></mrow><annotation encoding="application/x-tex">num</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span><span class="mord mathdefault">u</span><span class="mord mathdefault">m</span></span></span></span>就是因为最后要特判是否是素数，否则直接用上上面代码的内层循环中的<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>j</mi></mrow><annotation encoding="application/x-tex">j</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.85396em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.05724em;">j</span></span></span></span>的话就判断不出来了。<br>
+搞完一堆之后就是愉快的把答案相加了QwQ。</p>
+
+            </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://Loctopus-hyt.github.io/loctopus.github.io/post/11/">
+                  <h3 class="post-title">
+                    @11
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+  <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad()
+  </script>
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '',
+        clientSecret: '',
+        repo: '',
+        owner: '',
+        admin: [''],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>
